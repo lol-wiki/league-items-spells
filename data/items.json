@@ -1,0 +1,3522 @@
+[
+  {
+    "id": "1001",
+    "en_name": "Boots",
+    "ru_name": "Ботинки"
+  },
+  {
+    "id": "1004",
+    "en_name": "Faerie Charm",
+    "ru_name": "Амулет фей"
+  },
+  {
+    "id": "1006",
+    "en_name": "Rejuvenation Bead",
+    "ru_name": "Заживляющая бусина"
+  },
+  {
+    "id": "1011",
+    "en_name": "Giant's Belt",
+    "ru_name": "Пояс великана"
+  },
+  {
+    "id": "1018",
+    "en_name": "Cloak of Agility",
+    "ru_name": "Плащ ловкости"
+  },
+  {
+    "id": "1026",
+    "en_name": "Blasting Wand",
+    "ru_name": "Разящий жезл"
+  },
+  {
+    "id": "1027",
+    "en_name": "Sapphire Crystal",
+    "ru_name": "Сапфировый кристалл"
+  },
+  {
+    "id": "1028",
+    "en_name": "Ruby Crystal",
+    "ru_name": "Рубиновый кристалл"
+  },
+  {
+    "id": "1029",
+    "en_name": "Cloth Armor",
+    "ru_name": "Тканевая броня"
+  },
+  {
+    "id": "1031",
+    "en_name": "Chain Vest",
+    "ru_name": "Кольчуга"
+  },
+  {
+    "id": "1033",
+    "en_name": "Null-Magic Mantle",
+    "ru_name": "Антимагическая мантия"
+  },
+  {
+    "id": "1035",
+    "en_name": "Emberknife",
+    "ru_name": "Огненный нож"
+  },
+  {
+    "id": "1036",
+    "en_name": "Long Sword",
+    "ru_name": "Длинный меч"
+  },
+  {
+    "id": "1037",
+    "en_name": "Pickaxe",
+    "ru_name": "Кирка"
+  },
+  {
+    "id": "1038",
+    "en_name": "B. F. Sword",
+    "ru_name": "Самый Лучший Меч"
+  },
+  {
+    "id": "1039",
+    "en_name": "Hailblade",
+    "ru_name": "Ледяной клинок"
+  },
+  {
+    "id": "1040",
+    "en_name": "Obsidian Edge",
+    "ru_name": "Обсидиановая грань"
+  },
+  {
+    "id": "1042",
+    "en_name": "Dagger",
+    "ru_name": "Кинжал"
+  },
+  {
+    "id": "1043",
+    "en_name": "Recurve Bow",
+    "ru_name": "Изогнутый лук"
+  },
+  {
+    "id": "1052",
+    "en_name": "Amplifying Tome",
+    "ru_name": "Усиливающий фолиант"
+  },
+  {
+    "id": "1053",
+    "en_name": "Vampiric Scepter",
+    "ru_name": "Вампирский скипетр"
+  },
+  {
+    "id": "1054",
+    "en_name": "Doran's Shield",
+    "ru_name": "Щит Дорана"
+  },
+  {
+    "id": "1055",
+    "en_name": "Doran's Blade",
+    "ru_name": "Клинок Дорана"
+  },
+  {
+    "id": "1056",
+    "en_name": "Doran's Ring",
+    "ru_name": "Кольцо Дорана"
+  },
+  {
+    "id": "1057",
+    "en_name": "Negatron Cloak",
+    "ru_name": "Поглощающий плащ"
+  },
+  {
+    "id": "1058",
+    "en_name": "Needlessly Large Rod",
+    "ru_name": "Слишком Большой Жезл"
+  },
+  {
+    "id": "1082",
+    "en_name": "Dark Seal",
+    "ru_name": "Темная печать"
+  },
+  {
+    "id": "1083",
+    "en_name": "Cull",
+    "ru_name": "Уничтожитель"
+  },
+  {
+    "id": "1086",
+    "en_name": "Doran's Bow",
+    "ru_name": "Лук Дорана"
+  },
+  {
+    "id": "1090",
+    "en_name": "Quest: Top",
+    "ru_name": "Задание: верхняя линия"
+  },
+  {
+    "id": "1091",
+    "en_name": "Quest: Mid",
+    "ru_name": "Задание: средняя линия"
+  },
+  {
+    "id": "1092",
+    "en_name": "Quest: Bot",
+    "ru_name": "Задание: нижняя линия"
+  },
+  {
+    "id": "1093",
+    "en_name": "Quest: Support",
+    "ru_name": "Задание: поддержка"
+  },
+  {
+    "id": "1094",
+    "en_name": "Quest: Jungle",
+    "ru_name": "Задание: лесник"
+  },
+  {
+    "id": "1101",
+    "en_name": "Scorchclaw Pup",
+    "ru_name": "Детеныш огневолка"
+  },
+  {
+    "id": "1102",
+    "en_name": "Gustwalker Hatchling",
+    "ru_name": "Детеныш ветролиса"
+  },
+  {
+    "id": "1103",
+    "en_name": "Mosstomper Seedling",
+    "ru_name": "Детеныш травоящера"
+  },
+  {
+    "id": "1104",
+    "en_name": "Eye of the Herald",
+    "ru_name": "Глаз герольда"
+  },
+  {
+    "id": "1105",
+    "en_name": "Mosstomper Seedling",
+    "ru_name": "Детеныш травоящера"
+  },
+  {
+    "id": "1106",
+    "en_name": "Gustwalker Hatchling",
+    "ru_name": "Детеныш ветролиса"
+  },
+  {
+    "id": "1107",
+    "en_name": "Scorchclaw Pup",
+    "ru_name": "Детеныш огневолка"
+  },
+  {
+    "id": "1111",
+    "en_name": "Jarvan I's",
+    "ru_name": "Обувь Джарвана I"
+  },
+  {
+    "id": "1120",
+    "en_name": "Doran's Helm",
+    "ru_name": "Шлем Дорана"
+  },
+  {
+    "id": "1200",
+    "en_name": "Top Lane Quest",
+    "ru_name": "Задание для верхней линии"
+  },
+  {
+    "id": "1201",
+    "en_name": "Mid Lane Quest",
+    "ru_name": "Задание для средней линии"
+  },
+  {
+    "id": "1202",
+    "en_name": "Bot Lane Quest",
+    "ru_name": "Задание для нижней линии"
+  },
+  {
+    "id": "1203",
+    "en_name": "Support Quest",
+    "ru_name": "Задание для роли поддержки"
+  },
+  {
+    "id": "1204",
+    "en_name": "Jungle Quest",
+    "ru_name": "Задание для лесника"
+  },
+  {
+    "id": "1205",
+    "en_name": "Jungle Quest Reward",
+    "ru_name": "Награда за задание для лесника"
+  },
+  {
+    "id": "1206",
+    "en_name": "Mid Lane Quest Reward",
+    "ru_name": "Награда за задание для средней линии"
+  },
+  {
+    "id": "1207",
+    "en_name": "Bot Lane Quest Reward",
+    "ru_name": "Награда за задание для нижней линии"
+  },
+  {
+    "id": "1208",
+    "en_name": "Support Quest Reward",
+    "ru_name": "Награда за задание для роли поддержки"
+  },
+  {
+    "id": "1209",
+    "en_name": "Jungle Quest Reward",
+    "ru_name": "Награда за задание для лесника"
+  },
+  {
+    "id": "1210",
+    "en_name": "Jungle Quest Reward",
+    "ru_name": "Награда за задание для лесника"
+  },
+  {
+    "id": "1211",
+    "en_name": "Jungle Quest Reward",
+    "ru_name": "Награда за задание для лесника"
+  },
+  {
+    "id": "1220",
+    "en_name": "Unleashed Teleport (Top Lane Quest Reward)",
+    "ru_name": "Усиленный телепорт (награда за задание для верхней линии)"
+  },
+  {
+    "id": "1221",
+    "en_name": "Top Lane Quest Reward",
+    "ru_name": "Награда за задание для верхней линии"
+  },
+  {
+    "id": "1222",
+    "en_name": "Top Lane Quest",
+    "ru_name": "Задание для верхней линии"
+  },
+  {
+    "id": "1500",
+    "en_name": "Penetrating Bullets",
+    "ru_name": "Пробивные заряды"
+  },
+  {
+    "id": "1501",
+    "en_name": "Fortification",
+    "ru_name": "Укрепление"
+  },
+  {
+    "id": "1502",
+    "en_name": "Reinforced Armor",
+    "ru_name": "Усиленная броня"
+  },
+  {
+    "id": "1503",
+    "en_name": "Warden's Eye",
+    "ru_name": "Всевидящий глаз"
+  },
+  {
+    "id": "1504",
+    "en_name": "Vanguard",
+    "ru_name": "Хранитель"
+  },
+  {
+    "id": "1505",
+    "en_name": "Reinforced Armor",
+    "ru_name": "Усиленная броня"
+  },
+  {
+    "id": "1506",
+    "en_name": "Reinforced Armor",
+    "ru_name": "Усиленная броня"
+  },
+  {
+    "id": "1507",
+    "en_name": "Overcharged",
+    "ru_name": "Перегружен"
+  },
+  {
+    "id": "1508",
+    "en_name": "Anti-tower Socks",
+    "ru_name": "Противобашенные носки"
+  },
+  {
+    "id": "1509",
+    "en_name": "Gusto",
+    "ru_name": "Задор"
+  },
+  {
+    "id": "1510",
+    "en_name": "Phreakish Gusto",
+    "ru_name": "Чрезмерный задор"
+  },
+  {
+    "id": "1511",
+    "en_name": "Super Mech Armor",
+    "ru_name": "Броня супер-робота"
+  },
+  {
+    "id": "1512",
+    "en_name": "Super Mech Power Field",
+    "ru_name": "Силовое поле супер-робота"
+  },
+  {
+    "id": "1515",
+    "en_name": "Turret Plating",
+    "ru_name": "Башенные пластины"
+  },
+  {
+    "id": "1516",
+    "en_name": "Structure Bounty",
+    "ru_name": "Награда за строение"
+  },
+  {
+    "id": "1517",
+    "en_name": "Structure Bounty",
+    "ru_name": "Награда за строение"
+  },
+  {
+    "id": "1518",
+    "en_name": "Structure Bounty",
+    "ru_name": "Награда за строение"
+  },
+  {
+    "id": "1519",
+    "en_name": "Structure Bounty",
+    "ru_name": "Награда за строение"
+  },
+  {
+    "id": "1520",
+    "en_name": "OvererchargedHA",
+    "ru_name": "Перегрузка"
+  },
+  {
+    "id": "1521",
+    "en_name": "Fortification",
+    "ru_name": "Укрепление"
+  },
+  {
+    "id": "1522",
+    "en_name": "Tower Power-Up",
+    "ru_name": "Усиление башни"
+  },
+  {
+    "id": "1523",
+    "en_name": "Overcharged",
+    "ru_name": "Перегрузка"
+  },
+  {
+    "id": "1524",
+    "en_name": "Overgrowth",
+    "ru_name": "Разрастание"
+  },
+  {
+    "id": "2001",
+    "en_name": "Recall",
+    "ru_name": "Возвращение"
+  },
+  {
+    "id": "2002",
+    "en_name": "Enhanced Recall",
+    "ru_name": "Улучшенное Возвращение"
+  },
+  {
+    "id": "2003",
+    "en_name": "Health Potion",
+    "ru_name": "Зелье здоровья"
+  },
+  {
+    "id": "2007",
+    "en_name": "Disabled Recall",
+    "ru_name": "Возвращение отключено"
+  },
+  {
+    "id": "2010",
+    "en_name": "Total Biscuit of Everlasting Will",
+    "ru_name": "Тотальная печенька вечной воли"
+  },
+  {
+    "id": "2015",
+    "en_name": "Kircheis Shard",
+    "ru_name": "Осколок Кирхайс"
+  },
+  {
+    "id": "2019",
+    "en_name": "Steel Sigil",
+    "ru_name": "Стальной знак"
+  },
+  {
+    "id": "2020",
+    "en_name": "The Brutalizer",
+    "ru_name": "Изувер"
+  },
+  {
+    "id": "2021",
+    "en_name": "Tunneler",
+    "ru_name": "Бур"
+  },
+  {
+    "id": "2022",
+    "en_name": "Glowing Mote",
+    "ru_name": "Светлячок"
+  },
+  {
+    "id": "2031",
+    "en_name": "Refillable Potion",
+    "ru_name": "Пополняемое зелье"
+  },
+  {
+    "id": "2033",
+    "en_name": "Corrupting Potion",
+    "ru_name": "Вредоносное зелье"
+  },
+  {
+    "id": "2049",
+    "en_name": "Guardian's Amulet",
+    "ru_name": "Амулет стража"
+  },
+  {
+    "id": "2050",
+    "en_name": "Guardian's Shroud",
+    "ru_name": "Накидка стража"
+  },
+  {
+    "id": "2051",
+    "en_name": "Guardian's Horn",
+    "ru_name": "Рог стража"
+  },
+  {
+    "id": "2052",
+    "en_name": "Poro-Snax",
+    "ru_name": "Поро-снэк"
+  },
+  {
+    "id": "2055",
+    "en_name": "Control Ward",
+    "ru_name": "Тотем контроля"
+  },
+  {
+    "id": "2056",
+    "en_name": "Stealth Ward",
+    "ru_name": "Скрытый тотем"
+  },
+  {
+    "id": "2065",
+    "en_name": "Shurelya's Battlesong",
+    "ru_name": "Боевая песнь Шурелии"
+  },
+  {
+    "id": "2138",
+    "en_name": "Elixir of Iron",
+    "ru_name": "Эликсир стали"
+  },
+  {
+    "id": "2139",
+    "en_name": "Elixir of Sorcery",
+    "ru_name": "Эликсир волшебства"
+  },
+  {
+    "id": "2140",
+    "en_name": "Elixir of Wrath",
+    "ru_name": "Эликсир гнева"
+  },
+  {
+    "id": "2141",
+    "en_name": "Cappa Juice",
+    "ru_name": "Шапучий напиток"
+  },
+  {
+    "id": "2142",
+    "en_name": "Juice of Power",
+    "ru_name": "Напиток силы"
+  },
+  {
+    "id": "2143",
+    "en_name": "Juice of Vitality",
+    "ru_name": "Напиток живучести"
+  },
+  {
+    "id": "2144",
+    "en_name": "Juice of Haste",
+    "ru_name": "Напиток ускорения"
+  },
+  {
+    "id": "2145",
+    "en_name": "Lucky Dice",
+    "ru_name": "Счастливые кости"
+  },
+  {
+    "id": "2146",
+    "en_name": "Enhanced Lucky Dice",
+    "ru_name": "Невероятно счастливые кости"
+  },
+  {
+    "id": "2147",
+    "en_name": "Augment Level",
+    "ru_name": "Уровень аугментации"
+  },
+  {
+    "id": "2150",
+    "en_name": "Elixir of Skill",
+    "ru_name": "Эликсир умения"
+  },
+  {
+    "id": "2151",
+    "en_name": "Elixir of Avarice",
+    "ru_name": "Эликсир алчности"
+  },
+  {
+    "id": "2152",
+    "en_name": "Elixir of Force",
+    "ru_name": "Эликсир силы"
+  },
+  {
+    "id": "2161",
+    "en_name": "Bandle Juice of Power",
+    "ru_name": "Бандловый напиток силы"
+  },
+  {
+    "id": "2162",
+    "en_name": "Bandle Juice of Vitality",
+    "ru_name": "Бандловый напиток живучести"
+  },
+  {
+    "id": "2163",
+    "en_name": "Bandle Juice of Haste",
+    "ru_name": "Бандловый напиток ускорения"
+  },
+  {
+    "id": "2403",
+    "en_name": "Minion Dematerializer",
+    "ru_name": "Дезинтегратор миньонов"
+  },
+  {
+    "id": "2420",
+    "en_name": "Seeker's Armguard",
+    "ru_name": "Наручи Искательницы"
+  },
+  {
+    "id": "2421",
+    "en_name": "Shattered Armguard",
+    "ru_name": "Разбитые наручи"
+  },
+  {
+    "id": "2422",
+    "en_name": "Slightly Magical Footwear",
+    "ru_name": "Ботинки с капелькой магии"
+  },
+  {
+    "id": "2501",
+    "en_name": "Overlord's Bloodmail",
+    "ru_name": "Кровавая кольчуга господина"
+  },
+  {
+    "id": "2502",
+    "en_name": "Unending Despair",
+    "ru_name": "Бесконечное отчаяние"
+  },
+  {
+    "id": "2503",
+    "en_name": "Blackfire Torch",
+    "ru_name": "Факел темного огня"
+  },
+  {
+    "id": "2504",
+    "en_name": "Kaenic Rookern",
+    "ru_name": "Кейниковый рукерн"
+  },
+  {
+    "id": "2508",
+    "en_name": "Fated Ashes",
+    "ru_name": "Роковой пепел"
+  },
+  {
+    "id": "2510",
+    "en_name": "Dusk and Dawn",
+    "ru_name": "Рассвет и закат"
+  },
+  {
+    "id": "2512",
+    "en_name": "Fiendhunter Bolts",
+    "ru_name": "Стрелы борца с демонами"
+  },
+  {
+    "id": "2517",
+    "en_name": "Endless Hunger",
+    "ru_name": "Вечный голод"
+  },
+  {
+    "id": "2520",
+    "en_name": "Bastionbreaker",
+    "ru_name": "Гроза укреплений"
+  },
+  {
+    "id": "2522",
+    "en_name": "Actualizer",
+    "ru_name": "Воплотитель"
+  },
+  {
+    "id": "2523",
+    "en_name": "Hexoptics C44",
+    "ru_name": "Хекс-прицел С44"
+  },
+  {
+    "id": "2524",
+    "en_name": "Bandlepipes",
+    "ru_name": "Бандл-трубы"
+  },
+  {
+    "id": "2525",
+    "en_name": "Protoplasm Harness",
+    "ru_name": "Протоплазменная портупея"
+  },
+  {
+    "id": "2526",
+    "en_name": "Whispering Circlet",
+    "ru_name": "Шепчущая диадема"
+  },
+  {
+    "id": "2530",
+    "en_name": "Diadem of Songs",
+    "ru_name": "Диадема песен"
+  },
+  {
+    "id": "3001",
+    "en_name": "Evenshroud",
+    "ru_name": "Вечерний покров"
+  },
+  {
+    "id": "3002",
+    "en_name": "Trailblazer",
+    "ru_name": "Первопроходец"
+  },
+  {
+    "id": "3003",
+    "en_name": "Archangel's Staff",
+    "ru_name": "Посох архангела"
+  },
+  {
+    "id": "3004",
+    "en_name": "Manamune",
+    "ru_name": "Манамунэ"
+  },
+  {
+    "id": "3005",
+    "en_name": "Ghostcrawlers",
+    "ru_name": "Призрачные сапоги"
+  },
+  {
+    "id": "3006",
+    "en_name": "Berserker's Greaves",
+    "ru_name": "Наголенники берсерка"
+  },
+  {
+    "id": "3008",
+    "en_name": "Gluttonous Greaves",
+    "ru_name": "Алчные наголенники"
+  },
+  {
+    "id": "3009",
+    "en_name": "Boots of Swiftness",
+    "ru_name": "Ботинки стремительности"
+  },
+  {
+    "id": "3010",
+    "en_name": "Symbiotic Soles",
+    "ru_name": "Живые сапоги"
+  },
+  {
+    "id": "3011",
+    "en_name": "Chemtech Putrifier",
+    "ru_name": "Химтековый разъедатель"
+  },
+  {
+    "id": "3012",
+    "en_name": "Chalice of Blessing",
+    "ru_name": "Чаша благословения"
+  },
+  {
+    "id": "3013",
+    "en_name": "Synchronized Souls",
+    "ru_name": "Сплетение душ"
+  },
+  {
+    "id": "3020",
+    "en_name": "Sorcerer's Shoes",
+    "ru_name": "Сапоги чародея"
+  },
+  {
+    "id": "3023",
+    "en_name": "Lifewell Pendant",
+    "ru_name": "Кулон жизни"
+  },
+  {
+    "id": "3024",
+    "en_name": "Glacial Buckler",
+    "ru_name": "Ледяной баклер"
+  },
+  {
+    "id": "3026",
+    "en_name": "Guardian Angel",
+    "ru_name": "Ангел-хранитель"
+  },
+  {
+    "id": "3031",
+    "en_name": "Infinity Edge",
+    "ru_name": "Грань Бесконечности"
+  },
+  {
+    "id": "3032",
+    "en_name": "Yun Tal Wildarrows",
+    "ru_name": "Дикие стрелы Юнталь"
+  },
+  {
+    "id": "3033",
+    "en_name": "Mortal Reminder",
+    "ru_name": "Глашатай смерти"
+  },
+  {
+    "id": "3035",
+    "en_name": "Last Whisper",
+    "ru_name": "Предсмертный шепот"
+  },
+  {
+    "id": "3036",
+    "en_name": "Lord Dominik's Regards",
+    "ru_name": "Поклон лорда Доминика"
+  },
+  {
+    "id": "3039",
+    "en_name": "Atma's Reckoning",
+    "ru_name": "Расплата Атмы"
+  },
+  {
+    "id": "3040",
+    "en_name": "Seraph's Embrace",
+    "ru_name": "Объятья серафима"
+  },
+  {
+    "id": "3041",
+    "en_name": "Mejai's Soulstealer",
+    "ru_name": "Пожиратель душ Меджай"
+  },
+  {
+    "id": "3042",
+    "en_name": "Muramana",
+    "ru_name": "Мурамана"
+  },
+  {
+    "id": "3044",
+    "en_name": "Phage",
+    "ru_name": "Поглотитель"
+  },
+  {
+    "id": "3046",
+    "en_name": "Phantom Dancer",
+    "ru_name": "Призрачный Танцор"
+  },
+  {
+    "id": "3047",
+    "en_name": "Plated Steelcaps",
+    "ru_name": "Бронированные сапоги"
+  },
+  {
+    "id": "3050",
+    "en_name": "Zeke's Convergence",
+    "ru_name": "Конвергенция Зика"
+  },
+  {
+    "id": "3051",
+    "en_name": "Hearthbound Axe",
+    "ru_name": "Топор Теплолюбивых"
+  },
+  {
+    "id": "3053",
+    "en_name": "Sterak's Gage",
+    "ru_name": "Испытание Стерака"
+  },
+  {
+    "id": "3057",
+    "en_name": "Sheen",
+    "ru_name": "Сияние"
+  },
+  {
+    "id": "3065",
+    "en_name": "Spirit Visage",
+    "ru_name": "Облачение духов"
+  },
+  {
+    "id": "3066",
+    "en_name": "Winged Moonplate",
+    "ru_name": "Крылья луны"
+  },
+  {
+    "id": "3067",
+    "en_name": "Kindlegem",
+    "ru_name": "Воспламеняющий камень"
+  },
+  {
+    "id": "3068",
+    "en_name": "Sunfire Aegis",
+    "ru_name": "Эгида солнечного пламени"
+  },
+  {
+    "id": "3070",
+    "en_name": "Tear of the Goddess",
+    "ru_name": "Слеза богини"
+  },
+  {
+    "id": "3071",
+    "en_name": "Black Cleaver",
+    "ru_name": "Черная секира"
+  },
+  {
+    "id": "3072",
+    "en_name": "Bloodthirster",
+    "ru_name": "Кровопийца"
+  },
+  {
+    "id": "3073",
+    "en_name": "Experimental Hexplate",
+    "ru_name": "Экспериментальная хекстековая броня"
+  },
+  {
+    "id": "3074",
+    "en_name": "Ravenous Hydra",
+    "ru_name": "Ненасытная гидра"
+  },
+  {
+    "id": "3075",
+    "en_name": "Thornmail",
+    "ru_name": "Шипованный доспех"
+  },
+  {
+    "id": "3076",
+    "en_name": "Bramble Vest",
+    "ru_name": "Терновый жилет"
+  },
+  {
+    "id": "3077",
+    "en_name": "Tiamat",
+    "ru_name": "Тиамат"
+  },
+  {
+    "id": "3078",
+    "en_name": "Trinity Force",
+    "ru_name": "Тройственный Союз"
+  },
+  {
+    "id": "3082",
+    "en_name": "Warden's Mail",
+    "ru_name": "Доспех хранителя"
+  },
+  {
+    "id": "3083",
+    "en_name": "Warmog's Armor",
+    "ru_name": "Доспех Вармога"
+  },
+  {
+    "id": "3084",
+    "en_name": "Heartsteel",
+    "ru_name": "Сердце стали"
+  },
+  {
+    "id": "3085",
+    "en_name": "Runaan's Hurricane",
+    "ru_name": "Ураган Рунаан"
+  },
+  {
+    "id": "3086",
+    "en_name": "Zeal",
+    "ru_name": "Рвение"
+  },
+  {
+    "id": "3087",
+    "en_name": "Statikk Shiv",
+    "ru_name": "Заточка Статикка"
+  },
+  {
+    "id": "3089",
+    "en_name": "Rabadon's Deathcap",
+    "ru_name": "Смертельная шляпа Рабадона"
+  },
+  {
+    "id": "3091",
+    "en_name": "Wit's End",
+    "ru_name": "Смерть Разума"
+  },
+  {
+    "id": "3094",
+    "en_name": "Rapid Firecannon",
+    "ru_name": "Скорострельная пушка"
+  },
+  {
+    "id": "3095",
+    "en_name": "Deprecated item",
+    "ru_name": "Устаревший предмет"
+  },
+  {
+    "id": "3097",
+    "en_name": "Stormrazor",
+    "ru_name": "Грозовая бритва"
+  },
+  {
+    "id": "3100",
+    "en_name": "Lich Bane",
+    "ru_name": "Гроза Личей"
+  },
+  {
+    "id": "3102",
+    "en_name": "Banshee's Veil",
+    "ru_name": "Завеса банши"
+  },
+  {
+    "id": "3105",
+    "en_name": "Aegis of the Legion",
+    "ru_name": "Эгида Легиона"
+  },
+  {
+    "id": "3107",
+    "en_name": "Redemption",
+    "ru_name": "Искупление"
+  },
+  {
+    "id": "3108",
+    "en_name": "Fiendish Codex",
+    "ru_name": "Бесовской манускрипт"
+  },
+  {
+    "id": "3109",
+    "en_name": "Knight's Vow",
+    "ru_name": "Клятва рыцаря"
+  },
+  {
+    "id": "3110",
+    "en_name": "Frozen Heart",
+    "ru_name": "Ледяное сердце"
+  },
+  {
+    "id": "3111",
+    "en_name": "Mercury's Treads",
+    "ru_name": "Поступь Меркурия"
+  },
+  {
+    "id": "3112",
+    "en_name": "Guardian's Orb",
+    "ru_name": "Сфера стража"
+  },
+  {
+    "id": "3113",
+    "en_name": "Aether Wisp",
+    "ru_name": "Эфирный всполох"
+  },
+  {
+    "id": "3114",
+    "en_name": "Forbidden Idol",
+    "ru_name": "Запретный идол"
+  },
+  {
+    "id": "3115",
+    "en_name": "Nashor's Tooth",
+    "ru_name": "Зуб Нашора"
+  },
+  {
+    "id": "3116",
+    "en_name": "Rylai's Crystal Scepter",
+    "ru_name": "Хрустальный скипетр Рилай"
+  },
+  {
+    "id": "3117",
+    "en_name": "Mobility Boots",
+    "ru_name": "Ботинки подвижности"
+  },
+  {
+    "id": "3118",
+    "en_name": "Malignance",
+    "ru_name": "Пагубность"
+  },
+  {
+    "id": "3119",
+    "en_name": "Winter's Approach",
+    "ru_name": "Вестник зимы"
+  },
+  {
+    "id": "3121",
+    "en_name": "Fimbulwinter",
+    "ru_name": "Великанская зима"
+  },
+  {
+    "id": "3123",
+    "en_name": "Executioner's Calling",
+    "ru_name": "Призвание Палача"
+  },
+  {
+    "id": "3124",
+    "en_name": "Guinsoo's Rageblade",
+    "ru_name": "Клинок ярости Гинсу"
+  },
+  {
+    "id": "3128",
+    "en_name": "Deathfire Grasp",
+    "ru_name": "Держава смертельного пламени"
+  },
+  {
+    "id": "3131",
+    "en_name": "Sword of the Divine",
+    "ru_name": "Меч Божественных"
+  },
+  {
+    "id": "3133",
+    "en_name": "Caulfield's Warhammer",
+    "ru_name": "Боевой молот Колфилда"
+  },
+  {
+    "id": "3134",
+    "en_name": "Serrated Dirk",
+    "ru_name": "Зазубренный кинжал"
+  },
+  {
+    "id": "3135",
+    "en_name": "Void Staff",
+    "ru_name": "Посох Бездны"
+  },
+  {
+    "id": "3137",
+    "en_name": "Cryptbloom",
+    "ru_name": "Могильный цветок"
+  },
+  {
+    "id": "3139",
+    "en_name": "Mercurial Scimitar",
+    "ru_name": "Ртутный ятаган"
+  },
+  {
+    "id": "3140",
+    "en_name": "Quicksilver Sash",
+    "ru_name": "Кушак стремительного серебра"
+  },
+  {
+    "id": "3142",
+    "en_name": "Youmuu's Ghostblade",
+    "ru_name": "Призрачный клинок Йомуу"
+  },
+  {
+    "id": "3143",
+    "en_name": "Randuin's Omen",
+    "ru_name": "Знамение Рандуина"
+  },
+  {
+    "id": "3144",
+    "en_name": "Scout's Slingshot",
+    "ru_name": "Рогатка скаута"
+  },
+  {
+    "id": "3145",
+    "en_name": "Hextech Alternator",
+    "ru_name": "Хекстек-альтернатор"
+  },
+  {
+    "id": "3146",
+    "en_name": "Hextech Gunblade",
+    "ru_name": "Хекстековый штык"
+  },
+  {
+    "id": "3147",
+    "en_name": "Haunting Guise",
+    "ru_name": "Преследующая маска"
+  },
+  {
+    "id": "3152",
+    "en_name": "Hextech Rocketbelt",
+    "ru_name": "Хекстековый ракетный ремень"
+  },
+  {
+    "id": "3153",
+    "en_name": "Blade of The Ruined King",
+    "ru_name": "Клинок Падшего короля"
+  },
+  {
+    "id": "3155",
+    "en_name": "Hexdrinker",
+    "ru_name": "Пожиратель заклятий"
+  },
+  {
+    "id": "3156",
+    "en_name": "Maw of Malmortius",
+    "ru_name": "Зев Малмортиуса"
+  },
+  {
+    "id": "3157",
+    "en_name": "Zhonya's Hourglass",
+    "ru_name": "Песочные часы Жони"
+  },
+  {
+    "id": "3158",
+    "en_name": "Ionian Boots of Lucidity",
+    "ru_name": "Ионийские сапоги просветления"
+  },
+  {
+    "id": "3161",
+    "en_name": "Spear of Shojin",
+    "ru_name": "Копье Седзина"
+  },
+  {
+    "id": "3165",
+    "en_name": "Morellonomicon",
+    "ru_name": "Мореллономикон"
+  },
+  {
+    "id": "3168",
+    "en_name": "Immortal Path",
+    "ru_name": "Путь бессмертного"
+  },
+  {
+    "id": "3170",
+    "en_name": "Swiftmarch",
+    "ru_name": "Стремительный марш"
+  },
+  {
+    "id": "3171",
+    "en_name": "Crimson Lucidity",
+    "ru_name": "Алое просветление"
+  },
+  {
+    "id": "3172",
+    "en_name": "Gunmetal Greaves",
+    "ru_name": "Наголенники из орудийной стали"
+  },
+  {
+    "id": "3173",
+    "en_name": "Chainlaced Crushers",
+    "ru_name": "Цепные крушители"
+  },
+  {
+    "id": "3174",
+    "en_name": "Armored Advance",
+    "ru_name": "Тяжелое наступление"
+  },
+  {
+    "id": "3175",
+    "en_name": "Spellslinger's Shoes",
+    "ru_name": "Сапоги заклинателя"
+  },
+  {
+    "id": "3176",
+    "en_name": "Forever Forward",
+    "ru_name": "Только вперед"
+  },
+  {
+    "id": "3177",
+    "en_name": "Guardian's Blade",
+    "ru_name": "Клинок стража"
+  },
+  {
+    "id": "3179",
+    "en_name": "Umbral Glaive",
+    "ru_name": "Теневая глефа"
+  },
+  {
+    "id": "3181",
+    "en_name": "Hullbreaker",
+    "ru_name": "Бортолом"
+  },
+  {
+    "id": "3184",
+    "en_name": "Guardian's Hammer",
+    "ru_name": "Молот стража"
+  },
+  {
+    "id": "3190",
+    "en_name": "Locket of the Iron Solari",
+    "ru_name": "Медальон Железных Солари"
+  },
+  {
+    "id": "3193",
+    "en_name": "Gargoyle Stoneplate",
+    "ru_name": "Каменный доспех гаргульи"
+  },
+  {
+    "id": "3211",
+    "en_name": "Spectre's Cowl",
+    "ru_name": "Капюшон призрака"
+  },
+  {
+    "id": "3222",
+    "en_name": "Mikael's Blessing",
+    "ru_name": "Благословение Микаэля"
+  },
+  {
+    "id": "3302",
+    "en_name": "Terminus",
+    "ru_name": "Светотень"
+  },
+  {
+    "id": "3330",
+    "en_name": "Scarecrow Effigy",
+    "ru_name": "Чучело"
+  },
+  {
+    "id": "3340",
+    "en_name": "Stealth Ward",
+    "ru_name": "Скрытый тотем"
+  },
+  {
+    "id": "3348",
+    "en_name": "Arcane Sweeper",
+    "ru_name": "Волшебный чистильщик"
+  },
+  {
+    "id": "3349",
+    "en_name": "Lucent Singularity",
+    "ru_name": "Светящаяся сингулярность"
+  },
+  {
+    "id": "3363",
+    "en_name": "Farsight Alteration",
+    "ru_name": "Всевидящая альтернатива"
+  },
+  {
+    "id": "3364",
+    "en_name": "Oracle Lens",
+    "ru_name": "Лупа оракула"
+  },
+  {
+    "id": "3398",
+    "en_name": "Small Party Favor",
+    "ru_name": "Маленький гостинец"
+  },
+  {
+    "id": "3399",
+    "en_name": "Party Favor",
+    "ru_name": "Гостинец"
+  },
+  {
+    "id": "3400",
+    "en_name": "Your Cut",
+    "ru_name": "Твоя доля"
+  },
+  {
+    "id": "3430",
+    "en_name": "Rite Of Ruin",
+    "ru_name": "Ритуал уничтожения"
+  },
+  {
+    "id": "3504",
+    "en_name": "Ardent Censer",
+    "ru_name": "Пылающая кадильница"
+  },
+  {
+    "id": "3508",
+    "en_name": "Essence Reaver",
+    "ru_name": "Похититель сущности"
+  },
+  {
+    "id": "3513",
+    "en_name": "Eye of the Herald",
+    "ru_name": "Глаз герольда"
+  },
+  {
+    "id": "3599",
+    "en_name": "Kalista's Black Spear",
+    "ru_name": "Черное копье Калисты"
+  },
+  {
+    "id": "3600",
+    "en_name": "Kalista's Black Spear",
+    "ru_name": "Черное копье Калисты"
+  },
+  {
+    "id": "3742",
+    "en_name": "Dead Man's Plate",
+    "ru_name": "Броня мертвеца"
+  },
+  {
+    "id": "3748",
+    "en_name": "Titanic Hydra",
+    "ru_name": "Титаническая гидра"
+  },
+  {
+    "id": "3801",
+    "en_name": "Crystalline Bracer",
+    "ru_name": "Кристаллические наручи"
+  },
+  {
+    "id": "3802",
+    "en_name": "Lost Chapter",
+    "ru_name": "Потерянная глава"
+  },
+  {
+    "id": "3803",
+    "en_name": "Catalyst of Aeons",
+    "ru_name": "Катализатор эонов"
+  },
+  {
+    "id": "3814",
+    "en_name": "Edge of Night",
+    "ru_name": "Грань ночи"
+  },
+  {
+    "id": "3850",
+    "en_name": "Spellthief's Edge",
+    "ru_name": "Клинок похитителя магии"
+  },
+  {
+    "id": "3851",
+    "en_name": "Frostfang",
+    "ru_name": "Морозный клык"
+  },
+  {
+    "id": "3853",
+    "en_name": "Shard of True Ice",
+    "ru_name": "Осколок Истинного льда"
+  },
+  {
+    "id": "3854",
+    "en_name": "Steel Shoulderguards",
+    "ru_name": "Стальные наплечники"
+  },
+  {
+    "id": "3855",
+    "en_name": "Runesteel Spaulders",
+    "ru_name": "Оплечье из рунной стали"
+  },
+  {
+    "id": "3857",
+    "en_name": "Pauldrons of Whiterock",
+    "ru_name": "Эполеты Белого камня"
+  },
+  {
+    "id": "3858",
+    "en_name": "Relic Shield",
+    "ru_name": "Древний щит"
+  },
+  {
+    "id": "3859",
+    "en_name": "Targon's Buckler",
+    "ru_name": "Баклер Таргона"
+  },
+  {
+    "id": "3860",
+    "en_name": "Bulwark of the Mountain",
+    "ru_name": "Оплот горы"
+  },
+  {
+    "id": "3862",
+    "en_name": "Spectral Sickle",
+    "ru_name": "Призрачный серп"
+  },
+  {
+    "id": "3863",
+    "en_name": "Harrowing Crescent",
+    "ru_name": "Страховинский крюк"
+  },
+  {
+    "id": "3864",
+    "en_name": "Black Mist Scythe",
+    "ru_name": "Коса черного тумана"
+  },
+  {
+    "id": "3865",
+    "en_name": "World Atlas",
+    "ru_name": "Атлас мира"
+  },
+  {
+    "id": "3866",
+    "en_name": "Runic Compass",
+    "ru_name": "Рунный компас"
+  },
+  {
+    "id": "3867",
+    "en_name": "Bounty of Worlds",
+    "ru_name": "Сокровище миров"
+  },
+  {
+    "id": "3869",
+    "en_name": "Celestial Opposition",
+    "ru_name": "Небесное противостояние"
+  },
+  {
+    "id": "3870",
+    "en_name": "Dream Maker",
+    "ru_name": "Сновичок"
+  },
+  {
+    "id": "3871",
+    "en_name": "Zaz'Zak's Realmspike",
+    "ru_name": "Нарыв Зак'Зака"
+  },
+  {
+    "id": "3876",
+    "en_name": "Solstice Sleigh",
+    "ru_name": "Сани солнцестояния"
+  },
+  {
+    "id": "3877",
+    "en_name": "Bloodsong",
+    "ru_name": "Кровавая песнь"
+  },
+  {
+    "id": "3901",
+    "en_name": "Fire at Will 500 Silver Serpents",
+    "ru_name": "Стрельба по готовности 500 серебряных змей"
+  },
+  {
+    "id": "3902",
+    "en_name": "Death's Daughter 500 Silver Serpents",
+    "ru_name": "Дочь смерти 500 серебряных змей"
+  },
+  {
+    "id": "3903",
+    "en_name": "Raise Morale 500 Silver Serpents",
+    "ru_name": "Боевой дух 500 серебряных змей"
+  },
+  {
+    "id": "3916",
+    "en_name": "Oblivion Orb",
+    "ru_name": "Сфера забвения"
+  },
+  {
+    "id": "4003",
+    "en_name": "Lifeline",
+    "ru_name": "Линия жизни"
+  },
+  {
+    "id": "4004",
+    "en_name": "Spectral Cutlass",
+    "ru_name": "Призрачная сабля"
+  },
+  {
+    "id": "4005",
+    "en_name": "Imperial Mandate",
+    "ru_name": "Имперский мандат"
+  },
+  {
+    "id": "4010",
+    "en_name": "Bloodletter's Curse",
+    "ru_name": "Проклятие кровопускателя"
+  },
+  {
+    "id": "4011",
+    "en_name": "Sword of Blossoming Dawn",
+    "ru_name": "Меч сияющего рассвета"
+  },
+  {
+    "id": "4012",
+    "en_name": "Sin Eater",
+    "ru_name": "Пожиратель грехов"
+  },
+  {
+    "id": "4013",
+    "en_name": "Lightning Braid",
+    "ru_name": "Вспышка молнии"
+  },
+  {
+    "id": "4014",
+    "en_name": "Frozen Mallet",
+    "ru_name": "Замерзший молот"
+  },
+  {
+    "id": "4015",
+    "en_name": "Perplexity",
+    "ru_name": "Замешательство"
+  },
+  {
+    "id": "4016",
+    "en_name": "Wordless Promise",
+    "ru_name": "Молчаливое обещание"
+  },
+  {
+    "id": "4017",
+    "en_name": "Hellfire Hatchet",
+    "ru_name": "Топор адского пламени"
+  },
+  {
+    "id": "4401",
+    "en_name": "Force of Nature",
+    "ru_name": "Сила природы"
+  },
+  {
+    "id": "4402",
+    "en_name": "Innervating Locket",
+    "ru_name": "Восстанавливающий медальон"
+  },
+  {
+    "id": "4403",
+    "en_name": "The Golden Spatula",
+    "ru_name": "Золотая лопатка"
+  },
+  {
+    "id": "4628",
+    "en_name": "Horizon Focus",
+    "ru_name": "Хекстековый прицел"
+  },
+  {
+    "id": "4629",
+    "en_name": "Cosmic Drive",
+    "ru_name": "Космический ускоритель"
+  },
+  {
+    "id": "4630",
+    "en_name": "Blighting Jewel",
+    "ru_name": "Вредоносный самоцвет"
+  },
+  {
+    "id": "4632",
+    "en_name": "Verdant Barrier",
+    "ru_name": "Изумрудный оберег"
+  },
+  {
+    "id": "4633",
+    "en_name": "Riftmaker",
+    "ru_name": "Творец разломов"
+  },
+  {
+    "id": "4635",
+    "en_name": "Leeching Leer",
+    "ru_name": "Губительный взор"
+  },
+  {
+    "id": "4636",
+    "en_name": "Night Harvester",
+    "ru_name": "Ночной жнец"
+  },
+  {
+    "id": "4637",
+    "en_name": "Demonic Embrace",
+    "ru_name": "Объятия демона"
+  },
+  {
+    "id": "4638",
+    "en_name": "Watchful Wardstone",
+    "ru_name": "Бдительный защитный камень"
+  },
+  {
+    "id": "4641",
+    "en_name": "Stirring Wardstone",
+    "ru_name": "Зоркий защитный камень"
+  },
+  {
+    "id": "4642",
+    "en_name": "Bandleglass Mirror",
+    "ru_name": "Зеркало йордлов"
+  },
+  {
+    "id": "4643",
+    "en_name": "Vigilant Wardstone",
+    "ru_name": "Неусыпный защитный камень"
+  },
+  {
+    "id": "4644",
+    "en_name": "Crown of the Shattered Queen",
+    "ru_name": "Венец Расколотой королевы"
+  },
+  {
+    "id": "4645",
+    "en_name": "Shadowflame",
+    "ru_name": "Сумрачное пламя"
+  },
+  {
+    "id": "4646",
+    "en_name": "Stormsurge",
+    "ru_name": "Штормовой прилив"
+  },
+  {
+    "id": "6029",
+    "en_name": "Ironspike Whip",
+    "ru_name": "Железный кнут"
+  },
+  {
+    "id": "6032",
+    "en_name": "Stat Bonus",
+    "ru_name": "Прибавка к показателям"
+  },
+  {
+    "id": "6035",
+    "en_name": "Silvermere Dawn",
+    "ru_name": "Сильвермирская заря"
+  },
+  {
+    "id": "6333",
+    "en_name": "Death's Dance",
+    "ru_name": "Танец смерти"
+  },
+  {
+    "id": "6609",
+    "en_name": "Chempunk Chainsword",
+    "ru_name": "Нож-пила химпанка"
+  },
+  {
+    "id": "6610",
+    "en_name": "Sundered Sky",
+    "ru_name": "Расколотое небо"
+  },
+  {
+    "id": "6616",
+    "en_name": "Staff of Flowing Water",
+    "ru_name": "Посох водного потока"
+  },
+  {
+    "id": "6617",
+    "en_name": "Moonstone Renewer",
+    "ru_name": "Исцеляющий лунный камень"
+  },
+  {
+    "id": "6620",
+    "en_name": "Echoes of Helia",
+    "ru_name": "Эхо Гелии"
+  },
+  {
+    "id": "6621",
+    "en_name": "Dawncore",
+    "ru_name": "Ядро рассвета"
+  },
+  {
+    "id": "6630",
+    "en_name": "Goredrinker",
+    "ru_name": "Потрошитель"
+  },
+  {
+    "id": "6631",
+    "en_name": "Stridebreaker",
+    "ru_name": "Костолом"
+  },
+  {
+    "id": "6632",
+    "en_name": "Divine Sunderer",
+    "ru_name": "Сокрушитель богов"
+  },
+  {
+    "id": "6653",
+    "en_name": "Liandry's Torment",
+    "ru_name": "Мучения Лиандри"
+  },
+  {
+    "id": "6655",
+    "en_name": "Luden's Echo",
+    "ru_name": "Эхо Людена"
+  },
+  {
+    "id": "6656",
+    "en_name": "Everfrost",
+    "ru_name": "Вечный холод"
+  },
+  {
+    "id": "6657",
+    "en_name": "Rod of Ages",
+    "ru_name": "Жезл веков"
+  },
+  {
+    "id": "6660",
+    "en_name": "Bami's Cinder",
+    "ru_name": "Пепел Бами"
+  },
+  {
+    "id": "6662",
+    "en_name": "Iceborn Gauntlet",
+    "ru_name": "Хладорожденная рукавица"
+  },
+  {
+    "id": "6664",
+    "en_name": "Hollow Radiance",
+    "ru_name": "Сияние пустоты"
+  },
+  {
+    "id": "6665",
+    "en_name": "Jak'Sho, The Protean",
+    "ru_name": "Жак'Шо Многоликий"
+  },
+  {
+    "id": "6667",
+    "en_name": "Radiant Virtue",
+    "ru_name": "Сияющая добродетель"
+  },
+  {
+    "id": "6670",
+    "en_name": "Noonquiver",
+    "ru_name": "Полуденный колчан"
+  },
+  {
+    "id": "6671",
+    "en_name": "Galeforce",
+    "ru_name": "Сила шторма"
+  },
+  {
+    "id": "6672",
+    "en_name": "Kraken Slayer",
+    "ru_name": "Убийца кракенов"
+  },
+  {
+    "id": "6673",
+    "en_name": "Immortal Shieldbow",
+    "ru_name": "Арбалет бессмертия"
+  },
+  {
+    "id": "6675",
+    "en_name": "Navori Flickerblade",
+    "ru_name": "Летающий нож Навори"
+  },
+  {
+    "id": "6676",
+    "en_name": "The Collector",
+    "ru_name": "Сборщик долгов"
+  },
+  {
+    "id": "6677",
+    "en_name": "Rageknife",
+    "ru_name": "Нож ярости"
+  },
+  {
+    "id": "6690",
+    "en_name": "Rectrix",
+    "ru_name": "Рулевое перо"
+  },
+  {
+    "id": "6691",
+    "en_name": "Duskblade of Draktharr",
+    "ru_name": "Сумеречный клинок Драктарра"
+  },
+  {
+    "id": "6692",
+    "en_name": "Eclipse",
+    "ru_name": "Затмение"
+  },
+  {
+    "id": "6693",
+    "en_name": "Prowler's Claw",
+    "ru_name": "Коготь охотника"
+  },
+  {
+    "id": "6694",
+    "en_name": "Serylda's Grudge",
+    "ru_name": "Злоба Серильды"
+  },
+  {
+    "id": "6695",
+    "en_name": "Serpent's Fang",
+    "ru_name": "Змеиный клык"
+  },
+  {
+    "id": "6696",
+    "en_name": "Axiom Arc",
+    "ru_name": "Шакрам Аксиом"
+  },
+  {
+    "id": "6697",
+    "en_name": "Hubris",
+    "ru_name": "Гордыня"
+  },
+  {
+    "id": "6698",
+    "en_name": "Profane Hydra",
+    "ru_name": "Нечестивая гидра"
+  },
+  {
+    "id": "6699",
+    "en_name": "Voltaic Cyclosword",
+    "ru_name": "Электрический цикломеч"
+  },
+  {
+    "id": "6700",
+    "en_name": "Shield of the Rakkor",
+    "ru_name": "Раккоранский щит"
+  },
+  {
+    "id": "6701",
+    "en_name": "Opportunity",
+    "ru_name": "Возможность"
+  },
+  {
+    "id": "6702",
+    "en_name": "Scouting Ahead",
+    "ru_name": "Разведка обстановки"
+  },
+  {
+    "id": "7050",
+    "en_name": "Gangplank Placeholder",
+    "ru_name": "Заглушка для Гангпланка"
+  },
+  {
+    "id": "8001",
+    "en_name": "Anathema's Chains",
+    "ru_name": "Цепи проклятия"
+  },
+  {
+    "id": "8010",
+    "en_name": "Bloodletter's Curse",
+    "ru_name": "Проклятие кровопускателя"
+  },
+  {
+    "id": "8020",
+    "en_name": "Abyssal Mask",
+    "ru_name": "Маска пустоты"
+  },
+  {
+    "id": "9168",
+    "en_name": "Locked Weapon Slot",
+    "ru_name": "Заблокированная ячейка для оружия"
+  },
+  {
+    "id": "9171",
+    "en_name": "Cyclonic Slicers",
+    "ru_name": "Циклонические рассекатели"
+  },
+  {
+    "id": "9172",
+    "en_name": "YuumiBot",
+    "ru_name": "ЮмиБот"
+  },
+  {
+    "id": "9173",
+    "en_name": "Radiant Field",
+    "ru_name": "Энергетическое поле"
+  },
+  {
+    "id": "9174",
+    "en_name": "Statikk Sword",
+    "ru_name": "Меч Статикка"
+  },
+  {
+    "id": "9175",
+    "en_name": "Lioness's Lament",
+    "ru_name": "Элегия львицы"
+  },
+  {
+    "id": "9176",
+    "en_name": "Gatling Bunny-Guns",
+    "ru_name": "Заячий пулемет"
+  },
+  {
+    "id": "9177",
+    "en_name": "Searing Shortbow",
+    "ru_name": "Пылающий мини-лук"
+  },
+  {
+    "id": "9178",
+    "en_name": "The Annihilator",
+    "ru_name": "Аннигилятор"
+  },
+  {
+    "id": "9179",
+    "en_name": "Battle Bunny Crossbow",
+    "ru_name": "Арбалет Боевого зайчика"
+  },
+  {
+    "id": "9180",
+    "en_name": "UwU Blaster",
+    "ru_name": "Бластер UwU"
+  },
+  {
+    "id": "9181",
+    "en_name": "Vortex Glove",
+    "ru_name": "Вихревая перчатка"
+  },
+  {
+    "id": "9183",
+    "en_name": "Blade-o-rang",
+    "ru_name": "Клинкоранг"
+  },
+  {
+    "id": "9184",
+    "en_name": "Bunny Mega-Blast",
+    "ru_name": "Орбитальный прыг-скок"
+  },
+  {
+    "id": "9185",
+    "en_name": "Anti-Shark Sea Mine",
+    "ru_name": "Противоакулья мина"
+  },
+  {
+    "id": "9187",
+    "en_name": "T.I.B.B.E.R.S",
+    "ru_name": "Т.И.Б.Б.Е.Р.С."
+  },
+  {
+    "id": "9188",
+    "en_name": "Ani-Mines",
+    "ru_name": "Зверомины"
+  },
+  {
+    "id": "9189",
+    "en_name": "Final City Transit",
+    "ru_name": "Транзит Последнего города"
+  },
+  {
+    "id": "9190",
+    "en_name": "Echoing Batblades",
+    "ru_name": "Клинки летучей мыши"
+  },
+  {
+    "id": "9192",
+    "en_name": "Paw Print Poisoner",
+    "ru_name": "Ядовитые лапы"
+  },
+  {
+    "id": "9193",
+    "en_name": "Iceblast Armor",
+    "ru_name": "Ледяная броня"
+  },
+  {
+    "id": "9271",
+    "en_name": "Unceasing Cyclone",
+    "ru_name": "Неутихающий циклон"
+  },
+  {
+    "id": "9272",
+    "en_name": "YuumiBot_Final_FINAL",
+    "ru_name": "ЮмиБот 2.0"
+  },
+  {
+    "id": "9273",
+    "en_name": "Explosive Embrace",
+    "ru_name": "Взрывные объятия"
+  },
+  {
+    "id": "9274",
+    "en_name": "Prumbis's Electrocarver",
+    "ru_name": "Электрорез Прамбиса"
+  },
+  {
+    "id": "9275",
+    "en_name": "Enveloping Light",
+    "ru_name": "Окутывающий свет"
+  },
+  {
+    "id": "9276",
+    "en_name": "Double Bun-Bun Barrage",
+    "ru_name": "Двойной заячий залп"
+  },
+  {
+    "id": "9277",
+    "en_name": "Evolved Embershot",
+    "ru_name": "Улучшенный огненный выстрел"
+  },
+  {
+    "id": "9278",
+    "en_name": "Animapocalypse",
+    "ru_name": "Зверопокалипсис"
+  },
+  {
+    "id": "9279",
+    "en_name": "Bunny Prime Ballista",
+    "ru_name": "Баллиста Ультра-зайчика"
+  },
+  {
+    "id": "9280",
+    "en_name": "OwO Blaster",
+    "ru_name": "Бластер OwO"
+  },
+  {
+    "id": "9281",
+    "en_name": "Tempest's Gauntlet",
+    "ru_name": "Грозовая рукавица"
+  },
+  {
+    "id": "9283",
+    "en_name": "Quad-o-rang",
+    "ru_name": "Квадроранг"
+  },
+  {
+    "id": "9284",
+    "en_name": "Rapid Rabbit Raindown",
+    "ru_name": "Лазерный дождь"
+  },
+  {
+    "id": "9285",
+    "en_name": "Neverending Mobstomper",
+    "ru_name": "Бесконечная бомбардировка"
+  },
+  {
+    "id": "9287",
+    "en_name": "T.I.B.B.E.R.S (B.E.E.G Edition)",
+    "ru_name": "Т.И.Б.Б.Е.Р.С. (модель Б.И.Г.)"
+  },
+  {
+    "id": "9288",
+    "en_name": "Jinx's Tri-Namite",
+    "ru_name": "Тринамит Джинкс"
+  },
+  {
+    "id": "9289",
+    "en_name": "FC Limited Express",
+    "ru_name": "Экспресс ПГ"
+  },
+  {
+    "id": "9290",
+    "en_name": "Vayne's Chromablades",
+    "ru_name": "Сверкающие клинки Вейн"
+  },
+  {
+    "id": "9292",
+    "en_name": "Bearfoot Chem-Dispenser",
+    "ru_name": "Распылитель химикатов"
+  },
+  {
+    "id": "9293",
+    "en_name": "Deep Freeze",
+    "ru_name": "Глубокая заморозка"
+  },
+  {
+    "id": "9300",
+    "en_name": "Meow Meow",
+    "ru_name": "Мяу-мяу"
+  },
+  {
+    "id": "9301",
+    "en_name": "Shield Slam",
+    "ru_name": "Удар щитом"
+  },
+  {
+    "id": "9302",
+    "en_name": "Sound Wave",
+    "ru_name": "Звуковая волна"
+  },
+  {
+    "id": "9303",
+    "en_name": "Pillory Swipe",
+    "ru_name": "Удар колодками"
+  },
+  {
+    "id": "9304",
+    "en_name": "Steel Tempest",
+    "ru_name": "Стальная буря"
+  },
+  {
+    "id": "9305",
+    "en_name": "Tentacle Slam",
+    "ru_name": "Удар щупальцем"
+  },
+  {
+    "id": "9306",
+    "en_name": "Winged Dagger",
+    "ru_name": "Крылатый кинжал"
+  },
+  {
+    "id": "9307",
+    "en_name": "Guiding Hex",
+    "ru_name": "Управляемая порча"
+  },
+  {
+    "id": "9308",
+    "en_name": "Bunny Hop",
+    "ru_name": "Прыжок зайчика"
+  },
+  {
+    "id": "9400",
+    "en_name": "Battle Cat Barrage",
+    "ru_name": "Залп боевой кошки"
+  },
+  {
+    "id": "9401",
+    "en_name": "Light of the Lion",
+    "ru_name": "Свет львицы"
+  },
+  {
+    "id": "9402",
+    "en_name": "Anima Echo",
+    "ru_name": "Эхо зверя"
+  },
+  {
+    "id": "9403",
+    "en_name": "Savage Slice",
+    "ru_name": "Дикий порез"
+  },
+  {
+    "id": "9404",
+    "en_name": "Wandering Storms",
+    "ru_name": "Вольные ветра"
+  },
+  {
+    "id": "9405",
+    "en_name": "Grizzly Smash",
+    "ru_name": "Удар гризли"
+  },
+  {
+    "id": "9406",
+    "en_name": "Lover's Ricochet",
+    "ru_name": "Рикошет любовника"
+  },
+  {
+    "id": "9407",
+    "en_name": "Hopped-Up Hex",
+    "ru_name": "Усиленная порча"
+  },
+  {
+    "id": "9408",
+    "en_name": "Carrot Crash",
+    "ru_name": "Морковный удар"
+  },
+  {
+    "id": "123430",
+    "en_name": "Rite of Ruin",
+    "ru_name": "Ритуал уничтожения"
+  },
+  {
+    "id": "124011",
+    "en_name": "Sword of Blossoming Dawn",
+    "ru_name": "Меч сияющего рассвета"
+  },
+  {
+    "id": "126697",
+    "en_name": "Hubris",
+    "ru_name": "Гордыня"
+  },
+  {
+    "id": "220000",
+    "en_name": "Stat Bonus",
+    "ru_name": "Прибавка к показателям"
+  },
+  {
+    "id": "220001",
+    "en_name": "Legendary Fighter Item",
+    "ru_name": "Легендарный предмет для воинов"
+  },
+  {
+    "id": "220002",
+    "en_name": "Legendary Marksman Item",
+    "ru_name": "Легендарный предмет для стрелков"
+  },
+  {
+    "id": "220003",
+    "en_name": "Legendary Assassin Item",
+    "ru_name": "Легендарный предмет для убийц"
+  },
+  {
+    "id": "220004",
+    "en_name": "Legendary Mage Item",
+    "ru_name": "Легендарный предмет для магов"
+  },
+  {
+    "id": "220005",
+    "en_name": "Legendary Tank Item",
+    "ru_name": "Легендарный предмет для танков"
+  },
+  {
+    "id": "220006",
+    "en_name": "Legendary Support Item",
+    "ru_name": "Легендарный предмет для поддержки"
+  },
+  {
+    "id": "220007",
+    "en_name": "Prismatic Item",
+    "ru_name": "Призматический предмет"
+  },
+  {
+    "id": "220008",
+    "en_name": "Anvil Voucher",
+    "ru_name": "Купон на наковальню"
+  },
+  {
+    "id": "220009",
+    "en_name": "Gold Stat Anvil Voucher",
+    "ru_name": "Купон на золотую наковальню"
+  },
+  {
+    "id": "220010",
+    "en_name": "Prismatic Stat Voucher",
+    "ru_name": "Купон на призматическую наковальню"
+  },
+  {
+    "id": "220011",
+    "en_name": "Bravery Voucher",
+    "ru_name": "Купон храбрости"
+  },
+  {
+    "id": "220012",
+    "en_name": "Shardblade",
+    "ru_name": "Клинок осколков"
+  },
+  {
+    "id": "220013",
+    "en_name": "Poro-Snax",
+    "ru_name": "Поро-снэк"
+  },
+  {
+    "id": "221011",
+    "en_name": "Giant's Belt",
+    "ru_name": "Пояс великана"
+  },
+  {
+    "id": "221026",
+    "en_name": "Blasting Wand",
+    "ru_name": "Разящий жезл"
+  },
+  {
+    "id": "221031",
+    "en_name": "Chain Vest",
+    "ru_name": "Кольчуга"
+  },
+  {
+    "id": "221038",
+    "en_name": "B. F. Sword",
+    "ru_name": "Самый Лучший Меч"
+  },
+  {
+    "id": "221043",
+    "en_name": "Recurve Bow",
+    "ru_name": "Изогнутый лук"
+  },
+  {
+    "id": "221053",
+    "en_name": "Vampiric Scepter",
+    "ru_name": "Вампирский скипетр"
+  },
+  {
+    "id": "221057",
+    "en_name": "Negatron Cloak",
+    "ru_name": "Поглощающий плащ"
+  },
+  {
+    "id": "221058",
+    "en_name": "Needlessly Large Rod",
+    "ru_name": "Слишком Большой Жезл"
+  },
+  {
+    "id": "222022",
+    "en_name": "Glowing Mote",
+    "ru_name": "Светлячок"
+  },
+  {
+    "id": "222051",
+    "en_name": "Guardian's Horn",
+    "ru_name": "Рог стража"
+  },
+  {
+    "id": "222065",
+    "en_name": "Shurelya's Battlesong",
+    "ru_name": "Боевая песнь Шурелии"
+  },
+  {
+    "id": "222141",
+    "en_name": "Cappa Juice",
+    "ru_name": "Шапучий напиток"
+  },
+  {
+    "id": "222502",
+    "en_name": "Unending Despair",
+    "ru_name": "Бесконечное отчаяние"
+  },
+  {
+    "id": "222503",
+    "en_name": "Blackfire Torch",
+    "ru_name": "Факел темного огня"
+  },
+  {
+    "id": "222504",
+    "en_name": "Kaenic Rookern",
+    "ru_name": "Кейниковый рукерн"
+  },
+  {
+    "id": "222510",
+    "en_name": "Dusk and Dawn",
+    "ru_name": "Рассвет и закат"
+  },
+  {
+    "id": "222512",
+    "en_name": "Fiendhunter Bolts",
+    "ru_name": "Стрелы борца с демонами"
+  },
+  {
+    "id": "222517",
+    "en_name": "Endless Hunger",
+    "ru_name": "Вечный голод"
+  },
+  {
+    "id": "222522",
+    "en_name": "Actualizer",
+    "ru_name": "Воплотитель"
+  },
+  {
+    "id": "222523",
+    "en_name": "Hexoptics C44",
+    "ru_name": "Хекс-прицел С44"
+  },
+  {
+    "id": "222524",
+    "en_name": "Bandlepipes",
+    "ru_name": "Бандл-трубы"
+  },
+  {
+    "id": "222525",
+    "en_name": "Protoplasm Harness",
+    "ru_name": "Протоплазменная портупея"
+  },
+  {
+    "id": "222526",
+    "en_name": "Whispering Circlet",
+    "ru_name": "Шепчущая диадема"
+  },
+  {
+    "id": "222530",
+    "en_name": "Diadem of Songs",
+    "ru_name": "Диадема песен"
+  },
+  {
+    "id": "223001",
+    "en_name": "Evenshroud",
+    "ru_name": "Вечерний покров"
+  },
+  {
+    "id": "223002",
+    "en_name": "Trailblazer",
+    "ru_name": "Первопроходец"
+  },
+  {
+    "id": "223003",
+    "en_name": "Archangel's Staff",
+    "ru_name": "Посох архангела"
+  },
+  {
+    "id": "223004",
+    "en_name": "Manamune",
+    "ru_name": "Манамунэ"
+  },
+  {
+    "id": "223005",
+    "en_name": "Ghostcrawlers",
+    "ru_name": "Призрачные сапоги"
+  },
+  {
+    "id": "223006",
+    "en_name": "Berserker's Greaves",
+    "ru_name": "Наголенники берсерка"
+  },
+  {
+    "id": "223008",
+    "en_name": "Gluttonous Greaves",
+    "ru_name": "Алчные наголенники"
+  },
+  {
+    "id": "223009",
+    "en_name": "Boots of Swiftness",
+    "ru_name": "Ботинки стремительности"
+  },
+  {
+    "id": "223011",
+    "en_name": "Chemtech Putrifier",
+    "ru_name": "Химтековый разъедатель"
+  },
+  {
+    "id": "223020",
+    "en_name": "Sorcerer's Shoes",
+    "ru_name": "Сапоги чародея"
+  },
+  {
+    "id": "223026",
+    "en_name": "Guardian Angel",
+    "ru_name": "Ангел-хранитель"
+  },
+  {
+    "id": "223031",
+    "en_name": "Infinity Edge",
+    "ru_name": "Грань Бесконечности"
+  },
+  {
+    "id": "223032",
+    "en_name": "Yun Tal Wildarrows",
+    "ru_name": "Дикие стрелы Юнталь"
+  },
+  {
+    "id": "223033",
+    "en_name": "Mortal Reminder",
+    "ru_name": "Глашатай смерти"
+  },
+  {
+    "id": "223036",
+    "en_name": "Lord Dominik's Regards",
+    "ru_name": "Поклон лорда Доминика"
+  },
+  {
+    "id": "223039",
+    "en_name": "Atma's Reckoning",
+    "ru_name": "Расплата Атмы"
+  },
+  {
+    "id": "223040",
+    "en_name": "Seraph's Embrace",
+    "ru_name": "Объятья серафима"
+  },
+  {
+    "id": "223042",
+    "en_name": "Muramana",
+    "ru_name": "Мурамана"
+  },
+  {
+    "id": "223046",
+    "en_name": "Phantom Dancer",
+    "ru_name": "Призрачный Танцор"
+  },
+  {
+    "id": "223047",
+    "en_name": "Plated Steelcaps",
+    "ru_name": "Бронированные сапоги"
+  },
+  {
+    "id": "223050",
+    "en_name": "Zeke's Convergence",
+    "ru_name": "Конвергенция Зика"
+  },
+  {
+    "id": "223053",
+    "en_name": "Sterak's Gage",
+    "ru_name": "Испытание Стерака"
+  },
+  {
+    "id": "223057",
+    "en_name": "Sheen",
+    "ru_name": "Сияние"
+  },
+  {
+    "id": "223065",
+    "en_name": "Spirit Visage",
+    "ru_name": "Облачение духов"
+  },
+  {
+    "id": "223067",
+    "en_name": "Kindlegem",
+    "ru_name": "Воспламеняющий камень"
+  },
+  {
+    "id": "223068",
+    "en_name": "Sunfire Aegis",
+    "ru_name": "Эгида солнечного пламени"
+  },
+  {
+    "id": "223069",
+    "en_name": "Void Immolation",
+    "ru_name": "Изничтожение Бездны"
+  },
+  {
+    "id": "223071",
+    "en_name": "Black Cleaver",
+    "ru_name": "Черная секира"
+  },
+  {
+    "id": "223072",
+    "en_name": "Bloodthirster",
+    "ru_name": "Кровопийца"
+  },
+  {
+    "id": "223073",
+    "en_name": "Experimental Hexplate",
+    "ru_name": "Экспериментальная хекстековая броня"
+  },
+  {
+    "id": "223074",
+    "en_name": "Ravenous Hydra",
+    "ru_name": "Ненасытная гидра"
+  },
+  {
+    "id": "223075",
+    "en_name": "Thornmail",
+    "ru_name": "Шипованный доспех"
+  },
+  {
+    "id": "223078",
+    "en_name": "Trinity Force",
+    "ru_name": "Тройственный Союз"
+  },
+  {
+    "id": "223084",
+    "en_name": "Heartsteel",
+    "ru_name": "Сердце стали"
+  },
+  {
+    "id": "223085",
+    "en_name": "Runaan's Hurricane",
+    "ru_name": "Ураган Рунаан"
+  },
+  {
+    "id": "223087",
+    "en_name": "Statikk Shiv",
+    "ru_name": "Заточка Статикка"
+  },
+  {
+    "id": "223089",
+    "en_name": "Rabadon's Deathcap",
+    "ru_name": "Смертельная шляпа Рабадона"
+  },
+  {
+    "id": "223091",
+    "en_name": "Wit's End",
+    "ru_name": "Смерть Разума"
+  },
+  {
+    "id": "223094",
+    "en_name": "Rapid Firecannon",
+    "ru_name": "Скорострельная пушка"
+  },
+  {
+    "id": "223095",
+    "en_name": "Stormrazor",
+    "ru_name": "Грозовая бритва"
+  },
+  {
+    "id": "223100",
+    "en_name": "Lich Bane",
+    "ru_name": "Гроза Личей"
+  },
+  {
+    "id": "223102",
+    "en_name": "Banshee's Veil",
+    "ru_name": "Завеса банши"
+  },
+  {
+    "id": "223105",
+    "en_name": "Aegis of the Legion",
+    "ru_name": "Эгида Легиона"
+  },
+  {
+    "id": "223107",
+    "en_name": "Redemption",
+    "ru_name": "Искупление"
+  },
+  {
+    "id": "223109",
+    "en_name": "Knight's Vow",
+    "ru_name": "Клятва рыцаря"
+  },
+  {
+    "id": "223110",
+    "en_name": "Frozen Heart",
+    "ru_name": "Ледяное сердце"
+  },
+  {
+    "id": "223111",
+    "en_name": "Mercury's Treads",
+    "ru_name": "Поступь Меркурия"
+  },
+  {
+    "id": "223112",
+    "en_name": "Guardian's Orb",
+    "ru_name": "Сфера стража"
+  },
+  {
+    "id": "223115",
+    "en_name": "Nashor's Tooth",
+    "ru_name": "Зуб Нашора"
+  },
+  {
+    "id": "223116",
+    "en_name": "Rylai's Crystal Scepter",
+    "ru_name": "Хрустальный скипетр Рилай"
+  },
+  {
+    "id": "223118",
+    "en_name": "Malignance",
+    "ru_name": "Пагубность"
+  },
+  {
+    "id": "223119",
+    "en_name": "Winter's Approach",
+    "ru_name": "Вестник зимы"
+  },
+  {
+    "id": "223121",
+    "en_name": "Fimbulwinter",
+    "ru_name": "Великанская зима"
+  },
+  {
+    "id": "223124",
+    "en_name": "Guinsoo's Rageblade",
+    "ru_name": "Клинок ярости Гинсу"
+  },
+  {
+    "id": "223135",
+    "en_name": "Void Staff",
+    "ru_name": "Посох Бездны"
+  },
+  {
+    "id": "223137",
+    "en_name": "Cryptbloom",
+    "ru_name": "Могильный цветок"
+  },
+  {
+    "id": "223139",
+    "en_name": "Mercurial Scimitar",
+    "ru_name": "Ртутный ятаган"
+  },
+  {
+    "id": "223142",
+    "en_name": "Youmuu's Ghostblade",
+    "ru_name": "Призрачный клинок Йомуу"
+  },
+  {
+    "id": "223143",
+    "en_name": "Randuin's Omen",
+    "ru_name": "Знамение Рандуина"
+  },
+  {
+    "id": "223146",
+    "en_name": "Hextech Gunblade",
+    "ru_name": "Хекстековый штык"
+  },
+  {
+    "id": "223152",
+    "en_name": "Hextech Rocketbelt",
+    "ru_name": "Хекстековый ракетный ремень"
+  },
+  {
+    "id": "223153",
+    "en_name": "Blade of The Ruined King",
+    "ru_name": "Клинок Падшего короля"
+  },
+  {
+    "id": "223156",
+    "en_name": "Maw of Malmortius",
+    "ru_name": "Зев Малмортиуса"
+  },
+  {
+    "id": "223157",
+    "en_name": "Zhonya's Hourglass",
+    "ru_name": "Песочные часы Жони"
+  },
+  {
+    "id": "223158",
+    "en_name": "Ionian Boots of Lucidity",
+    "ru_name": "Ионийские сапоги просветления"
+  },
+  {
+    "id": "223161",
+    "en_name": "Spear of Shojin",
+    "ru_name": "Копье Седзина"
+  },
+  {
+    "id": "223165",
+    "en_name": "Morellonomicon",
+    "ru_name": "Мореллономикон"
+  },
+  {
+    "id": "223172",
+    "en_name": "Zephyr",
+    "ru_name": "Западный ветер"
+  },
+  {
+    "id": "223177",
+    "en_name": "Guardian's Blade",
+    "ru_name": "Клинок стража"
+  },
+  {
+    "id": "223181",
+    "en_name": "Hullbreaker",
+    "ru_name": "Бортолом"
+  },
+  {
+    "id": "223184",
+    "en_name": "Guardian's Hammer",
+    "ru_name": "Молот стража"
+  },
+  {
+    "id": "223185",
+    "en_name": "Guardian's Dirk",
+    "ru_name": "Кинжал стража"
+  },
+  {
+    "id": "223190",
+    "en_name": "Locket of the Iron Solari",
+    "ru_name": "Медальон Железных Солари"
+  },
+  {
+    "id": "223193",
+    "en_name": "Gargoyle Stoneplate",
+    "ru_name": "Каменный доспех гаргульи"
+  },
+  {
+    "id": "223222",
+    "en_name": "Mikael's Blessing",
+    "ru_name": "Благословение Микаэля"
+  },
+  {
+    "id": "223302",
+    "en_name": "Terminus",
+    "ru_name": "Светотень"
+  },
+  {
+    "id": "223504",
+    "en_name": "Ardent Censer",
+    "ru_name": "Пылающая кадильница"
+  },
+  {
+    "id": "223508",
+    "en_name": "Essence Reaver",
+    "ru_name": "Похититель сущности"
+  },
+  {
+    "id": "223742",
+    "en_name": "Dead Man's Plate",
+    "ru_name": "Броня мертвеца"
+  },
+  {
+    "id": "223748",
+    "en_name": "Titanic Hydra",
+    "ru_name": "Титаническая гидра"
+  },
+  {
+    "id": "223814",
+    "en_name": "Edge of Night",
+    "ru_name": "Грань ночи"
+  },
+  {
+    "id": "224004",
+    "en_name": "Spectral Cutlass",
+    "ru_name": "Призрачная сабля"
+  },
+  {
+    "id": "224005",
+    "en_name": "Imperial Mandate",
+    "ru_name": "Имперский мандат"
+  },
+  {
+    "id": "224401",
+    "en_name": "Force of Nature",
+    "ru_name": "Сила природы"
+  },
+  {
+    "id": "224403",
+    "en_name": "The Golden Spatula",
+    "ru_name": "Золотая лопатка"
+  },
+  {
+    "id": "224628",
+    "en_name": "Horizon Focus",
+    "ru_name": "Хекстековый прицел"
+  },
+  {
+    "id": "224629",
+    "en_name": "Cosmic Drive",
+    "ru_name": "Космический ускоритель"
+  },
+  {
+    "id": "224633",
+    "en_name": "Riftmaker",
+    "ru_name": "Творец разломов"
+  },
+  {
+    "id": "224636",
+    "en_name": "Night Harvester",
+    "ru_name": "Ночной жнец"
+  },
+  {
+    "id": "224637",
+    "en_name": "Demonic Embrace",
+    "ru_name": "Объятия демона"
+  },
+  {
+    "id": "224644",
+    "en_name": "Crown of the Shattered Queen",
+    "ru_name": "Венец Расколотой королевы"
+  },
+  {
+    "id": "224645",
+    "en_name": "Shadowflame",
+    "ru_name": "Сумрачное пламя"
+  },
+  {
+    "id": "224646",
+    "en_name": "Stormsurge",
+    "ru_name": "Штормовой прилив"
+  },
+  {
+    "id": "226035",
+    "en_name": "Silvermere Dawn",
+    "ru_name": "Сильвермирская заря"
+  },
+  {
+    "id": "226333",
+    "en_name": "Death's Dance",
+    "ru_name": "Танец смерти"
+  },
+  {
+    "id": "226609",
+    "en_name": "Chempunk Chainsword",
+    "ru_name": "Нож-пила химпанка"
+  },
+  {
+    "id": "226610",
+    "en_name": "Sundered Sky",
+    "ru_name": "Расколотое небо"
+  },
+  {
+    "id": "226616",
+    "en_name": "Staff of Flowing Water",
+    "ru_name": "Посох водного потока"
+  },
+  {
+    "id": "226617",
+    "en_name": "Moonstone Renewer",
+    "ru_name": "Исцеляющий лунный камень"
+  },
+  {
+    "id": "226620",
+    "en_name": "Echoes of Helia",
+    "ru_name": "Эхо Гелии"
+  },
+  {
+    "id": "226621",
+    "en_name": "Dawncore",
+    "ru_name": "Ядро рассвета"
+  },
+  {
+    "id": "226630",
+    "en_name": "Goredrinker",
+    "ru_name": "Потрошитель"
+  },
+  {
+    "id": "226631",
+    "en_name": "Stridebreaker",
+    "ru_name": "Костолом"
+  },
+  {
+    "id": "226632",
+    "en_name": "Divine Sunderer",
+    "ru_name": "Сокрушитель богов"
+  },
+  {
+    "id": "226653",
+    "en_name": "Liandry's Anguish",
+    "ru_name": "Страдания Лиандри"
+  },
+  {
+    "id": "226655",
+    "en_name": "Luden's Echo",
+    "ru_name": "Эхо Людена"
+  },
+  {
+    "id": "226656",
+    "en_name": "Everfrost",
+    "ru_name": "Вечный холод"
+  },
+  {
+    "id": "226657",
+    "en_name": "Rod of Ages",
+    "ru_name": "Жезл веков"
+  },
+  {
+    "id": "226662",
+    "en_name": "Iceborn Gauntlet",
+    "ru_name": "Хладорожденная рукавица"
+  },
+  {
+    "id": "226664",
+    "en_name": "Hollow Radiance",
+    "ru_name": "Сияние пустоты"
+  },
+  {
+    "id": "226665",
+    "en_name": "Jak'Sho, The Protean",
+    "ru_name": "Жак'Шо Многоликий"
+  },
+  {
+    "id": "226667",
+    "en_name": "Radiant Virtue",
+    "ru_name": "Сияющая добродетель"
+  },
+  {
+    "id": "226671",
+    "en_name": "Galeforce",
+    "ru_name": "Сила шторма"
+  },
+  {
+    "id": "226672",
+    "en_name": "Kraken Slayer",
+    "ru_name": "Убийца кракенов"
+  },
+  {
+    "id": "226673",
+    "en_name": "Immortal Shieldbow",
+    "ru_name": "Арбалет бессмертия"
+  },
+  {
+    "id": "226675",
+    "en_name": "Navori Flickerblades",
+    "ru_name": "Летающие ножи Навори"
+  },
+  {
+    "id": "226676",
+    "en_name": "The Collector",
+    "ru_name": "Сборщик долгов"
+  },
+  {
+    "id": "226691",
+    "en_name": "Duskblade of Draktharr",
+    "ru_name": "Сумеречный клинок Драктарра"
+  },
+  {
+    "id": "226692",
+    "en_name": "Eclipse",
+    "ru_name": "Затмение"
+  },
+  {
+    "id": "226693",
+    "en_name": "Prowler's Claw",
+    "ru_name": "Коготь охотника"
+  },
+  {
+    "id": "226694",
+    "en_name": "Serylda's Grudge",
+    "ru_name": "Злоба Серильды"
+  },
+  {
+    "id": "226695",
+    "en_name": "Serpent's Fang",
+    "ru_name": "Змеиный клык"
+  },
+  {
+    "id": "226696",
+    "en_name": "Axiom Arc",
+    "ru_name": "Шакрам Аксиом"
+  },
+  {
+    "id": "226697",
+    "en_name": "Hubris",
+    "ru_name": "Гордыня"
+  },
+  {
+    "id": "226698",
+    "en_name": "Profane Hydra",
+    "ru_name": "Нечестивая гидра"
+  },
+  {
+    "id": "226699",
+    "en_name": "Voltaic Cyclosword",
+    "ru_name": "Электрический цикломеч"
+  },
+  {
+    "id": "226701",
+    "en_name": "Opportunity",
+    "ru_name": "Возможность"
+  },
+  {
+    "id": "228001",
+    "en_name": "Anathema's Chains",
+    "ru_name": "Цепи проклятия"
+  },
+  {
+    "id": "228002",
+    "en_name": "Wooglet's Witchcap",
+    "ru_name": "Шляпа ведьмы"
+  },
+  {
+    "id": "228003",
+    "en_name": "Deathblade",
+    "ru_name": "Клинок смерти"
+  },
+  {
+    "id": "228004",
+    "en_name": "Adaptive Helm",
+    "ru_name": "Адаптивный шлем"
+  },
+  {
+    "id": "228005",
+    "en_name": "Obsidian Cleaver",
+    "ru_name": "Обсидиановая секира"
+  },
+  {
+    "id": "228006",
+    "en_name": "Sanguine Blade",
+    "ru_name": "Кровавый клинок"
+  },
+  {
+    "id": "228008",
+    "en_name": "Runeglaive",
+    "ru_name": "Рунная глефа"
+  },
+  {
+    "id": "228009",
+    "en_name": "Multitool",
+    "ru_name": "Набор инструментов"
+  },
+  {
+    "id": "228020",
+    "en_name": "Abyssal Mask",
+    "ru_name": "Маска пустоты"
+  },
+  {
+    "id": "322065",
+    "en_name": "Shurelya's Battlesong",
+    "ru_name": "Боевая песнь Шурелии"
+  },
+  {
+    "id": "322526",
+    "en_name": "Whispering Circlet",
+    "ru_name": "Шепчущая диадема"
+  },
+  {
+    "id": "322530",
+    "en_name": "Diadem of Songs",
+    "ru_name": "Диадема песен"
+  },
+  {
+    "id": "323002",
+    "en_name": "Trailblazer",
+    "ru_name": "Первопроходец"
+  },
+  {
+    "id": "323003",
+    "en_name": "Archangel's Staff",
+    "ru_name": "Посох архангела"
+  },
+  {
+    "id": "323004",
+    "en_name": "Manamune",
+    "ru_name": "Манамунэ"
+  },
+  {
+    "id": "323040",
+    "en_name": "Seraph's Embrace",
+    "ru_name": "Объятья серафима"
+  },
+  {
+    "id": "323042",
+    "en_name": "Muramana",
+    "ru_name": "Мурамана"
+  },
+  {
+    "id": "323050",
+    "en_name": "Zeke's Convergence",
+    "ru_name": "Конвергенция Зика"
+  },
+  {
+    "id": "323070",
+    "en_name": "Tear of the Goddess",
+    "ru_name": "Слеза богини"
+  },
+  {
+    "id": "323075",
+    "en_name": "Thornmail",
+    "ru_name": "Шипованный доспех"
+  },
+  {
+    "id": "323107",
+    "en_name": "Redemption",
+    "ru_name": "Искупление"
+  },
+  {
+    "id": "323109",
+    "en_name": "Knight's Vow",
+    "ru_name": "Клятва рыцаря"
+  },
+  {
+    "id": "323110",
+    "en_name": "Frozen Heart",
+    "ru_name": "Ледяное сердце"
+  },
+  {
+    "id": "323119",
+    "en_name": "Winter's Approach",
+    "ru_name": "Вестник зимы"
+  },
+  {
+    "id": "323121",
+    "en_name": "Fimbulwinter",
+    "ru_name": "Великанская зима"
+  },
+  {
+    "id": "323190",
+    "en_name": "Locket of the Iron Solari",
+    "ru_name": "Медальон Железных Солари"
+  },
+  {
+    "id": "323222",
+    "en_name": "Mikael's Blessing",
+    "ru_name": "Благословение Микаэля"
+  },
+  {
+    "id": "323504",
+    "en_name": "Ardent Censer",
+    "ru_name": "Пылающая кадильница"
+  },
+  {
+    "id": "324005",
+    "en_name": "Imperial Mandate",
+    "ru_name": "Имперский мандат"
+  },
+  {
+    "id": "326616",
+    "en_name": "Staff of Flowing Water",
+    "ru_name": "Посох водного потока"
+  },
+  {
+    "id": "326617",
+    "en_name": "Moonstone Renewer",
+    "ru_name": "Исцеляющий лунный камень"
+  },
+  {
+    "id": "326620",
+    "en_name": "Echoes of Helia",
+    "ru_name": "Эхо Гелии"
+  },
+  {
+    "id": "326621",
+    "en_name": "Dawncore",
+    "ru_name": "Ядро рассвета"
+  },
+  {
+    "id": "326657",
+    "en_name": "Rod of Ages",
+    "ru_name": "Жезл веков"
+  },
+  {
+    "id": "328020",
+    "en_name": "Abyssal Mask",
+    "ru_name": "Маска пустоты"
+  },
+  {
+    "id": "443054",
+    "en_name": "Darksteel Talons",
+    "ru_name": "Когти из темной стали"
+  },
+  {
+    "id": "443055",
+    "en_name": "Fulmination",
+    "ru_name": "Гром и молния"
+  },
+  {
+    "id": "443056",
+    "en_name": "Demon King's Crown",
+    "ru_name": "Корона короля-демона"
+  },
+  {
+    "id": "443058",
+    "en_name": "Shield of Molten Stone",
+    "ru_name": "Щит из расплавленного камня"
+  },
+  {
+    "id": "443059",
+    "en_name": "Cloak of Starry Night",
+    "ru_name": "Мантия звездной ночи"
+  },
+  {
+    "id": "443060",
+    "en_name": "Sword of the Divine",
+    "ru_name": "Меч Божественных"
+  },
+  {
+    "id": "443061",
+    "en_name": "Force Of Entropy",
+    "ru_name": "Сила энтропии"
+  },
+  {
+    "id": "443062",
+    "en_name": "Sanguine Gift",
+    "ru_name": "Кровавый дар"
+  },
+  {
+    "id": "443063",
+    "en_name": "Eleisa's Miracle",
+    "ru_name": "Чудо Элейсы"
+  },
+  {
+    "id": "443064",
+    "en_name": "Talisman Of Ascension",
+    "ru_name": "Талисман вознесения"
+  },
+  {
+    "id": "443069",
+    "en_name": "Hamstringer",
+    "ru_name": "Выжигатель"
+  },
+  {
+    "id": "443079",
+    "en_name": "Turbo Chemtank",
+    "ru_name": "Реактивный химдоспех"
+  },
+  {
+    "id": "443080",
+    "en_name": "Twin Mask",
+    "ru_name": "Расколотая маска"
+  },
+  {
+    "id": "443081",
+    "en_name": "Hexbolt Companion",
+    "ru_name": "Хекстековый помощник"
+  },
+  {
+    "id": "443083",
+    "en_name": "Warmog's Armor",
+    "ru_name": "Доспех Вармога"
+  },
+  {
+    "id": "443090",
+    "en_name": "Reaper's Toll",
+    "ru_name": "Долг жнецу"
+  },
+  {
+    "id": "443193",
+    "en_name": "Gargoyle Stoneplate",
+    "ru_name": "Каменный доспех гаргульи"
+  },
+  {
+    "id": "444636",
+    "en_name": "Night Harvester",
+    "ru_name": "Ночной жнец"
+  },
+  {
+    "id": "444637",
+    "en_name": "Demonic Embrace",
+    "ru_name": "Объятия демона"
+  },
+  {
+    "id": "444644",
+    "en_name": "Crown of the Shattered Queen",
+    "ru_name": "Венец Расколотой королевы"
+  },
+  {
+    "id": "446632",
+    "en_name": "Divine Sunderer",
+    "ru_name": "Сокрушитель богов"
+  },
+  {
+    "id": "446656",
+    "en_name": "Everfrost",
+    "ru_name": "Вечный холод"
+  },
+  {
+    "id": "446667",
+    "en_name": "Radiant Virtue",
+    "ru_name": "Сияющая добродетель"
+  },
+  {
+    "id": "446671",
+    "en_name": "Galeforce",
+    "ru_name": "Сила шторма"
+  },
+  {
+    "id": "446691",
+    "en_name": "Duskblade of Draktharr",
+    "ru_name": "Сумеречный клинок Драктарра"
+  },
+  {
+    "id": "446693",
+    "en_name": "Prowler's Claw",
+    "ru_name": "Коготь охотника"
+  },
+  {
+    "id": "447100",
+    "en_name": "Mirage Blade",
+    "ru_name": "Клинок миража"
+  },
+  {
+    "id": "447101",
+    "en_name": "Gambler's Blade",
+    "ru_name": "Клинок картежника"
+  },
+  {
+    "id": "447102",
+    "en_name": "Reality Fracture",
+    "ru_name": "Разрыв реальности"
+  },
+  {
+    "id": "447103",
+    "en_name": "Hemomancer's Helm",
+    "ru_name": "Шлем гемоманта"
+  },
+  {
+    "id": "447104",
+    "en_name": "Innervating Locket",
+    "ru_name": "Восстанавливающий медальон"
+  },
+  {
+    "id": "447105",
+    "en_name": "Empyrean Promise",
+    "ru_name": "Эмпирейское обещание"
+  },
+  {
+    "id": "447106",
+    "en_name": "Dragonheart",
+    "ru_name": "Драконье сердце"
+  },
+  {
+    "id": "447107",
+    "en_name": "Decapitator",
+    "ru_name": "Обезглавливатель"
+  },
+  {
+    "id": "447108",
+    "en_name": "Runecarver",
+    "ru_name": "Резчик рун"
+  },
+  {
+    "id": "447109",
+    "en_name": "Cruelty",
+    "ru_name": "Жестокость"
+  },
+  {
+    "id": "447110",
+    "en_name": "Moonflair Spellblade",
+    "ru_name": "Чародейский клинок лунного света"
+  },
+  {
+    "id": "447111",
+    "en_name": "Overlord's Bloodmail",
+    "ru_name": "Кровавая кольчуга господина"
+  },
+  {
+    "id": "447112",
+    "en_name": "Flesheater",
+    "ru_name": "Пожиратель плоти"
+  },
+  {
+    "id": "447113",
+    "en_name": "Detonation Orb",
+    "ru_name": "Взрывная сфера"
+  },
+  {
+    "id": "447114",
+    "en_name": "Reverberation",
+    "ru_name": "Реверберация"
+  },
+  {
+    "id": "447115",
+    "en_name": "Regicide",
+    "ru_name": "Погибель королей"
+  },
+  {
+    "id": "447116",
+    "en_name": "Kinkou Jitte",
+    "ru_name": "Дзюттэ Кинку"
+  },
+  {
+    "id": "447118",
+    "en_name": "Pyromancer's Cloak",
+    "ru_name": "Плащ пироманта"
+  },
+  {
+    "id": "447119",
+    "en_name": "Lightning Rod",
+    "ru_name": "Громоотвод"
+  },
+  {
+    "id": "447120",
+    "en_name": "Diamond-Tipped Spear",
+    "ru_name": "Алмазное копье"
+  },
+  {
+    "id": "447121",
+    "en_name": "Twilight's Edge",
+    "ru_name": "Грань сумерек"
+  },
+  {
+    "id": "447122",
+    "en_name": "Black Hole Gauntlet",
+    "ru_name": "Перчатка черной дыры"
+  },
+  {
+    "id": "447123",
+    "en_name": "Puppeteer",
+    "ru_name": "Кукловод"
+  },
+  {
+    "id": "550001",
+    "en_name": "Healthbar Splash: Blue",
+    "ru_name": "Цвет шкалы здоровья: синий"
+  },
+  {
+    "id": "550002",
+    "en_name": "Healthbar Splash: Orange",
+    "ru_name": "Цвет шкалы здоровья: оранжевый"
+  },
+  {
+    "id": "550003",
+    "en_name": "Healthbar Splash: Green",
+    "ru_name": "Цвет шкалы здоровья: зеленый"
+  },
+  {
+    "id": "550004",
+    "en_name": "Healthbar Splash: Pink",
+    "ru_name": "Цвет шкалы здоровья: розовый"
+  },
+  {
+    "id": "550005",
+    "en_name": "Healthbar Cleanup: Reset Color",
+    "ru_name": "Очистка шкалы здоровья: сброс цвета"
+  },
+  {
+    "id": "550006",
+    "en_name": "Healthbar Splash: Rainbow",
+    "ru_name": "Цвет шкалы здоровья: разноцветный"
+  },
+  {
+    "id": "550007",
+    "en_name": "Party Favor",
+    "ru_name": "Гостинец"
+  },
+  {
+    "id": "663039",
+    "en_name": "Atma's Reckoning",
+    "ru_name": "Расплата Атмы"
+  },
+  {
+    "id": "663056",
+    "en_name": "Demon King's Crown",
+    "ru_name": "Корона короля-демона"
+  },
+  {
+    "id": "663058",
+    "en_name": "Shield of Molten Stone",
+    "ru_name": "Щит из расплавленного камня"
+  },
+  {
+    "id": "663059",
+    "en_name": "Cloak of Starry Night",
+    "ru_name": "Мантия звездной ночи"
+  },
+  {
+    "id": "663060",
+    "en_name": "Sword of the Divine",
+    "ru_name": "Меч Божественных"
+  },
+  {
+    "id": "663064",
+    "en_name": "Veigar's Talisman of Ascension",
+    "ru_name": "Талисман вознесения Вейгара"
+  },
+  {
+    "id": "663146",
+    "en_name": "Hextech Gunblade",
+    "ru_name": "Хекстековый штык"
+  },
+  {
+    "id": "663172",
+    "en_name": "Zephyr",
+    "ru_name": "Западный ветер"
+  },
+  {
+    "id": "663193",
+    "en_name": "Gargoyle Stoneplate",
+    "ru_name": "Каменный доспех гаргульи"
+  },
+  {
+    "id": "664011",
+    "en_name": "Sword of Blossoming Dawn",
+    "ru_name": "Меч сияющего рассвета"
+  },
+  {
+    "id": "664403",
+    "en_name": "The Golden Spatula",
+    "ru_name": "Золотая лопатка"
+  },
+  {
+    "id": "664644",
+    "en_name": "Crown of the Shattered Queen",
+    "ru_name": "Венец Расколотой королевы"
+  },
+  {
+    "id": "667101",
+    "en_name": "Gambler's Blade",
+    "ru_name": "Клинок картежника"
+  },
+  {
+    "id": "667109",
+    "en_name": "Cruelty",
+    "ru_name": "Жестокость"
+  },
+  {
+    "id": "667112",
+    "en_name": "Flesheater",
+    "ru_name": "Пожиратель плоти"
+  },
+  {
+    "id": "667666",
+    "en_name": "The Collector",
+    "ru_name": "Сборщик долгов"
+  },
+  {
+    "id": "994403",
+    "en_name": "Golden Spatula",
+    "ru_name": "Золотая лопатка"
+  }
+]

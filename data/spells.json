@@ -1,0 +1,6134 @@
+[
+  {
+    "id": "SummonerBarrier",
+    "type": "summoner",
+    "champion_id": null,
+    "en_name": "Barrier",
+    "ru_name": "Барьер"
+  },
+  {
+    "id": "SummonerBoost",
+    "type": "summoner",
+    "champion_id": null,
+    "en_name": "Cleanse",
+    "ru_name": "Очищение"
+  },
+  {
+    "id": "SummonerCherryFlash",
+    "type": "summoner",
+    "champion_id": null,
+    "en_name": "Flash",
+    "ru_name": "Скачок"
+  },
+  {
+    "id": "SummonerCherryHold",
+    "type": "summoner",
+    "champion_id": null,
+    "en_name": "Flee",
+    "ru_name": "Бегство"
+  },
+  {
+    "id": "SummonerDot",
+    "type": "summoner",
+    "champion_id": null,
+    "en_name": "Ignite",
+    "ru_name": "Воспламенение"
+  },
+  {
+    "id": "SummonerExhaust",
+    "type": "summoner",
+    "champion_id": null,
+    "en_name": "Exhaust",
+    "ru_name": "Изнурение"
+  },
+  {
+    "id": "SummonerHaste",
+    "type": "summoner",
+    "champion_id": null,
+    "en_name": "Ghost",
+    "ru_name": "Призрак"
+  },
+  {
+    "id": "SummonerHeal",
+    "type": "summoner",
+    "champion_id": null,
+    "en_name": "Heal",
+    "ru_name": "Исцеление"
+  },
+  {
+    "id": "SummonerMana",
+    "type": "summoner",
+    "champion_id": null,
+    "en_name": "Clarity",
+    "ru_name": "Ясность"
+  },
+  {
+    "id": "SummonerPoroRecall",
+    "type": "summoner",
+    "champion_id": null,
+    "en_name": "To the King!",
+    "ru_name": "К королю!"
+  },
+  {
+    "id": "SummonerPoroThrow",
+    "type": "summoner",
+    "champion_id": null,
+    "en_name": "Poro Toss",
+    "ru_name": "Бросок поро"
+  },
+  {
+    "id": "SummonerSmite",
+    "type": "summoner",
+    "champion_id": null,
+    "en_name": "Smite",
+    "ru_name": "Кара"
+  },
+  {
+    "id": "SummonerSnowURFSnowball_Mark",
+    "type": "summoner",
+    "champion_id": null,
+    "en_name": "Mark",
+    "ru_name": "Метка"
+  },
+  {
+    "id": "SummonerTeleport",
+    "type": "summoner",
+    "champion_id": null,
+    "en_name": "Teleport",
+    "ru_name": "Телепорт"
+  },
+  {
+    "id": "Summoner_UltBookPlaceholder",
+    "type": "summoner",
+    "champion_id": null,
+    "en_name": "Placeholder",
+    "ru_name": "Абсолютное умение другого чемпиона"
+  },
+  {
+    "id": "Summoner_UltBookSmitePlaceholder",
+    "type": "summoner",
+    "champion_id": null,
+    "en_name": "Placeholder and Attack-Smite",
+    "ru_name": "Временное заклинание и Карающая атака"
+  },
+  {
+    "id": "AatroxPassive",
+    "champion_id": "Aatrox",
+    "type": "passive",
+    "en_name": "Deathbringer Stance",
+    "ru_name": "Стойка разрушителя"
+  },
+  {
+    "id": "AatroxQ",
+    "champion_id": "Aatrox",
+    "type": "ability",
+    "en_name": "The Darkin Blade",
+    "ru_name": "Клинок даркинов"
+  },
+  {
+    "id": "AatroxW",
+    "champion_id": "Aatrox",
+    "type": "ability",
+    "en_name": "Infernal Chains",
+    "ru_name": "Проклятые цепи"
+  },
+  {
+    "id": "AatroxE",
+    "champion_id": "Aatrox",
+    "type": "ability",
+    "en_name": "Umbral Dash",
+    "ru_name": "Темный рывок"
+  },
+  {
+    "id": "AatroxR",
+    "champion_id": "Aatrox",
+    "type": "ability",
+    "en_name": "World Ender",
+    "ru_name": "Губитель мира"
+  },
+  {
+    "id": "AhriPassive",
+    "champion_id": "Ahri",
+    "type": "passive",
+    "en_name": "Essence Theft",
+    "ru_name": "Похищение сущности"
+  },
+  {
+    "id": "AhriQ",
+    "champion_id": "Ahri",
+    "type": "ability",
+    "en_name": "Orb of Deception",
+    "ru_name": "Сфера обмана"
+  },
+  {
+    "id": "AhriW",
+    "champion_id": "Ahri",
+    "type": "ability",
+    "en_name": "Fox-Fire",
+    "ru_name": "Лисий огонь"
+  },
+  {
+    "id": "AhriE",
+    "champion_id": "Ahri",
+    "type": "ability",
+    "en_name": "Charm",
+    "ru_name": "Очарование"
+  },
+  {
+    "id": "AhriR",
+    "champion_id": "Ahri",
+    "type": "ability",
+    "en_name": "Spirit Rush",
+    "ru_name": "Призрачный рывок"
+  },
+  {
+    "id": "AkaliPassive",
+    "champion_id": "Akali",
+    "type": "passive",
+    "en_name": "Assassin's Mark",
+    "ru_name": "Метка убийцы"
+  },
+  {
+    "id": "AkaliQ",
+    "champion_id": "Akali",
+    "type": "ability",
+    "en_name": "Five Point Strike",
+    "ru_name": "Пятиточечный удар"
+  },
+  {
+    "id": "AkaliW",
+    "champion_id": "Akali",
+    "type": "ability",
+    "en_name": "Twilight Shroud",
+    "ru_name": "Покров сумерек"
+  },
+  {
+    "id": "AkaliE",
+    "champion_id": "Akali",
+    "type": "ability",
+    "en_name": "Shuriken Flip",
+    "ru_name": "Сюрикен убийцы"
+  },
+  {
+    "id": "AkaliR",
+    "champion_id": "Akali",
+    "type": "ability",
+    "en_name": "Perfect Execution",
+    "ru_name": "Идеальное убийство"
+  },
+  {
+    "id": "AkshanPassive",
+    "champion_id": "Akshan",
+    "type": "passive",
+    "en_name": "Dirty Fighting",
+    "ru_name": "Бой без правил"
+  },
+  {
+    "id": "AkshanQ",
+    "champion_id": "Akshan",
+    "type": "ability",
+    "en_name": "Avengerang",
+    "ru_name": "Бумеранг мстителя"
+  },
+  {
+    "id": "AkshanW",
+    "champion_id": "Akshan",
+    "type": "ability",
+    "en_name": "Going Rogue",
+    "ru_name": "Опасная игра"
+  },
+  {
+    "id": "AkshanE",
+    "champion_id": "Akshan",
+    "type": "ability",
+    "en_name": "Heroic Swing",
+    "ru_name": "Зацепной пистолет"
+  },
+  {
+    "id": "AkshanR",
+    "champion_id": "Akshan",
+    "type": "ability",
+    "en_name": "Comeuppance",
+    "ru_name": "Расплата"
+  },
+  {
+    "id": "AlistarPassive",
+    "champion_id": "Alistar",
+    "type": "passive",
+    "en_name": "Triumphant Roar",
+    "ru_name": "Торжествующий рев"
+  },
+  {
+    "id": "Pulverize",
+    "champion_id": "Alistar",
+    "type": "ability",
+    "en_name": "Pulverize",
+    "ru_name": "Сокрушение"
+  },
+  {
+    "id": "Headbutt",
+    "champion_id": "Alistar",
+    "type": "ability",
+    "en_name": "Headbutt",
+    "ru_name": "Удар головой"
+  },
+  {
+    "id": "AlistarE",
+    "champion_id": "Alistar",
+    "type": "ability",
+    "en_name": "Trample",
+    "ru_name": "Топот"
+  },
+  {
+    "id": "FerociousHowl",
+    "champion_id": "Alistar",
+    "type": "ability",
+    "en_name": "Unbreakable Will",
+    "ru_name": "Несокрушимая воля"
+  },
+  {
+    "id": "AmbessaPassive",
+    "champion_id": "Ambessa",
+    "type": "passive",
+    "en_name": "Drakehound's Step",
+    "ru_name": "Поступь драконьей гончей"
+  },
+  {
+    "id": "AmbessaQ",
+    "champion_id": "Ambessa",
+    "type": "ability",
+    "en_name": "Cunning Sweep / Sundering Slam",
+    "ru_name": "Коварный взмах / Раскалывающий удар"
+  },
+  {
+    "id": "AmbessaW",
+    "champion_id": "Ambessa",
+    "type": "ability",
+    "en_name": "Repudiation",
+    "ru_name": "Отречение"
+  },
+  {
+    "id": "AmbessaE",
+    "champion_id": "Ambessa",
+    "type": "ability",
+    "en_name": "Lacerate",
+    "ru_name": "Истязание"
+  },
+  {
+    "id": "AmbessaR",
+    "champion_id": "Ambessa",
+    "type": "ability",
+    "en_name": "Public Execution",
+    "ru_name": "Показательная расправа"
+  },
+  {
+    "id": "AmumuPassive",
+    "champion_id": "Amumu",
+    "type": "passive",
+    "en_name": "Cursed Touch",
+    "ru_name": "Прикосновение мумии"
+  },
+  {
+    "id": "BandageToss",
+    "champion_id": "Amumu",
+    "type": "ability",
+    "en_name": "Bandage Toss",
+    "ru_name": "Бросок бинта"
+  },
+  {
+    "id": "AuraofDespair",
+    "champion_id": "Amumu",
+    "type": "ability",
+    "en_name": "Despair",
+    "ru_name": "Отчаяние"
+  },
+  {
+    "id": "Tantrum",
+    "champion_id": "Amumu",
+    "type": "ability",
+    "en_name": "Tantrum",
+    "ru_name": "Вспышка гнева"
+  },
+  {
+    "id": "CurseoftheSadMummy",
+    "champion_id": "Amumu",
+    "type": "ability",
+    "en_name": "Curse of the Sad Mummy",
+    "ru_name": "Проклятие печальной мумии"
+  },
+  {
+    "id": "AniviaPassive",
+    "champion_id": "Anivia",
+    "type": "passive",
+    "en_name": "Rebirth",
+    "ru_name": "Перерождение"
+  },
+  {
+    "id": "FlashFrost",
+    "champion_id": "Anivia",
+    "type": "ability",
+    "en_name": "Flash Frost",
+    "ru_name": "Мгновенная заморозка"
+  },
+  {
+    "id": "Crystallize",
+    "champion_id": "Anivia",
+    "type": "ability",
+    "en_name": "Crystallize",
+    "ru_name": "Кристаллизация"
+  },
+  {
+    "id": "Frostbite",
+    "champion_id": "Anivia",
+    "type": "ability",
+    "en_name": "Frostbite",
+    "ru_name": "Обморожение"
+  },
+  {
+    "id": "GlacialStorm",
+    "champion_id": "Anivia",
+    "type": "ability",
+    "en_name": "Glacial Storm",
+    "ru_name": "Ледяная буря"
+  },
+  {
+    "id": "AnniePassive",
+    "champion_id": "Annie",
+    "type": "passive",
+    "en_name": "Pyromania",
+    "ru_name": "Пиромания"
+  },
+  {
+    "id": "AnnieQ",
+    "champion_id": "Annie",
+    "type": "ability",
+    "en_name": "Disintegrate",
+    "ru_name": "Расщепление"
+  },
+  {
+    "id": "AnnieW",
+    "champion_id": "Annie",
+    "type": "ability",
+    "en_name": "Incinerate",
+    "ru_name": "Испепеление"
+  },
+  {
+    "id": "AnnieE",
+    "champion_id": "Annie",
+    "type": "ability",
+    "en_name": "Molten Shield",
+    "ru_name": "Пылающий щит"
+  },
+  {
+    "id": "AnnieR",
+    "champion_id": "Annie",
+    "type": "ability",
+    "en_name": "Summon: Tibbers",
+    "ru_name": "Призыв Тибберса"
+  },
+  {
+    "id": "ApheliosPassive",
+    "champion_id": "Aphelios",
+    "type": "passive",
+    "en_name": "The Hitman and the Seer",
+    "ru_name": "Убийца и провидица"
+  },
+  {
+    "id": "ApheliosQ_ClientTooltipWrapper",
+    "champion_id": "Aphelios",
+    "type": "ability",
+    "en_name": "Weapon Abilites",
+    "ru_name": "Оружейные умения"
+  },
+  {
+    "id": "ApheliosW",
+    "champion_id": "Aphelios",
+    "type": "ability",
+    "en_name": "Phase",
+    "ru_name": "Фаза"
+  },
+  {
+    "id": "ApheliosE_ClientTooltipWrapper",
+    "champion_id": "Aphelios",
+    "type": "ability",
+    "en_name": "Weapon Queue System",
+    "ru_name": "Система очереди видов оружия"
+  },
+  {
+    "id": "ApheliosR",
+    "champion_id": "Aphelios",
+    "type": "ability",
+    "en_name": "Moonlight Vigil",
+    "ru_name": "Лунный дозор"
+  },
+  {
+    "id": "AshePassive",
+    "champion_id": "Ashe",
+    "type": "passive",
+    "en_name": "Frost Shot",
+    "ru_name": "Морозный выстрел"
+  },
+  {
+    "id": "AsheQ",
+    "champion_id": "Ashe",
+    "type": "ability",
+    "en_name": "Ranger's Focus",
+    "ru_name": "Сосредоточенность стрелка"
+  },
+  {
+    "id": "Volley",
+    "champion_id": "Ashe",
+    "type": "ability",
+    "en_name": "Volley",
+    "ru_name": "Залп"
+  },
+  {
+    "id": "AsheSpiritOfTheHawk",
+    "champion_id": "Ashe",
+    "type": "ability",
+    "en_name": "Hawkshot",
+    "ru_name": "Ястребиная разведка"
+  },
+  {
+    "id": "EnchantedCrystalArrow",
+    "champion_id": "Ashe",
+    "type": "ability",
+    "en_name": "Enchanted Crystal Arrow",
+    "ru_name": "Зачарованная ледяная стрела"
+  },
+  {
+    "id": "AurelionSolPassive",
+    "champion_id": "AurelionSol",
+    "type": "passive",
+    "en_name": "Cosmic Creator",
+    "ru_name": "Вселенский творец"
+  },
+  {
+    "id": "AurelionSolQ",
+    "champion_id": "AurelionSol",
+    "type": "ability",
+    "en_name": "Breath of Light",
+    "ru_name": "Дыхание солнца"
+  },
+  {
+    "id": "AurelionSolW",
+    "champion_id": "AurelionSol",
+    "type": "ability",
+    "en_name": "Astral Flight",
+    "ru_name": "Космический полет"
+  },
+  {
+    "id": "AurelionSolE",
+    "champion_id": "AurelionSol",
+    "type": "ability",
+    "en_name": "Singularity",
+    "ru_name": "Сингулярность"
+  },
+  {
+    "id": "AurelionSolR",
+    "champion_id": "AurelionSol",
+    "type": "ability",
+    "en_name": "Falling Star / The Skies Descend",
+    "ru_name": "Падающая звезда / Обрушение небес"
+  },
+  {
+    "id": "AuroraPassive",
+    "champion_id": "Aurora",
+    "type": "passive",
+    "en_name": "Spirit Abjuration",
+    "ru_name": "Изгнание духа"
+  },
+  {
+    "id": "AuroraQ",
+    "champion_id": "Aurora",
+    "type": "ability",
+    "en_name": "Twofold Hex",
+    "ru_name": "Двойное проклятие"
+  },
+  {
+    "id": "AuroraW",
+    "champion_id": "Aurora",
+    "type": "ability",
+    "en_name": "Across the Veil",
+    "ru_name": "За завесой"
+  },
+  {
+    "id": "AuroraE",
+    "champion_id": "Aurora",
+    "type": "ability",
+    "en_name": "The Weirding",
+    "ru_name": "Чудовство"
+  },
+  {
+    "id": "AuroraR",
+    "champion_id": "Aurora",
+    "type": "ability",
+    "en_name": "Between Worlds",
+    "ru_name": "Междумирье"
+  },
+  {
+    "id": "AzirPassive",
+    "champion_id": "Azir",
+    "type": "passive",
+    "en_name": "Shurima's Legacy",
+    "ru_name": "Наследие Шуримы"
+  },
+  {
+    "id": "AzirQWrapper",
+    "champion_id": "Azir",
+    "type": "ability",
+    "en_name": "Conquering Sands",
+    "ru_name": "Неумолимые пески"
+  },
+  {
+    "id": "AzirW",
+    "champion_id": "Azir",
+    "type": "ability",
+    "en_name": "Arise!",
+    "ru_name": "Восстань!"
+  },
+  {
+    "id": "AzirEWrapper",
+    "champion_id": "Azir",
+    "type": "ability",
+    "en_name": "Shifting Sands",
+    "ru_name": "Подвижный песок"
+  },
+  {
+    "id": "AzirR",
+    "champion_id": "Azir",
+    "type": "ability",
+    "en_name": "Emperor's Divide",
+    "ru_name": "Разделяй и властвуй"
+  },
+  {
+    "id": "BardPassive",
+    "champion_id": "Bard",
+    "type": "passive",
+    "en_name": "Traveler's Call",
+    "ru_name": "Зов скитальца"
+  },
+  {
+    "id": "BardQ",
+    "champion_id": "Bard",
+    "type": "ability",
+    "en_name": "Cosmic Binding",
+    "ru_name": "Оковы Вселенной"
+  },
+  {
+    "id": "BardW",
+    "champion_id": "Bard",
+    "type": "ability",
+    "en_name": "Caretaker's Shrine",
+    "ru_name": "Алтарь Хранителя"
+  },
+  {
+    "id": "BardE",
+    "champion_id": "Bard",
+    "type": "ability",
+    "en_name": "Magical Journey",
+    "ru_name": "Волшебное путешествие"
+  },
+  {
+    "id": "BardR",
+    "champion_id": "Bard",
+    "type": "ability",
+    "en_name": "Tempered Fate",
+    "ru_name": "Отсрочка неизбежного"
+  },
+  {
+    "id": "BelvethPassive",
+    "champion_id": "Belveth",
+    "type": "passive",
+    "en_name": "Death in Lavender",
+    "ru_name": "Лиловая смерть"
+  },
+  {
+    "id": "BelvethQ",
+    "champion_id": "Belveth",
+    "type": "ability",
+    "en_name": "Void Surge",
+    "ru_name": "Неотвратимая Бездна"
+  },
+  {
+    "id": "BelvethW",
+    "champion_id": "Belveth",
+    "type": "ability",
+    "en_name": "Above and Below",
+    "ru_name": "Сверху и снизу"
+  },
+  {
+    "id": "BelvethE",
+    "champion_id": "Belveth",
+    "type": "ability",
+    "en_name": "Royal Maelstrom",
+    "ru_name": "Ярость императрицы"
+  },
+  {
+    "id": "BelvethR",
+    "champion_id": "Belveth",
+    "type": "ability",
+    "en_name": "Endless Banquet",
+    "ru_name": "Неутолимый голод"
+  },
+  {
+    "id": "BlitzcrankPassive",
+    "champion_id": "Blitzcrank",
+    "type": "passive",
+    "en_name": "Mana Barrier",
+    "ru_name": "Щит маны"
+  },
+  {
+    "id": "RocketGrab",
+    "champion_id": "Blitzcrank",
+    "type": "ability",
+    "en_name": "Rocket Grab",
+    "ru_name": "Ракетный захват"
+  },
+  {
+    "id": "Overdrive",
+    "champion_id": "Blitzcrank",
+    "type": "ability",
+    "en_name": "Overdrive",
+    "ru_name": "Ускорение"
+  },
+  {
+    "id": "PowerFist",
+    "champion_id": "Blitzcrank",
+    "type": "ability",
+    "en_name": "Power Fist",
+    "ru_name": "Силовой кулак"
+  },
+  {
+    "id": "StaticField",
+    "champion_id": "Blitzcrank",
+    "type": "ability",
+    "en_name": "Static Field",
+    "ru_name": "Статическое поле"
+  },
+  {
+    "id": "BrandPassive",
+    "champion_id": "Brand",
+    "type": "passive",
+    "en_name": "Blaze",
+    "ru_name": "Поджог"
+  },
+  {
+    "id": "BrandQ",
+    "champion_id": "Brand",
+    "type": "ability",
+    "en_name": "Sear",
+    "ru_name": "Выгорание"
+  },
+  {
+    "id": "BrandW",
+    "champion_id": "Brand",
+    "type": "ability",
+    "en_name": "Pillar of Flame",
+    "ru_name": "Столб пламени"
+  },
+  {
+    "id": "BrandE",
+    "champion_id": "Brand",
+    "type": "ability",
+    "en_name": "Conflagration",
+    "ru_name": "Воспламенение"
+  },
+  {
+    "id": "BrandR",
+    "champion_id": "Brand",
+    "type": "ability",
+    "en_name": "Pyroclasm",
+    "ru_name": "Очищение огнем"
+  },
+  {
+    "id": "BraumPassive",
+    "champion_id": "Braum",
+    "type": "passive",
+    "en_name": "Concussive Blows",
+    "ru_name": "Оглушающие удары"
+  },
+  {
+    "id": "BraumQ",
+    "champion_id": "Braum",
+    "type": "ability",
+    "en_name": "Winter's Bite",
+    "ru_name": "Укус зимы"
+  },
+  {
+    "id": "BraumW",
+    "champion_id": "Braum",
+    "type": "ability",
+    "en_name": "Stand Behind Me",
+    "ru_name": "Прячься за меня"
+  },
+  {
+    "id": "BraumE",
+    "champion_id": "Braum",
+    "type": "ability",
+    "en_name": "Unbreakable",
+    "ru_name": "Неуязвимый"
+  },
+  {
+    "id": "BraumRWrapper",
+    "champion_id": "Braum",
+    "type": "ability",
+    "en_name": "Glacial Fissure",
+    "ru_name": "Ледниковый разлом"
+  },
+  {
+    "id": "BriarPassive",
+    "champion_id": "Briar",
+    "type": "passive",
+    "en_name": "Crimson Curse",
+    "ru_name": "Алое проклятие"
+  },
+  {
+    "id": "BriarQ",
+    "champion_id": "Briar",
+    "type": "ability",
+    "en_name": "Head Rush",
+    "ru_name": "Наскок"
+  },
+  {
+    "id": "BriarW",
+    "champion_id": "Briar",
+    "type": "ability",
+    "en_name": "Blood Frenzy / Snack Attack",
+    "ru_name": "Кровавое бешенство / Перекус"
+  },
+  {
+    "id": "BriarE",
+    "champion_id": "Briar",
+    "type": "ability",
+    "en_name": "Chilling Scream",
+    "ru_name": "Жуткий вопль"
+  },
+  {
+    "id": "BriarR",
+    "champion_id": "Briar",
+    "type": "ability",
+    "en_name": "Certain Death",
+    "ru_name": "Верная смерть"
+  },
+  {
+    "id": "CaitlynPassive",
+    "champion_id": "Caitlyn",
+    "type": "passive",
+    "en_name": "Headshot",
+    "ru_name": "Выстрел в голову"
+  },
+  {
+    "id": "CaitlynQ",
+    "champion_id": "Caitlyn",
+    "type": "ability",
+    "en_name": "Piltover Peacemaker",
+    "ru_name": "Пилтоверский миротворец"
+  },
+  {
+    "id": "CaitlynW",
+    "champion_id": "Caitlyn",
+    "type": "ability",
+    "en_name": "Yordle Snap Trap",
+    "ru_name": "Ловушка на йордлов"
+  },
+  {
+    "id": "CaitlynE",
+    "champion_id": "Caitlyn",
+    "type": "ability",
+    "en_name": "90 Caliber Net",
+    "ru_name": "Сеть 90 калибра"
+  },
+  {
+    "id": "CaitlynR",
+    "champion_id": "Caitlyn",
+    "type": "ability",
+    "en_name": "Ace in the Hole",
+    "ru_name": "Главный козырь"
+  },
+  {
+    "id": "CamillePassive",
+    "champion_id": "Camille",
+    "type": "passive",
+    "en_name": "Adaptive Defenses",
+    "ru_name": "Адаптивная защита"
+  },
+  {
+    "id": "CamilleQ",
+    "champion_id": "Camille",
+    "type": "ability",
+    "en_name": "Precision Protocol",
+    "ru_name": "Протокол точности"
+  },
+  {
+    "id": "CamilleW",
+    "champion_id": "Camille",
+    "type": "ability",
+    "en_name": "Tactical Sweep",
+    "ru_name": "Тактический взмах"
+  },
+  {
+    "id": "CamilleE",
+    "champion_id": "Camille",
+    "type": "ability",
+    "en_name": "Hookshot",
+    "ru_name": "Выстрел крюком"
+  },
+  {
+    "id": "CamilleR",
+    "champion_id": "Camille",
+    "type": "ability",
+    "en_name": "The Hextech Ultimatum",
+    "ru_name": "Хекстековый ультиматум"
+  },
+  {
+    "id": "CassiopeiaPassive",
+    "champion_id": "Cassiopeia",
+    "type": "passive",
+    "en_name": "Serpentine Grace",
+    "ru_name": "Змеиная грация"
+  },
+  {
+    "id": "CassiopeiaQ",
+    "champion_id": "Cassiopeia",
+    "type": "ability",
+    "en_name": "Noxious Blast",
+    "ru_name": "Ядовитый взрыв"
+  },
+  {
+    "id": "CassiopeiaW",
+    "champion_id": "Cassiopeia",
+    "type": "ability",
+    "en_name": "Miasma",
+    "ru_name": "Миазмы"
+  },
+  {
+    "id": "CassiopeiaE",
+    "champion_id": "Cassiopeia",
+    "type": "ability",
+    "en_name": "Twin Fang",
+    "ru_name": "Два клыка"
+  },
+  {
+    "id": "CassiopeiaR",
+    "champion_id": "Cassiopeia",
+    "type": "ability",
+    "en_name": "Petrifying Gaze",
+    "ru_name": "Каменящий взгляд"
+  },
+  {
+    "id": "ChogathPassive",
+    "champion_id": "Chogath",
+    "type": "passive",
+    "en_name": "Carnivore",
+    "ru_name": "Плотоядность"
+  },
+  {
+    "id": "Rupture",
+    "champion_id": "Chogath",
+    "type": "ability",
+    "en_name": "Rupture",
+    "ru_name": "Пролом"
+  },
+  {
+    "id": "FeralScream",
+    "champion_id": "Chogath",
+    "type": "ability",
+    "en_name": "Feral Scream",
+    "ru_name": "Дикий крик"
+  },
+  {
+    "id": "VorpalSpikes",
+    "champion_id": "Chogath",
+    "type": "ability",
+    "en_name": "Vorpal Spikes",
+    "ru_name": "Смертоносные шипы"
+  },
+  {
+    "id": "Feast",
+    "champion_id": "Chogath",
+    "type": "ability",
+    "en_name": "Feast",
+    "ru_name": "Пожирание"
+  },
+  {
+    "id": "CorkiPassive",
+    "champion_id": "Corki",
+    "type": "passive",
+    "en_name": "Hextech Munitions",
+    "ru_name": "Хекстековые боеприпасы"
+  },
+  {
+    "id": "PhosphorusBomb",
+    "champion_id": "Corki",
+    "type": "ability",
+    "en_name": "Phosphorus Bomb",
+    "ru_name": "Фосфорная бомба"
+  },
+  {
+    "id": "CarpetBomb",
+    "champion_id": "Corki",
+    "type": "ability",
+    "en_name": "Valkyrie",
+    "ru_name": "Валькирия"
+  },
+  {
+    "id": "GGun",
+    "champion_id": "Corki",
+    "type": "ability",
+    "en_name": "Gatling Gun",
+    "ru_name": "Пулемет"
+  },
+  {
+    "id": "MissileBarrage",
+    "champion_id": "Corki",
+    "type": "ability",
+    "en_name": "Missile Barrage",
+    "ru_name": "Ракетный обстрел"
+  },
+  {
+    "id": "DariusPassive",
+    "champion_id": "Darius",
+    "type": "passive",
+    "en_name": "Hemorrhage",
+    "ru_name": "Кровотечение"
+  },
+  {
+    "id": "DariusCleave",
+    "champion_id": "Darius",
+    "type": "ability",
+    "en_name": "Decimate",
+    "ru_name": "Истребление"
+  },
+  {
+    "id": "DariusNoxianTacticsONH",
+    "champion_id": "Darius",
+    "type": "ability",
+    "en_name": "Crippling Strike",
+    "ru_name": "Калечащий удар"
+  },
+  {
+    "id": "DariusAxeGrabCone",
+    "champion_id": "Darius",
+    "type": "ability",
+    "en_name": "Apprehend",
+    "ru_name": "Задержание"
+  },
+  {
+    "id": "DariusExecute",
+    "champion_id": "Darius",
+    "type": "ability",
+    "en_name": "Noxian Guillotine",
+    "ru_name": "Ноксианская гильотина"
+  },
+  {
+    "id": "DianaPassive",
+    "champion_id": "Diana",
+    "type": "passive",
+    "en_name": "Moonsilver Blade",
+    "ru_name": "Клинок лунного сияния"
+  },
+  {
+    "id": "DianaQ",
+    "champion_id": "Diana",
+    "type": "ability",
+    "en_name": "Crescent Strike",
+    "ru_name": "Удар полумесяца"
+  },
+  {
+    "id": "DianaOrbs",
+    "champion_id": "Diana",
+    "type": "ability",
+    "en_name": "Pale Cascade",
+    "ru_name": "Бледный каскад"
+  },
+  {
+    "id": "DianaTeleport",
+    "champion_id": "Diana",
+    "type": "ability",
+    "en_name": "Lunar Rush",
+    "ru_name": "Лунный рывок"
+  },
+  {
+    "id": "DianaR",
+    "champion_id": "Diana",
+    "type": "ability",
+    "en_name": "Moonfall",
+    "ru_name": "Притяжение Луны"
+  },
+  {
+    "id": "DrMundoPassive",
+    "champion_id": "DrMundo",
+    "type": "passive",
+    "en_name": "Goes Where He Pleases",
+    "ru_name": "Ходить куда хотеть"
+  },
+  {
+    "id": "DrMundoQ",
+    "champion_id": "DrMundo",
+    "type": "ability",
+    "en_name": "Infected Bonesaw",
+    "ru_name": "Зараженная пила"
+  },
+  {
+    "id": "DrMundoW",
+    "champion_id": "DrMundo",
+    "type": "ability",
+    "en_name": "Heart Zapper",
+    "ru_name": "Шоковая терапия"
+  },
+  {
+    "id": "DrMundoE",
+    "champion_id": "DrMundo",
+    "type": "ability",
+    "en_name": "Blunt Force Trauma",
+    "ru_name": "Тупая травма"
+  },
+  {
+    "id": "DrMundoR",
+    "champion_id": "DrMundo",
+    "type": "ability",
+    "en_name": "Maximum Dosage",
+    "ru_name": "Максимальная доза"
+  },
+  {
+    "id": "DravenPassive",
+    "champion_id": "Draven",
+    "type": "passive",
+    "en_name": "League of Draven",
+    "ru_name": "Лига Дрейвена"
+  },
+  {
+    "id": "DravenSpinning",
+    "champion_id": "Draven",
+    "type": "ability",
+    "en_name": "Spinning Axe",
+    "ru_name": "Вращающийся топор"
+  },
+  {
+    "id": "DravenFury",
+    "champion_id": "Draven",
+    "type": "ability",
+    "en_name": "Blood Rush",
+    "ru_name": "Прилив крови"
+  },
+  {
+    "id": "DravenDoubleShot",
+    "champion_id": "Draven",
+    "type": "ability",
+    "en_name": "Stand Aside",
+    "ru_name": "Расходимся!"
+  },
+  {
+    "id": "DravenRCast",
+    "champion_id": "Draven",
+    "type": "ability",
+    "en_name": "Whirling Death",
+    "ru_name": "Кружащаяся смерть"
+  },
+  {
+    "id": "EkkoPassive",
+    "champion_id": "Ekko",
+    "type": "passive",
+    "en_name": "Z-Drive Resonance",
+    "ru_name": "Резонанс Z-привода"
+  },
+  {
+    "id": "EkkoQ",
+    "champion_id": "Ekko",
+    "type": "ability",
+    "en_name": "Timewinder",
+    "ru_name": "Временной ключ"
+  },
+  {
+    "id": "EkkoW",
+    "champion_id": "Ekko",
+    "type": "ability",
+    "en_name": "Parallel Convergence",
+    "ru_name": "Параллельная конвергенция"
+  },
+  {
+    "id": "EkkoE",
+    "champion_id": "Ekko",
+    "type": "ability",
+    "en_name": "Phase Dive",
+    "ru_name": "Фазовый скачок"
+  },
+  {
+    "id": "EkkoR",
+    "champion_id": "Ekko",
+    "type": "ability",
+    "en_name": "Chronobreak",
+    "ru_name": "Управление временем"
+  },
+  {
+    "id": "ElisePassive",
+    "champion_id": "Elise",
+    "type": "passive",
+    "en_name": "Spider Queen",
+    "ru_name": "Королева пауков"
+  },
+  {
+    "id": "EliseHumanQ",
+    "champion_id": "Elise",
+    "type": "ability",
+    "en_name": "Neurotoxin / Venomous Bite",
+    "ru_name": "Нейротоксин / Ядовитый укус"
+  },
+  {
+    "id": "EliseHumanW",
+    "champion_id": "Elise",
+    "type": "ability",
+    "en_name": "Volatile Spiderling / Skittering Frenzy",
+    "ru_name": "Взрывоопасный паучок / Паучье бешенство"
+  },
+  {
+    "id": "EliseHumanE",
+    "champion_id": "Elise",
+    "type": "ability",
+    "en_name": "Cocoon / Rappel",
+    "ru_name": "Кокон / Спуск"
+  },
+  {
+    "id": "EliseR",
+    "champion_id": "Elise",
+    "type": "ability",
+    "en_name": "Spider Form",
+    "ru_name": "Форма паука"
+  },
+  {
+    "id": "EvelynnPassive",
+    "champion_id": "Evelynn",
+    "type": "passive",
+    "en_name": "Demon Shade",
+    "ru_name": "Демоническая тень"
+  },
+  {
+    "id": "EvelynnQ",
+    "champion_id": "Evelynn",
+    "type": "ability",
+    "en_name": "Hate Spike",
+    "ru_name": "Всплеск ненависти"
+  },
+  {
+    "id": "EvelynnW",
+    "champion_id": "Evelynn",
+    "type": "ability",
+    "en_name": "Allure",
+    "ru_name": "Обольщение"
+  },
+  {
+    "id": "EvelynnE",
+    "champion_id": "Evelynn",
+    "type": "ability",
+    "en_name": "Whiplash",
+    "ru_name": "Удар хлыста"
+  },
+  {
+    "id": "EvelynnR",
+    "champion_id": "Evelynn",
+    "type": "ability",
+    "en_name": "Last Caress",
+    "ru_name": "Последний поцелуй"
+  },
+  {
+    "id": "EzrealPassive",
+    "champion_id": "Ezreal",
+    "type": "passive",
+    "en_name": "Rising Spell Force",
+    "ru_name": "Переполняющая магия"
+  },
+  {
+    "id": "EzrealQ",
+    "champion_id": "Ezreal",
+    "type": "ability",
+    "en_name": "Mystic Shot",
+    "ru_name": "Мистический выстрел"
+  },
+  {
+    "id": "EzrealW",
+    "champion_id": "Ezreal",
+    "type": "ability",
+    "en_name": "Essence Flux",
+    "ru_name": "Искажение сущности"
+  },
+  {
+    "id": "EzrealE",
+    "champion_id": "Ezreal",
+    "type": "ability",
+    "en_name": "Arcane Shift",
+    "ru_name": "Магический сдвиг"
+  },
+  {
+    "id": "EzrealR",
+    "champion_id": "Ezreal",
+    "type": "ability",
+    "en_name": "Trueshot Barrage",
+    "ru_name": "Прицельный залп"
+  },
+  {
+    "id": "FiddlesticksPassive",
+    "champion_id": "Fiddlesticks",
+    "type": "passive",
+    "en_name": "A Harmless Scarecrow",
+    "ru_name": "Безобидное пугало"
+  },
+  {
+    "id": "FiddleSticksQ",
+    "champion_id": "Fiddlesticks",
+    "type": "ability",
+    "en_name": "Terrify",
+    "ru_name": "Ужас"
+  },
+  {
+    "id": "FiddleSticksW",
+    "champion_id": "Fiddlesticks",
+    "type": "ability",
+    "en_name": "Bountiful Harvest",
+    "ru_name": "Обильный урожай"
+  },
+  {
+    "id": "FiddleSticksE",
+    "champion_id": "Fiddlesticks",
+    "type": "ability",
+    "en_name": "Reap",
+    "ru_name": "Жатва"
+  },
+  {
+    "id": "FiddleSticksR",
+    "champion_id": "Fiddlesticks",
+    "type": "ability",
+    "en_name": "Crowstorm",
+    "ru_name": "Нашествие воронов"
+  },
+  {
+    "id": "FioraPassive",
+    "champion_id": "Fiora",
+    "type": "passive",
+    "en_name": "Duelist's Dance",
+    "ru_name": "Танец дуэлянта"
+  },
+  {
+    "id": "FioraQ",
+    "champion_id": "Fiora",
+    "type": "ability",
+    "en_name": "Lunge",
+    "ru_name": "Выпад"
+  },
+  {
+    "id": "FioraW",
+    "champion_id": "Fiora",
+    "type": "ability",
+    "en_name": "Riposte",
+    "ru_name": "Парирование"
+  },
+  {
+    "id": "FioraE",
+    "champion_id": "Fiora",
+    "type": "ability",
+    "en_name": "Bladework",
+    "ru_name": "Мастер клинка"
+  },
+  {
+    "id": "FioraR",
+    "champion_id": "Fiora",
+    "type": "ability",
+    "en_name": "Grand Challenge",
+    "ru_name": "Дерзкий вызов"
+  },
+  {
+    "id": "FizzPassive",
+    "champion_id": "Fizz",
+    "type": "passive",
+    "en_name": "Nimble Fighter",
+    "ru_name": "Проворный боец"
+  },
+  {
+    "id": "FizzQ",
+    "champion_id": "Fizz",
+    "type": "ability",
+    "en_name": "Urchin Strike",
+    "ru_name": "Удар сорванца"
+  },
+  {
+    "id": "FizzW",
+    "champion_id": "Fizz",
+    "type": "ability",
+    "en_name": "Seastone Trident",
+    "ru_name": "Морской трезубец"
+  },
+  {
+    "id": "FizzE",
+    "champion_id": "Fizz",
+    "type": "ability",
+    "en_name": "Playful / Trickster",
+    "ru_name": "Баловство / Обман"
+  },
+  {
+    "id": "FizzR",
+    "champion_id": "Fizz",
+    "type": "ability",
+    "en_name": "Chum the Waters",
+    "ru_name": "Ловля на живца"
+  },
+  {
+    "id": "GalioPassive",
+    "champion_id": "Galio",
+    "type": "passive",
+    "en_name": "Colossal Smash",
+    "ru_name": "Колоссальный удар"
+  },
+  {
+    "id": "GalioQ",
+    "champion_id": "Galio",
+    "type": "ability",
+    "en_name": "Winds of War",
+    "ru_name": "Ветра войны"
+  },
+  {
+    "id": "GalioW",
+    "champion_id": "Galio",
+    "type": "ability",
+    "en_name": "Shield of Durand",
+    "ru_name": "Щит Дюрана"
+  },
+  {
+    "id": "GalioE",
+    "champion_id": "Galio",
+    "type": "ability",
+    "en_name": "Justice Punch",
+    "ru_name": "Кулак правосудия"
+  },
+  {
+    "id": "GalioR",
+    "champion_id": "Galio",
+    "type": "ability",
+    "en_name": "Hero's Entrance",
+    "ru_name": "Появление героя"
+  },
+  {
+    "id": "GangplankPassive",
+    "champion_id": "Gangplank",
+    "type": "passive",
+    "en_name": "Trial by Fire",
+    "ru_name": "Испытание огнем"
+  },
+  {
+    "id": "GangplankQWrapper",
+    "champion_id": "Gangplank",
+    "type": "ability",
+    "en_name": "Parrrley",
+    "ru_name": "Аррргумент"
+  },
+  {
+    "id": "GangplankW",
+    "champion_id": "Gangplank",
+    "type": "ability",
+    "en_name": "Remove Scurvy",
+    "ru_name": "Заедание цинги"
+  },
+  {
+    "id": "GangplankE",
+    "champion_id": "Gangplank",
+    "type": "ability",
+    "en_name": "Powder Keg",
+    "ru_name": "Пороховая бочка"
+  },
+  {
+    "id": "GangplankR",
+    "champion_id": "Gangplank",
+    "type": "ability",
+    "en_name": "Cannon Barrage",
+    "ru_name": "Пушечный обстрел"
+  },
+  {
+    "id": "GarenPassive",
+    "champion_id": "Garen",
+    "type": "passive",
+    "en_name": "Perseverance",
+    "ru_name": "Упорство"
+  },
+  {
+    "id": "GarenQ",
+    "champion_id": "Garen",
+    "type": "ability",
+    "en_name": "Decisive Strike",
+    "ru_name": "Решающий удар"
+  },
+  {
+    "id": "GarenW",
+    "champion_id": "Garen",
+    "type": "ability",
+    "en_name": "Courage",
+    "ru_name": "Храбрость"
+  },
+  {
+    "id": "GarenE",
+    "champion_id": "Garen",
+    "type": "ability",
+    "en_name": "Judgment",
+    "ru_name": "Вердикт"
+  },
+  {
+    "id": "GarenR",
+    "champion_id": "Garen",
+    "type": "ability",
+    "en_name": "Demacian Justice",
+    "ru_name": "Правосудие Демасии"
+  },
+  {
+    "id": "GnarPassive",
+    "champion_id": "Gnar",
+    "type": "passive",
+    "en_name": "Rage Gene",
+    "ru_name": "Ген ярости"
+  },
+  {
+    "id": "GnarQ",
+    "champion_id": "Gnar",
+    "type": "ability",
+    "en_name": "Boomerang Throw / Boulder Toss",
+    "ru_name": "Бросок бумеранга / Бросок валуна"
+  },
+  {
+    "id": "GnarW",
+    "champion_id": "Gnar",
+    "type": "ability",
+    "en_name": "Hyper / Wallop",
+    "ru_name": "Торопыжка / Бум"
+  },
+  {
+    "id": "GnarE",
+    "champion_id": "Gnar",
+    "type": "ability",
+    "en_name": "Hop / Crunch",
+    "ru_name": "Прыг / Хрясь"
+  },
+  {
+    "id": "GnarR",
+    "champion_id": "Gnar",
+    "type": "ability",
+    "en_name": "GNAR!",
+    "ru_name": "ГНА-А-А-Р!"
+  },
+  {
+    "id": "GragasPassive",
+    "champion_id": "Gragas",
+    "type": "passive",
+    "en_name": "Happy Hour",
+    "ru_name": "Пойло со скидкой"
+  },
+  {
+    "id": "GragasQ",
+    "champion_id": "Gragas",
+    "type": "ability",
+    "en_name": "Barrel Roll",
+    "ru_name": "Бочка"
+  },
+  {
+    "id": "GragasW",
+    "champion_id": "Gragas",
+    "type": "ability",
+    "en_name": "Drunken Rage",
+    "ru_name": "Пьяный угар"
+  },
+  {
+    "id": "GragasE",
+    "champion_id": "Gragas",
+    "type": "ability",
+    "en_name": "Body Slam",
+    "ru_name": "Таран"
+  },
+  {
+    "id": "GragasR",
+    "champion_id": "Gragas",
+    "type": "ability",
+    "en_name": "Explosive Cask",
+    "ru_name": "Взрывной бочонок"
+  },
+  {
+    "id": "GravesPassive",
+    "champion_id": "Graves",
+    "type": "passive",
+    "en_name": "New Destiny",
+    "ru_name": "Новая Судьба"
+  },
+  {
+    "id": "GravesQLineSpell",
+    "champion_id": "Graves",
+    "type": "ability",
+    "en_name": "End of the Line",
+    "ru_name": "Финита ля комедия"
+  },
+  {
+    "id": "GravesSmokeGrenade",
+    "champion_id": "Graves",
+    "type": "ability",
+    "en_name": "Smoke Screen",
+    "ru_name": "Дымовая завеса"
+  },
+  {
+    "id": "GravesMove",
+    "champion_id": "Graves",
+    "type": "ability",
+    "en_name": "Quickdraw",
+    "ru_name": "На изготовку"
+  },
+  {
+    "id": "GravesChargeShot",
+    "champion_id": "Graves",
+    "type": "ability",
+    "en_name": "Collateral Damage",
+    "ru_name": "Сопутствующий ущерб"
+  },
+  {
+    "id": "GwenPassive",
+    "champion_id": "Gwen",
+    "type": "passive",
+    "en_name": "A Thousand Cuts",
+    "ru_name": "Тысяча порезов"
+  },
+  {
+    "id": "GwenQ",
+    "champion_id": "Gwen",
+    "type": "ability",
+    "en_name": "Snip Snip!",
+    "ru_name": "Чик-чик!"
+  },
+  {
+    "id": "GwenW",
+    "champion_id": "Gwen",
+    "type": "ability",
+    "en_name": "Hallowed Mist",
+    "ru_name": "Священный туман"
+  },
+  {
+    "id": "GwenE",
+    "champion_id": "Gwen",
+    "type": "ability",
+    "en_name": "Skip 'n Slash",
+    "ru_name": "Свободный крой"
+  },
+  {
+    "id": "GwenR",
+    "champion_id": "Gwen",
+    "type": "ability",
+    "en_name": "Needlework",
+    "ru_name": "Вышивание"
+  },
+  {
+    "id": "HecarimPassive",
+    "champion_id": "Hecarim",
+    "type": "passive",
+    "en_name": "Warpath",
+    "ru_name": "Тропа войны"
+  },
+  {
+    "id": "HecarimRapidSlash",
+    "champion_id": "Hecarim",
+    "type": "ability",
+    "en_name": "Rampage",
+    "ru_name": "Буйство"
+  },
+  {
+    "id": "HecarimW",
+    "champion_id": "Hecarim",
+    "type": "ability",
+    "en_name": "Spirit of Dread",
+    "ru_name": "Аура ужаса"
+  },
+  {
+    "id": "HecarimRamp",
+    "champion_id": "Hecarim",
+    "type": "ability",
+    "en_name": "Devastating Charge",
+    "ru_name": "Разрушительный рывок"
+  },
+  {
+    "id": "HecarimUlt",
+    "champion_id": "Hecarim",
+    "type": "ability",
+    "en_name": "Onslaught of Shadows",
+    "ru_name": "Натиск теней"
+  },
+  {
+    "id": "HeimerdingerPassive",
+    "champion_id": "Heimerdinger",
+    "type": "passive",
+    "en_name": "Hextech Affinity",
+    "ru_name": "Тяга к хекстеку"
+  },
+  {
+    "id": "HeimerdingerQ",
+    "champion_id": "Heimerdinger",
+    "type": "ability",
+    "en_name": "H-28 G Evolution Turret",
+    "ru_name": "Эволюционирующая турель H-28G"
+  },
+  {
+    "id": "HeimerdingerW",
+    "champion_id": "Heimerdinger",
+    "type": "ability",
+    "en_name": "Hextech Micro-Rockets",
+    "ru_name": "Хекстек-микроракеты"
+  },
+  {
+    "id": "HeimerdingerE",
+    "champion_id": "Heimerdinger",
+    "type": "ability",
+    "en_name": "CH-2 Electron Storm Grenade",
+    "ru_name": "Оглушающая граната CH-2"
+  },
+  {
+    "id": "HeimerdingerR",
+    "champion_id": "Heimerdinger",
+    "type": "ability",
+    "en_name": "UPGRADE!!!",
+    "ru_name": "МОДЕРНИЗАЦИЯ!!!"
+  },
+  {
+    "id": "HweiPassive",
+    "champion_id": "Hwei",
+    "type": "passive",
+    "en_name": "Signature of the Visionary",
+    "ru_name": "Подпись творца"
+  },
+  {
+    "id": "HweiQ",
+    "champion_id": "Hwei",
+    "type": "ability",
+    "en_name": "Subject: Disaster",
+    "ru_name": "Тема: Катастрофа"
+  },
+  {
+    "id": "HweiW",
+    "champion_id": "Hwei",
+    "type": "ability",
+    "en_name": "Subject: Serenity",
+    "ru_name": "Тема: Безмятежность"
+  },
+  {
+    "id": "HweiE",
+    "champion_id": "Hwei",
+    "type": "ability",
+    "en_name": "Subject: Torment",
+    "ru_name": "Тема: Мучение"
+  },
+  {
+    "id": "HweiR",
+    "champion_id": "Hwei",
+    "type": "ability",
+    "en_name": "Spiraling Despair",
+    "ru_name": "Растущее отчаяние"
+  },
+  {
+    "id": "IllaoiPassive",
+    "champion_id": "Illaoi",
+    "type": "passive",
+    "en_name": "Prophet of an Elder God",
+    "ru_name": "Вестница древнего божества"
+  },
+  {
+    "id": "IllaoiQ",
+    "champion_id": "Illaoi",
+    "type": "ability",
+    "en_name": "Tentacle Smash",
+    "ru_name": "Удар щупальцем"
+  },
+  {
+    "id": "IllaoiW",
+    "champion_id": "Illaoi",
+    "type": "ability",
+    "en_name": "Harsh Lesson",
+    "ru_name": "Жестокий урок"
+  },
+  {
+    "id": "IllaoiE",
+    "champion_id": "Illaoi",
+    "type": "ability",
+    "en_name": "Test of Spirit",
+    "ru_name": "Испытание духа"
+  },
+  {
+    "id": "IllaoiR",
+    "champion_id": "Illaoi",
+    "type": "ability",
+    "en_name": "Leap of Faith",
+    "ru_name": "Прыжок веры"
+  },
+  {
+    "id": "IreliaPassive",
+    "champion_id": "Irelia",
+    "type": "passive",
+    "en_name": "Ionian Fervor",
+    "ru_name": "Ионийский пыл"
+  },
+  {
+    "id": "IreliaQ",
+    "champion_id": "Irelia",
+    "type": "ability",
+    "en_name": "Bladesurge",
+    "ru_name": "Пульсирующий клинок"
+  },
+  {
+    "id": "IreliaW",
+    "champion_id": "Irelia",
+    "type": "ability",
+    "en_name": "Defiant Dance",
+    "ru_name": "Дерзкий танец"
+  },
+  {
+    "id": "IreliaE",
+    "champion_id": "Irelia",
+    "type": "ability",
+    "en_name": "Flawless Duet",
+    "ru_name": "Безупречный дуэт"
+  },
+  {
+    "id": "IreliaR",
+    "champion_id": "Irelia",
+    "type": "ability",
+    "en_name": "Vanguard's Edge",
+    "ru_name": "Острие авангарда"
+  },
+  {
+    "id": "IvernPassive",
+    "champion_id": "Ivern",
+    "type": "passive",
+    "en_name": "Friend of the Forest",
+    "ru_name": "Друг леса"
+  },
+  {
+    "id": "IvernQ",
+    "champion_id": "Ivern",
+    "type": "ability",
+    "en_name": "Rootcaller",
+    "ru_name": "Зов корней"
+  },
+  {
+    "id": "IvernW",
+    "champion_id": "Ivern",
+    "type": "ability",
+    "en_name": "Brushmaker",
+    "ru_name": "Создатель кустов"
+  },
+  {
+    "id": "IvernE",
+    "champion_id": "Ivern",
+    "type": "ability",
+    "en_name": "Triggerseed",
+    "ru_name": "Посадка семян"
+  },
+  {
+    "id": "IvernR",
+    "champion_id": "Ivern",
+    "type": "ability",
+    "en_name": "Daisy!",
+    "ru_name": "Маргаритка!"
+  },
+  {
+    "id": "JannaPassive",
+    "champion_id": "Janna",
+    "type": "passive",
+    "en_name": "Tailwind",
+    "ru_name": "Попутный ветер"
+  },
+  {
+    "id": "HowlingGale",
+    "champion_id": "Janna",
+    "type": "ability",
+    "en_name": "Howling Gale",
+    "ru_name": "Воющий вихрь"
+  },
+  {
+    "id": "SowTheWind",
+    "champion_id": "Janna",
+    "type": "ability",
+    "en_name": "Zephyr",
+    "ru_name": "Западный ветер"
+  },
+  {
+    "id": "EyeOfTheStorm",
+    "champion_id": "Janna",
+    "type": "ability",
+    "en_name": "Eye Of The Storm",
+    "ru_name": "Око бури"
+  },
+  {
+    "id": "ReapTheWhirlwind",
+    "champion_id": "Janna",
+    "type": "ability",
+    "en_name": "Monsoon",
+    "ru_name": "Муссон"
+  },
+  {
+    "id": "JarvanIVPassive",
+    "champion_id": "JarvanIV",
+    "type": "passive",
+    "en_name": "Martial Cadence",
+    "ru_name": "Поступь войны"
+  },
+  {
+    "id": "JarvanIVDragonStrike",
+    "champion_id": "JarvanIV",
+    "type": "ability",
+    "en_name": "Dragon Strike",
+    "ru_name": "Удар дракона"
+  },
+  {
+    "id": "JarvanIVGoldenAegis",
+    "champion_id": "JarvanIV",
+    "type": "ability",
+    "en_name": "Golden Aegis",
+    "ru_name": "Золотая эгида"
+  },
+  {
+    "id": "JarvanIVDemacianStandard",
+    "champion_id": "JarvanIV",
+    "type": "ability",
+    "en_name": "Demacian Standard",
+    "ru_name": "Штандарт Демасии"
+  },
+  {
+    "id": "JarvanIVCataclysm",
+    "champion_id": "JarvanIV",
+    "type": "ability",
+    "en_name": "Cataclysm",
+    "ru_name": "Катаклизм"
+  },
+  {
+    "id": "JaxPassive",
+    "champion_id": "Jax",
+    "type": "passive",
+    "en_name": "Relentless Assault",
+    "ru_name": "Град ударов"
+  },
+  {
+    "id": "JaxQ",
+    "champion_id": "Jax",
+    "type": "ability",
+    "en_name": "Leap Strike",
+    "ru_name": "Удар в прыжке"
+  },
+  {
+    "id": "JaxW",
+    "champion_id": "Jax",
+    "type": "ability",
+    "en_name": "Empower",
+    "ru_name": "Усиление"
+  },
+  {
+    "id": "JaxE",
+    "champion_id": "Jax",
+    "type": "ability",
+    "en_name": "Counter Strike",
+    "ru_name": "Встречный удар"
+  },
+  {
+    "id": "JaxR",
+    "champion_id": "Jax",
+    "type": "ability",
+    "en_name": "Grandmaster-at-Arms",
+    "ru_name": "Мастер оружия"
+  },
+  {
+    "id": "JaycePassive",
+    "champion_id": "Jayce",
+    "type": "passive",
+    "en_name": "Hextech Capacitor",
+    "ru_name": "Хекстек-конденсатор"
+  },
+  {
+    "id": "JayceToTheSkies",
+    "champion_id": "Jayce",
+    "type": "ability",
+    "en_name": "To the Skies! / Shock Blast",
+    "ru_name": "В небо! / Шоковый заряд"
+  },
+  {
+    "id": "JayceStaticField",
+    "champion_id": "Jayce",
+    "type": "ability",
+    "en_name": "Lightning Field / Hyper Charge",
+    "ru_name": "Электрическое поле / Гиперзаряд"
+  },
+  {
+    "id": "JayceThunderingBlow",
+    "champion_id": "Jayce",
+    "type": "ability",
+    "en_name": "Thundering Blow / Acceleration Gate",
+    "ru_name": "Грохочущий удар / Врата ускорения"
+  },
+  {
+    "id": "JayceStanceHtG",
+    "champion_id": "Jayce",
+    "type": "ability",
+    "en_name": "Mercury Cannon / Mercury Hammer",
+    "ru_name": "Ртутная пушка / Ртутный молот"
+  },
+  {
+    "id": "JhinPassive",
+    "champion_id": "Jhin",
+    "type": "passive",
+    "en_name": "Whisper",
+    "ru_name": "Шепот"
+  },
+  {
+    "id": "JhinQ",
+    "champion_id": "Jhin",
+    "type": "ability",
+    "en_name": "Dancing Grenade",
+    "ru_name": "Танцующая граната"
+  },
+  {
+    "id": "JhinW",
+    "champion_id": "Jhin",
+    "type": "ability",
+    "en_name": "Deadly Flourish",
+    "ru_name": "Смертельное действо"
+  },
+  {
+    "id": "JhinE",
+    "champion_id": "Jhin",
+    "type": "ability",
+    "en_name": "Captive Audience",
+    "ru_name": "Закрытый показ"
+  },
+  {
+    "id": "JhinR",
+    "champion_id": "Jhin",
+    "type": "ability",
+    "en_name": "Curtain Call",
+    "ru_name": "Выход на поклон"
+  },
+  {
+    "id": "JinxPassive",
+    "champion_id": "Jinx",
+    "type": "passive",
+    "en_name": "Get Excited!",
+    "ru_name": "Бодрячком!"
+  },
+  {
+    "id": "JinxQ",
+    "champion_id": "Jinx",
+    "type": "ability",
+    "en_name": "Switcheroo!",
+    "ru_name": "Кручу-верчу!"
+  },
+  {
+    "id": "JinxW",
+    "champion_id": "Jinx",
+    "type": "ability",
+    "en_name": "Zap!",
+    "ru_name": "Пиу-пиу!"
+  },
+  {
+    "id": "JinxE",
+    "champion_id": "Jinx",
+    "type": "ability",
+    "en_name": "Flame Chompers!",
+    "ru_name": "Огненные кусаки!"
+  },
+  {
+    "id": "JinxR",
+    "champion_id": "Jinx",
+    "type": "ability",
+    "en_name": "Super Mega Death Rocket!",
+    "ru_name": "Супер-мега-ракета смерти!"
+  },
+  {
+    "id": "KSantePassive",
+    "champion_id": "KSante",
+    "type": "passive",
+    "en_name": "Dauntless Instinct",
+    "ru_name": "Бесстрашие"
+  },
+  {
+    "id": "KSanteQ",
+    "champion_id": "KSante",
+    "type": "ability",
+    "en_name": "Ntofo Strikes",
+    "ru_name": "Удары нтофо"
+  },
+  {
+    "id": "KSanteW",
+    "champion_id": "KSante",
+    "type": "ability",
+    "en_name": "Path Maker",
+    "ru_name": "Напролом"
+  },
+  {
+    "id": "KSanteE",
+    "champion_id": "KSante",
+    "type": "ability",
+    "en_name": "Footwork",
+    "ru_name": "Удаль"
+  },
+  {
+    "id": "KSanteR",
+    "champion_id": "KSante",
+    "type": "ability",
+    "en_name": "All Out",
+    "ru_name": "Высвобождение"
+  },
+  {
+    "id": "KaisaPassive",
+    "champion_id": "Kaisa",
+    "type": "passive",
+    "en_name": "Second Skin",
+    "ru_name": "Вторая кожа"
+  },
+  {
+    "id": "KaisaQ",
+    "champion_id": "Kaisa",
+    "type": "ability",
+    "en_name": "Icathian Rain",
+    "ru_name": "Дождь Икатии"
+  },
+  {
+    "id": "KaisaW",
+    "champion_id": "Kaisa",
+    "type": "ability",
+    "en_name": "Void Seeker",
+    "ru_name": "Ловчая из Бездны"
+  },
+  {
+    "id": "KaisaE",
+    "champion_id": "Kaisa",
+    "type": "ability",
+    "en_name": "Supercharge",
+    "ru_name": "Сверхзаряд"
+  },
+  {
+    "id": "KaisaR",
+    "champion_id": "Kaisa",
+    "type": "ability",
+    "en_name": "Killer Instinct",
+    "ru_name": "Охотничий инстинкт"
+  },
+  {
+    "id": "KalistaPassive",
+    "champion_id": "Kalista",
+    "type": "passive",
+    "en_name": "Martial Poise",
+    "ru_name": "Боевая готовность"
+  },
+  {
+    "id": "KalistaMysticShot",
+    "champion_id": "Kalista",
+    "type": "ability",
+    "en_name": "Pierce",
+    "ru_name": "Пронзающее копье"
+  },
+  {
+    "id": "KalistaW",
+    "champion_id": "Kalista",
+    "type": "ability",
+    "en_name": "Sentinel",
+    "ru_name": "Дух-хранитель"
+  },
+  {
+    "id": "KalistaExpungeWrapper",
+    "champion_id": "Kalista",
+    "type": "ability",
+    "en_name": "Rend",
+    "ru_name": "Раздирание"
+  },
+  {
+    "id": "KalistaRx",
+    "champion_id": "Kalista",
+    "type": "ability",
+    "en_name": "Fate's Call",
+    "ru_name": "Зов судьбы"
+  },
+  {
+    "id": "KarmaPassive",
+    "champion_id": "Karma",
+    "type": "passive",
+    "en_name": "Gathering Fire",
+    "ru_name": "Разгорающийся огонь"
+  },
+  {
+    "id": "KarmaQ",
+    "champion_id": "Karma",
+    "type": "ability",
+    "en_name": "Inner Flame",
+    "ru_name": "Внутреннее пламя"
+  },
+  {
+    "id": "KarmaSpiritBind",
+    "champion_id": "Karma",
+    "type": "ability",
+    "en_name": "Focused Resolve",
+    "ru_name": "Решимость"
+  },
+  {
+    "id": "KarmaSolKimShield",
+    "champion_id": "Karma",
+    "type": "ability",
+    "en_name": "Inspire",
+    "ru_name": "Воодушевление"
+  },
+  {
+    "id": "KarmaMantra",
+    "champion_id": "Karma",
+    "type": "ability",
+    "en_name": "Mantra",
+    "ru_name": "Мантра"
+  },
+  {
+    "id": "KarthusPassive",
+    "champion_id": "Karthus",
+    "type": "passive",
+    "en_name": "Death Defied",
+    "ru_name": "Победа над смертью"
+  },
+  {
+    "id": "KarthusLayWasteA1",
+    "champion_id": "Karthus",
+    "type": "ability",
+    "en_name": "Lay Waste",
+    "ru_name": "Опустошение"
+  },
+  {
+    "id": "KarthusWallOfPain",
+    "champion_id": "Karthus",
+    "type": "ability",
+    "en_name": "Wall of Pain",
+    "ru_name": "Стена боли"
+  },
+  {
+    "id": "KarthusDefile",
+    "champion_id": "Karthus",
+    "type": "ability",
+    "en_name": "Defile",
+    "ru_name": "Осквернение"
+  },
+  {
+    "id": "KarthusFallenOne",
+    "champion_id": "Karthus",
+    "type": "ability",
+    "en_name": "Requiem",
+    "ru_name": "Реквием"
+  },
+  {
+    "id": "KassadinPassive",
+    "champion_id": "Kassadin",
+    "type": "passive",
+    "en_name": "Void Stone",
+    "ru_name": "Камень Бездны"
+  },
+  {
+    "id": "NullLance",
+    "champion_id": "Kassadin",
+    "type": "ability",
+    "en_name": "Null Sphere",
+    "ru_name": "Сфера пустоты"
+  },
+  {
+    "id": "NetherBlade",
+    "champion_id": "Kassadin",
+    "type": "ability",
+    "en_name": "Nether Blade",
+    "ru_name": "Клинок пустоты"
+  },
+  {
+    "id": "ForcePulse",
+    "champion_id": "Kassadin",
+    "type": "ability",
+    "en_name": "Force Pulse",
+    "ru_name": "Выброс силы"
+  },
+  {
+    "id": "RiftWalk",
+    "champion_id": "Kassadin",
+    "type": "ability",
+    "en_name": "Riftwalk",
+    "ru_name": "Шаг в Бездну"
+  },
+  {
+    "id": "KatarinaPassive",
+    "champion_id": "Katarina",
+    "type": "passive",
+    "en_name": "Voracity",
+    "ru_name": "Ненасытность"
+  },
+  {
+    "id": "KatarinaQ",
+    "champion_id": "Katarina",
+    "type": "ability",
+    "en_name": "Bouncing Blade",
+    "ru_name": "Танцующий клинок"
+  },
+  {
+    "id": "KatarinaW",
+    "champion_id": "Katarina",
+    "type": "ability",
+    "en_name": "Preparation",
+    "ru_name": "Подготовка"
+  },
+  {
+    "id": "KatarinaEWrapper",
+    "champion_id": "Katarina",
+    "type": "ability",
+    "en_name": "Shunpo",
+    "ru_name": "Шунпо"
+  },
+  {
+    "id": "KatarinaR",
+    "champion_id": "Katarina",
+    "type": "ability",
+    "en_name": "Death Lotus",
+    "ru_name": "Цветок смерти"
+  },
+  {
+    "id": "KaylePassive",
+    "champion_id": "Kayle",
+    "type": "passive",
+    "en_name": "Divine Ascent",
+    "ru_name": "Божественное восхождение"
+  },
+  {
+    "id": "KayleQ",
+    "champion_id": "Kayle",
+    "type": "ability",
+    "en_name": "Radiant Blast",
+    "ru_name": "Лучезарный взрыв"
+  },
+  {
+    "id": "KayleW",
+    "champion_id": "Kayle",
+    "type": "ability",
+    "en_name": "Celestial Blessing",
+    "ru_name": "Благословение небес"
+  },
+  {
+    "id": "KayleE",
+    "champion_id": "Kayle",
+    "type": "ability",
+    "en_name": "Starfire Spellblade",
+    "ru_name": "Клинок звездного огня"
+  },
+  {
+    "id": "KayleR",
+    "champion_id": "Kayle",
+    "type": "ability",
+    "en_name": "Divine Judgment",
+    "ru_name": "Божественный приговор"
+  },
+  {
+    "id": "KaynPassive",
+    "champion_id": "Kayn",
+    "type": "passive",
+    "en_name": "The Darkin Scythe",
+    "ru_name": "Коса даркинов"
+  },
+  {
+    "id": "KaynQ",
+    "champion_id": "Kayn",
+    "type": "ability",
+    "en_name": "Reaping Slash",
+    "ru_name": "Смертельный росчерк"
+  },
+  {
+    "id": "KaynW",
+    "champion_id": "Kayn",
+    "type": "ability",
+    "en_name": "Blade's Reach",
+    "ru_name": "Широкий размах"
+  },
+  {
+    "id": "KaynE",
+    "champion_id": "Kayn",
+    "type": "ability",
+    "en_name": "Shadow Step",
+    "ru_name": "Шаг в сумерки"
+  },
+  {
+    "id": "KaynR",
+    "champion_id": "Kayn",
+    "type": "ability",
+    "en_name": "Umbral Trespass",
+    "ru_name": "Теневая интервенция"
+  },
+  {
+    "id": "KennenPassive",
+    "champion_id": "Kennen",
+    "type": "passive",
+    "en_name": "Mark of the Storm",
+    "ru_name": "Знак бури"
+  },
+  {
+    "id": "KennenShurikenHurlMissile1",
+    "champion_id": "Kennen",
+    "type": "ability",
+    "en_name": "Thundering Shuriken",
+    "ru_name": "Грохочущий сюрикен"
+  },
+  {
+    "id": "KennenBringTheLight",
+    "champion_id": "Kennen",
+    "type": "ability",
+    "en_name": "Electrical Surge",
+    "ru_name": "Скачок напряжения"
+  },
+  {
+    "id": "KennenLightningRush",
+    "champion_id": "Kennen",
+    "type": "ability",
+    "en_name": "Lightning Rush",
+    "ru_name": "Молниеносный рывок"
+  },
+  {
+    "id": "KennenShurikenStorm",
+    "champion_id": "Kennen",
+    "type": "ability",
+    "en_name": "Slicing Maelstrom",
+    "ru_name": "Убийственный шторм"
+  },
+  {
+    "id": "KhazixPassive",
+    "champion_id": "Khazix",
+    "type": "passive",
+    "en_name": "Unseen Threat",
+    "ru_name": "Невидимая угроза"
+  },
+  {
+    "id": "KhazixQ",
+    "champion_id": "Khazix",
+    "type": "ability",
+    "en_name": "Taste Their Fear",
+    "ru_name": "Вкус страха"
+  },
+  {
+    "id": "KhazixW",
+    "champion_id": "Khazix",
+    "type": "ability",
+    "en_name": "Void Spike",
+    "ru_name": "Шипы Бездны"
+  },
+  {
+    "id": "KhazixE",
+    "champion_id": "Khazix",
+    "type": "ability",
+    "en_name": "Leap",
+    "ru_name": "Прыжок"
+  },
+  {
+    "id": "KhazixR",
+    "champion_id": "Khazix",
+    "type": "ability",
+    "en_name": "Void Assault",
+    "ru_name": "Атака из Бездны"
+  },
+  {
+    "id": "KindredPassive",
+    "champion_id": "Kindred",
+    "type": "passive",
+    "en_name": "Mark of the Kindred",
+    "ru_name": "Знак Киндред"
+  },
+  {
+    "id": "KindredQ",
+    "champion_id": "Kindred",
+    "type": "ability",
+    "en_name": "Dance of Arrows",
+    "ru_name": "Танец стрел"
+  },
+  {
+    "id": "KindredW",
+    "champion_id": "Kindred",
+    "type": "ability",
+    "en_name": "Wolf's Frenzy",
+    "ru_name": "Волчье бешенство"
+  },
+  {
+    "id": "KindredEWrapper",
+    "champion_id": "Kindred",
+    "type": "ability",
+    "en_name": "Mounting Dread",
+    "ru_name": "Всепоглощающий ужас"
+  },
+  {
+    "id": "KindredR",
+    "champion_id": "Kindred",
+    "type": "ability",
+    "en_name": "Lamb's Respite",
+    "ru_name": "Милость Овечки"
+  },
+  {
+    "id": "KledPassive",
+    "champion_id": "Kled",
+    "type": "passive",
+    "en_name": "Skaarl, the Cowardly Lizard",
+    "ru_name": "Трусливая ящерица Скарл"
+  },
+  {
+    "id": "KledQ",
+    "champion_id": "Kled",
+    "type": "ability",
+    "en_name": "Bear Trap on a Rope",
+    "ru_name": "Капкан на веревке"
+  },
+  {
+    "id": "KledW",
+    "champion_id": "Kled",
+    "type": "ability",
+    "en_name": "Violent Tendencies",
+    "ru_name": "Склонность к насилию"
+  },
+  {
+    "id": "KledE",
+    "champion_id": "Kled",
+    "type": "ability",
+    "en_name": "Jousting",
+    "ru_name": "Рыцарский поединок"
+  },
+  {
+    "id": "KledR",
+    "champion_id": "Kled",
+    "type": "ability",
+    "en_name": "Chaaaaaaaarge!!!",
+    "ru_name": "В бо-о-ой!!!"
+  },
+  {
+    "id": "KogMawPassive",
+    "champion_id": "KogMaw",
+    "type": "passive",
+    "en_name": "Icathian Surprise",
+    "ru_name": "Привет из Икатии"
+  },
+  {
+    "id": "KogMawQ",
+    "champion_id": "KogMaw",
+    "type": "ability",
+    "en_name": "Caustic Spittle",
+    "ru_name": "Едкий плевок"
+  },
+  {
+    "id": "KogMawBioArcaneBarrage",
+    "champion_id": "KogMaw",
+    "type": "ability",
+    "en_name": "Bio-Arcane Barrage",
+    "ru_name": "Биомагический обстрел"
+  },
+  {
+    "id": "KogMawVoidOoze",
+    "champion_id": "KogMaw",
+    "type": "ability",
+    "en_name": "Void Ooze",
+    "ru_name": "Слизь Бездны"
+  },
+  {
+    "id": "KogMawLivingArtillery",
+    "champion_id": "KogMaw",
+    "type": "ability",
+    "en_name": "Living Artillery",
+    "ru_name": "Живая артиллерия"
+  },
+  {
+    "id": "LeblancPassive",
+    "champion_id": "Leblanc",
+    "type": "passive",
+    "en_name": "Mirror Image",
+    "ru_name": "Отражение"
+  },
+  {
+    "id": "LeblancQ",
+    "champion_id": "Leblanc",
+    "type": "ability",
+    "en_name": "Sigil of Malice",
+    "ru_name": "Печать порока"
+  },
+  {
+    "id": "LeblancW",
+    "champion_id": "Leblanc",
+    "type": "ability",
+    "en_name": "Distortion",
+    "ru_name": "Искажение"
+  },
+  {
+    "id": "LeblancE",
+    "champion_id": "Leblanc",
+    "type": "ability",
+    "en_name": "Ethereal Chains",
+    "ru_name": "Эфемерные цепи"
+  },
+  {
+    "id": "LeblancR",
+    "champion_id": "Leblanc",
+    "type": "ability",
+    "en_name": "Mimic",
+    "ru_name": "Копия"
+  },
+  {
+    "id": "LeeSinPassive",
+    "champion_id": "LeeSin",
+    "type": "passive",
+    "en_name": "Flurry",
+    "ru_name": "Шквал"
+  },
+  {
+    "id": "LeeSinQOne",
+    "champion_id": "LeeSin",
+    "type": "ability",
+    "en_name": "Sonic Wave / Resonating Strike",
+    "ru_name": "Звуковая волна / Резонирующий удар"
+  },
+  {
+    "id": "LeeSinWOne",
+    "champion_id": "LeeSin",
+    "type": "ability",
+    "en_name": "Safeguard / Iron Will",
+    "ru_name": "Защитник / Железная воля"
+  },
+  {
+    "id": "LeeSinEOne",
+    "champion_id": "LeeSin",
+    "type": "ability",
+    "en_name": "Tempest / Cripple",
+    "ru_name": "Натиск / Увечье"
+  },
+  {
+    "id": "LeeSinR",
+    "champion_id": "LeeSin",
+    "type": "ability",
+    "en_name": "Dragon's Rage",
+    "ru_name": "Ярость дракона"
+  },
+  {
+    "id": "LeonaPassive",
+    "champion_id": "Leona",
+    "type": "passive",
+    "en_name": "Sunlight",
+    "ru_name": "Сияние солнца"
+  },
+  {
+    "id": "LeonaShieldOfDaybreak",
+    "champion_id": "Leona",
+    "type": "ability",
+    "en_name": "Shield of Daybreak",
+    "ru_name": "Щит рассвета"
+  },
+  {
+    "id": "LeonaSolarBarrier",
+    "champion_id": "Leona",
+    "type": "ability",
+    "en_name": "Eclipse",
+    "ru_name": "Затмение"
+  },
+  {
+    "id": "LeonaZenithBlade",
+    "champion_id": "Leona",
+    "type": "ability",
+    "en_name": "Zenith Blade",
+    "ru_name": "Клинок зенита"
+  },
+  {
+    "id": "LeonaSolarFlare",
+    "champion_id": "Leona",
+    "type": "ability",
+    "en_name": "Solar Flare",
+    "ru_name": "Солнечная вспышка"
+  },
+  {
+    "id": "LilliaPassive",
+    "champion_id": "Lillia",
+    "type": "passive",
+    "en_name": "Dream-Laden Bough",
+    "ru_name": "Посох снов"
+  },
+  {
+    "id": "LilliaQ",
+    "champion_id": "Lillia",
+    "type": "ability",
+    "en_name": "Blooming Blows",
+    "ru_name": "Удар природы"
+  },
+  {
+    "id": "LilliaW",
+    "champion_id": "Lillia",
+    "type": "ability",
+    "en_name": "Watch Out! Eep!",
+    "ru_name": "Ой, осторожно!"
+  },
+  {
+    "id": "LilliaE",
+    "champion_id": "Lillia",
+    "type": "ability",
+    "en_name": "Swirlseed",
+    "ru_name": "Вихревое семя"
+  },
+  {
+    "id": "LilliaR",
+    "champion_id": "Lillia",
+    "type": "ability",
+    "en_name": "Lilting Lullaby",
+    "ru_name": "Чарующая колыбельная"
+  },
+  {
+    "id": "LissandraPassive",
+    "champion_id": "Lissandra",
+    "type": "passive",
+    "en_name": "Iceborn Subjugation",
+    "ru_name": "Порабощение Хладорожденной"
+  },
+  {
+    "id": "LissandraQ",
+    "champion_id": "Lissandra",
+    "type": "ability",
+    "en_name": "Ice Shard",
+    "ru_name": "Ледяной осколок"
+  },
+  {
+    "id": "LissandraW",
+    "champion_id": "Lissandra",
+    "type": "ability",
+    "en_name": "Ring of Frost",
+    "ru_name": "Кольцо мороза"
+  },
+  {
+    "id": "LissandraE",
+    "champion_id": "Lissandra",
+    "type": "ability",
+    "en_name": "Glacial Path",
+    "ru_name": "Ледяная тропа"
+  },
+  {
+    "id": "LissandraR",
+    "champion_id": "Lissandra",
+    "type": "ability",
+    "en_name": "Frozen Tomb",
+    "ru_name": "Ледяная гробница"
+  },
+  {
+    "id": "LucianPassive",
+    "champion_id": "Lucian",
+    "type": "passive",
+    "en_name": "Lightslinger",
+    "ru_name": "Стрелок света"
+  },
+  {
+    "id": "LucianQ",
+    "champion_id": "Lucian",
+    "type": "ability",
+    "en_name": "Piercing Light",
+    "ru_name": "Пронзающий свет"
+  },
+  {
+    "id": "LucianW",
+    "champion_id": "Lucian",
+    "type": "ability",
+    "en_name": "Ardent Blaze",
+    "ru_name": "Обжигающее пламя"
+  },
+  {
+    "id": "LucianE",
+    "champion_id": "Lucian",
+    "type": "ability",
+    "en_name": "Relentless Pursuit",
+    "ru_name": "Нескончаемая погоня"
+  },
+  {
+    "id": "LucianR",
+    "champion_id": "Lucian",
+    "type": "ability",
+    "en_name": "The Culling",
+    "ru_name": "Отстрел"
+  },
+  {
+    "id": "LuluPassive",
+    "champion_id": "Lulu",
+    "type": "passive",
+    "en_name": "Pix, Faerie Companion",
+    "ru_name": "Пикс, волшебный спутник"
+  },
+  {
+    "id": "LuluQ",
+    "champion_id": "Lulu",
+    "type": "ability",
+    "en_name": "Glitterlance",
+    "ru_name": "Сияющая стрела"
+  },
+  {
+    "id": "LuluW",
+    "champion_id": "Lulu",
+    "type": "ability",
+    "en_name": "Whimsy",
+    "ru_name": "Причуда"
+  },
+  {
+    "id": "LuluE",
+    "champion_id": "Lulu",
+    "type": "ability",
+    "en_name": "Help, Pix!",
+    "ru_name": "Помоги, Пикс!"
+  },
+  {
+    "id": "LuluR",
+    "champion_id": "Lulu",
+    "type": "ability",
+    "en_name": "Wild Growth",
+    "ru_name": "Буйный рост"
+  },
+  {
+    "id": "LuxPassive",
+    "champion_id": "Lux",
+    "type": "passive",
+    "en_name": "Illumination",
+    "ru_name": "Иллюминация"
+  },
+  {
+    "id": "LuxLightBinding",
+    "champion_id": "Lux",
+    "type": "ability",
+    "en_name": "Light Binding",
+    "ru_name": "Сковывание света"
+  },
+  {
+    "id": "LuxPrismaticWave",
+    "champion_id": "Lux",
+    "type": "ability",
+    "en_name": "Prismatic Barrier",
+    "ru_name": "Призматический барьер"
+  },
+  {
+    "id": "LuxLightStrikeKugel",
+    "champion_id": "Lux",
+    "type": "ability",
+    "en_name": "Lucent Singularity",
+    "ru_name": "Светящаяся сингулярность"
+  },
+  {
+    "id": "LuxR",
+    "champion_id": "Lux",
+    "type": "ability",
+    "en_name": "Final Spark",
+    "ru_name": "Последняя искра"
+  },
+  {
+    "id": "MalphitePassive",
+    "champion_id": "Malphite",
+    "type": "passive",
+    "en_name": "Granite Shield",
+    "ru_name": "Гранитный щит"
+  },
+  {
+    "id": "SeismicShard",
+    "champion_id": "Malphite",
+    "type": "ability",
+    "en_name": "Seismic Shard",
+    "ru_name": "Сейсмический осколок"
+  },
+  {
+    "id": "Obduracy",
+    "champion_id": "Malphite",
+    "type": "ability",
+    "en_name": "Thunderclap",
+    "ru_name": "Удар грома"
+  },
+  {
+    "id": "Landslide",
+    "champion_id": "Malphite",
+    "type": "ability",
+    "en_name": "Ground Slam",
+    "ru_name": "Удар по земле"
+  },
+  {
+    "id": "UFSlash",
+    "champion_id": "Malphite",
+    "type": "ability",
+    "en_name": "Unstoppable Force",
+    "ru_name": "Безудержная сила"
+  },
+  {
+    "id": "MalzaharPassive",
+    "champion_id": "Malzahar",
+    "type": "passive",
+    "en_name": "Void Shift",
+    "ru_name": "Сдвиг Бездны"
+  },
+  {
+    "id": "MalzaharQ",
+    "champion_id": "Malzahar",
+    "type": "ability",
+    "en_name": "Call of the Void",
+    "ru_name": "Зов Бездны"
+  },
+  {
+    "id": "MalzaharW",
+    "champion_id": "Malzahar",
+    "type": "ability",
+    "en_name": "Void Swarm",
+    "ru_name": "Рой Бездны"
+  },
+  {
+    "id": "MalzaharE",
+    "champion_id": "Malzahar",
+    "type": "ability",
+    "en_name": "Malefic Visions",
+    "ru_name": "Пагубные видения"
+  },
+  {
+    "id": "MalzaharR",
+    "champion_id": "Malzahar",
+    "type": "ability",
+    "en_name": "Nether Grasp",
+    "ru_name": "Потусторонняя хватка"
+  },
+  {
+    "id": "MaokaiPassive",
+    "champion_id": "Maokai",
+    "type": "passive",
+    "en_name": "Sap Magic",
+    "ru_name": "Вытягивание магии"
+  },
+  {
+    "id": "MaokaiQ",
+    "champion_id": "Maokai",
+    "type": "ability",
+    "en_name": "Bramble Smash",
+    "ru_name": "Терновый удар"
+  },
+  {
+    "id": "MaokaiW",
+    "champion_id": "Maokai",
+    "type": "ability",
+    "en_name": "Twisted Advance",
+    "ru_name": "Неестественное наступление"
+  },
+  {
+    "id": "MaokaiE",
+    "champion_id": "Maokai",
+    "type": "ability",
+    "en_name": "Sapling Toss",
+    "ru_name": "Бросок саженца"
+  },
+  {
+    "id": "MaokaiR",
+    "champion_id": "Maokai",
+    "type": "ability",
+    "en_name": "Nature's Grasp",
+    "ru_name": "Объятья природы"
+  },
+  {
+    "id": "MasterYiPassive",
+    "champion_id": "MasterYi",
+    "type": "passive",
+    "en_name": "Double Strike",
+    "ru_name": "Двойной удар"
+  },
+  {
+    "id": "AlphaStrike",
+    "champion_id": "MasterYi",
+    "type": "ability",
+    "en_name": "Alpha Strike",
+    "ru_name": "Первый удар"
+  },
+  {
+    "id": "Meditate",
+    "champion_id": "MasterYi",
+    "type": "ability",
+    "en_name": "Meditate",
+    "ru_name": "Медитация"
+  },
+  {
+    "id": "WujuStyle",
+    "champion_id": "MasterYi",
+    "type": "ability",
+    "en_name": "Wuju Style",
+    "ru_name": "Стиль вуджу"
+  },
+  {
+    "id": "Highlander",
+    "champion_id": "MasterYi",
+    "type": "ability",
+    "en_name": "Highlander",
+    "ru_name": "Горец"
+  },
+  {
+    "id": "MelPassive",
+    "champion_id": "Mel",
+    "type": "passive",
+    "en_name": "Searing Brilliance",
+    "ru_name": "Обжигающий свет"
+  },
+  {
+    "id": "MelQ",
+    "champion_id": "Mel",
+    "type": "ability",
+    "en_name": "Radiant Volley",
+    "ru_name": "Лучезарный залп"
+  },
+  {
+    "id": "MelW",
+    "champion_id": "Mel",
+    "type": "ability",
+    "en_name": "Rebuttal",
+    "ru_name": "Зеркальный щит"
+  },
+  {
+    "id": "MelE",
+    "champion_id": "Mel",
+    "type": "ability",
+    "en_name": "Solar Snare",
+    "ru_name": "Солнечная ловушка"
+  },
+  {
+    "id": "MelR",
+    "champion_id": "Mel",
+    "type": "ability",
+    "en_name": "Golden Eclipse",
+    "ru_name": "Золотое затмение"
+  },
+  {
+    "id": "MilioPassive",
+    "champion_id": "Milio",
+    "type": "passive",
+    "en_name": "Fired Up!",
+    "ru_name": "Запал"
+  },
+  {
+    "id": "MilioQ",
+    "champion_id": "Milio",
+    "type": "ability",
+    "en_name": "Ultra Mega Fire Kick",
+    "ru_name": "Огненный мяч"
+  },
+  {
+    "id": "MilioW",
+    "champion_id": "Milio",
+    "type": "ability",
+    "en_name": "Cozy Campfire",
+    "ru_name": "Посиделки у костра"
+  },
+  {
+    "id": "MilioE",
+    "champion_id": "Milio",
+    "type": "ability",
+    "en_name": "Warm Hugs",
+    "ru_name": "Теплые объятия"
+  },
+  {
+    "id": "MilioR",
+    "champion_id": "Milio",
+    "type": "ability",
+    "en_name": "Breath of Life",
+    "ru_name": "Дыхание жизни"
+  },
+  {
+    "id": "MissFortunePassive",
+    "champion_id": "MissFortune",
+    "type": "passive",
+    "en_name": "Love Tap",
+    "ru_name": "Приветственный выстрел"
+  },
+  {
+    "id": "MissFortuneRicochetShot",
+    "champion_id": "MissFortune",
+    "type": "ability",
+    "en_name": "Double Up",
+    "ru_name": "Два по цене одного"
+  },
+  {
+    "id": "MissFortuneViciousStrikes",
+    "champion_id": "MissFortune",
+    "type": "ability",
+    "en_name": "Strut",
+    "ru_name": "Походочка"
+  },
+  {
+    "id": "MissFortuneScattershot",
+    "champion_id": "MissFortune",
+    "type": "ability",
+    "en_name": "Make It Rain",
+    "ru_name": "Свинцовый дождь"
+  },
+  {
+    "id": "MissFortuneBulletTime",
+    "champion_id": "MissFortune",
+    "type": "ability",
+    "en_name": "Bullet Time",
+    "ru_name": "Время умирать"
+  },
+  {
+    "id": "MonkeyKingPassive",
+    "champion_id": "MonkeyKing",
+    "type": "passive",
+    "en_name": "Stone Skin",
+    "ru_name": "Каменная кожа"
+  },
+  {
+    "id": "MonkeyKingDoubleAttack",
+    "champion_id": "MonkeyKing",
+    "type": "ability",
+    "en_name": "Crushing Blow",
+    "ru_name": "Сокрушительный удар"
+  },
+  {
+    "id": "MonkeyKingDecoy",
+    "champion_id": "MonkeyKing",
+    "type": "ability",
+    "en_name": "Warrior Trickster",
+    "ru_name": "Воин-обманщик"
+  },
+  {
+    "id": "MonkeyKingNimbus",
+    "champion_id": "MonkeyKing",
+    "type": "ability",
+    "en_name": "Nimbus Strike",
+    "ru_name": "Верхом на облаке"
+  },
+  {
+    "id": "MonkeyKingSpinToWin",
+    "champion_id": "MonkeyKing",
+    "type": "ability",
+    "en_name": "Cyclone",
+    "ru_name": "Циклон"
+  },
+  {
+    "id": "MordekaiserPassive",
+    "champion_id": "Mordekaiser",
+    "type": "passive",
+    "en_name": "Darkness Rise",
+    "ru_name": "Восхождение тьмы"
+  },
+  {
+    "id": "MordekaiserQ",
+    "champion_id": "Mordekaiser",
+    "type": "ability",
+    "en_name": "Obliterate",
+    "ru_name": "Уничтожение"
+  },
+  {
+    "id": "MordekaiserW",
+    "champion_id": "Mordekaiser",
+    "type": "ability",
+    "en_name": "Indestructible",
+    "ru_name": "Несокрушимый"
+  },
+  {
+    "id": "MordekaiserE",
+    "champion_id": "Mordekaiser",
+    "type": "ability",
+    "en_name": "Death's Grasp",
+    "ru_name": "Смертельная хватка"
+  },
+  {
+    "id": "MordekaiserR",
+    "champion_id": "Mordekaiser",
+    "type": "ability",
+    "en_name": "Realm of Death",
+    "ru_name": "Царство смерти"
+  },
+  {
+    "id": "MorganaPassive",
+    "champion_id": "Morgana",
+    "type": "passive",
+    "en_name": "Soul Siphon",
+    "ru_name": "Вытягивание души"
+  },
+  {
+    "id": "MorganaQ",
+    "champion_id": "Morgana",
+    "type": "ability",
+    "en_name": "Dark Binding",
+    "ru_name": "Темные узы"
+  },
+  {
+    "id": "MorganaW",
+    "champion_id": "Morgana",
+    "type": "ability",
+    "en_name": "Tormented Shadow",
+    "ru_name": "Измученная тень"
+  },
+  {
+    "id": "MorganaE",
+    "champion_id": "Morgana",
+    "type": "ability",
+    "en_name": "Black Shield",
+    "ru_name": "Черный щит"
+  },
+  {
+    "id": "MorganaR",
+    "champion_id": "Morgana",
+    "type": "ability",
+    "en_name": "Soul Shackles",
+    "ru_name": "Оковы души"
+  },
+  {
+    "id": "NaafiriPassive",
+    "champion_id": "Naafiri",
+    "type": "passive",
+    "en_name": "We Are More",
+    "ru_name": "Одно целое"
+  },
+  {
+    "id": "NaafiriQ",
+    "champion_id": "Naafiri",
+    "type": "ability",
+    "en_name": "Darkin Daggers",
+    "ru_name": "Кинжалы даркинов"
+  },
+  {
+    "id": "NaafiriR",
+    "champion_id": "Naafiri",
+    "type": "ability",
+    "en_name": "The Call of the Pack",
+    "ru_name": "Зов стаи"
+  },
+  {
+    "id": "NaafiriE",
+    "champion_id": "Naafiri",
+    "type": "ability",
+    "en_name": "Eviscerate",
+    "ru_name": "Потрошение"
+  },
+  {
+    "id": "NaafiriW",
+    "champion_id": "Naafiri",
+    "type": "ability",
+    "en_name": "Hounds' Pursuit",
+    "ru_name": "Погоня за добычей"
+  },
+  {
+    "id": "NamiPassive",
+    "champion_id": "Nami",
+    "type": "passive",
+    "en_name": "Surging Tides",
+    "ru_name": "Бурные волны"
+  },
+  {
+    "id": "NamiQ",
+    "champion_id": "Nami",
+    "type": "ability",
+    "en_name": "Aqua Prison",
+    "ru_name": "Водяная тюрьма"
+  },
+  {
+    "id": "NamiW",
+    "champion_id": "Nami",
+    "type": "ability",
+    "en_name": "Ebb and Flow",
+    "ru_name": "Прилив и отлив"
+  },
+  {
+    "id": "NamiE",
+    "champion_id": "Nami",
+    "type": "ability",
+    "en_name": "Tidecaller's Blessing",
+    "ru_name": "Благословение Повелительницы морей"
+  },
+  {
+    "id": "NamiR",
+    "champion_id": "Nami",
+    "type": "ability",
+    "en_name": "Tidal Wave",
+    "ru_name": "Приливная волна"
+  },
+  {
+    "id": "NasusPassive",
+    "champion_id": "Nasus",
+    "type": "passive",
+    "en_name": "Soul Eater",
+    "ru_name": "Пожиратель душ"
+  },
+  {
+    "id": "NasusQ",
+    "champion_id": "Nasus",
+    "type": "ability",
+    "en_name": "Siphoning Strike",
+    "ru_name": "Вытягивающий удар"
+  },
+  {
+    "id": "NasusW",
+    "champion_id": "Nasus",
+    "type": "ability",
+    "en_name": "Wither",
+    "ru_name": "Иссушение"
+  },
+  {
+    "id": "NasusE",
+    "champion_id": "Nasus",
+    "type": "ability",
+    "en_name": "Spirit Fire",
+    "ru_name": "Призрачный огонь"
+  },
+  {
+    "id": "NasusR",
+    "champion_id": "Nasus",
+    "type": "ability",
+    "en_name": "Fury of the Sands",
+    "ru_name": "Ярость песков"
+  },
+  {
+    "id": "NautilusPassive",
+    "champion_id": "Nautilus",
+    "type": "passive",
+    "en_name": "Staggering Blow",
+    "ru_name": "Ошеломляющий удар"
+  },
+  {
+    "id": "NautilusAnchorDrag",
+    "champion_id": "Nautilus",
+    "type": "ability",
+    "en_name": "Dredge Line",
+    "ru_name": "Якорная цепь"
+  },
+  {
+    "id": "NautilusPiercingGaze",
+    "champion_id": "Nautilus",
+    "type": "ability",
+    "en_name": "Titan's Wrath",
+    "ru_name": "Гнев титана"
+  },
+  {
+    "id": "NautilusSplashZone",
+    "champion_id": "Nautilus",
+    "type": "ability",
+    "en_name": "Riptide",
+    "ru_name": "Сейсмическая волна"
+  },
+  {
+    "id": "NautilusGrandLine",
+    "champion_id": "Nautilus",
+    "type": "ability",
+    "en_name": "Depth Charge",
+    "ru_name": "Глубинный заряд"
+  },
+  {
+    "id": "NeekoPassive",
+    "champion_id": "Neeko",
+    "type": "passive",
+    "en_name": "Inherent Glamour",
+    "ru_name": "Мимикрия"
+  },
+  {
+    "id": "NeekoQ",
+    "champion_id": "Neeko",
+    "type": "ability",
+    "en_name": "Blooming Burst",
+    "ru_name": "Взрывное цветение"
+  },
+  {
+    "id": "NeekoW",
+    "champion_id": "Neeko",
+    "type": "ability",
+    "en_name": "Shapesplitter",
+    "ru_name": "Разделение формы"
+  },
+  {
+    "id": "NeekoE",
+    "champion_id": "Neeko",
+    "type": "ability",
+    "en_name": "Tangle-Barbs",
+    "ru_name": "Оплетающие тернии"
+  },
+  {
+    "id": "NeekoR",
+    "champion_id": "Neeko",
+    "type": "ability",
+    "en_name": "Pop Blossom",
+    "ru_name": "Ударный расцвет"
+  },
+  {
+    "id": "NidaleePassive",
+    "champion_id": "Nidalee",
+    "type": "passive",
+    "en_name": "Prowl",
+    "ru_name": "Крадущийся зверь"
+  },
+  {
+    "id": "JavelinToss",
+    "champion_id": "Nidalee",
+    "type": "ability",
+    "en_name": "Javelin Toss / Takedown",
+    "ru_name": "Бросок копья / Добивание"
+  },
+  {
+    "id": "Bushwhack",
+    "champion_id": "Nidalee",
+    "type": "ability",
+    "en_name": "Bushwhack / Pounce",
+    "ru_name": "Ловушка / Прыжок"
+  },
+  {
+    "id": "PrimalSurge",
+    "champion_id": "Nidalee",
+    "type": "ability",
+    "en_name": "Primal Surge / Swipe",
+    "ru_name": "Зов предков / Размах"
+  },
+  {
+    "id": "AspectOfTheCougar",
+    "champion_id": "Nidalee",
+    "type": "ability",
+    "en_name": "Aspect Of The Cougar",
+    "ru_name": "Форма пумы"
+  },
+  {
+    "id": "NilahPassive",
+    "champion_id": "Nilah",
+    "type": "passive",
+    "en_name": "Joy Unending",
+    "ru_name": "Бесконечный восторг"
+  },
+  {
+    "id": "NilahQ",
+    "champion_id": "Nilah",
+    "type": "ability",
+    "en_name": "Formless Blade",
+    "ru_name": "Хлесткий клинок"
+  },
+  {
+    "id": "NilahW",
+    "champion_id": "Nilah",
+    "type": "ability",
+    "en_name": "Jubilant Veil",
+    "ru_name": "Покров радости"
+  },
+  {
+    "id": "NilahE",
+    "champion_id": "Nilah",
+    "type": "ability",
+    "en_name": "Slipstream",
+    "ru_name": "Нырок"
+  },
+  {
+    "id": "NilahR",
+    "champion_id": "Nilah",
+    "type": "ability",
+    "en_name": "Apotheosis",
+    "ru_name": "Апофеоз"
+  },
+  {
+    "id": "NocturnePassive",
+    "champion_id": "Nocturne",
+    "type": "passive",
+    "en_name": "Umbra Blades",
+    "ru_name": "Клинки чернейшей тени"
+  },
+  {
+    "id": "NocturneDuskbringer",
+    "champion_id": "Nocturne",
+    "type": "ability",
+    "en_name": "Duskbringer",
+    "ru_name": "Вестник заката"
+  },
+  {
+    "id": "NocturneShroudofDarkness",
+    "champion_id": "Nocturne",
+    "type": "ability",
+    "en_name": "Shroud of Darkness",
+    "ru_name": "Покров тьмы"
+  },
+  {
+    "id": "NocturneUnspeakableHorror",
+    "champion_id": "Nocturne",
+    "type": "ability",
+    "en_name": "Unspeakable Horror",
+    "ru_name": "Невыразимый ужас"
+  },
+  {
+    "id": "NocturneParanoia",
+    "champion_id": "Nocturne",
+    "type": "ability",
+    "en_name": "Paranoia",
+    "ru_name": "Паранойя"
+  },
+  {
+    "id": "NunuPassive",
+    "champion_id": "Nunu",
+    "type": "passive",
+    "en_name": "Call of the Freljord",
+    "ru_name": "Зов Фрельйорда"
+  },
+  {
+    "id": "NunuQ",
+    "champion_id": "Nunu",
+    "type": "ability",
+    "en_name": "Consume",
+    "ru_name": "Поглощение"
+  },
+  {
+    "id": "NunuW",
+    "champion_id": "Nunu",
+    "type": "ability",
+    "en_name": "Biggest Snowball Ever!",
+    "ru_name": "Огромный снежный ком"
+  },
+  {
+    "id": "NunuE",
+    "champion_id": "Nunu",
+    "type": "ability",
+    "en_name": "Snowball Barrage",
+    "ru_name": "Снежковый обстрел"
+  },
+  {
+    "id": "NunuR",
+    "champion_id": "Nunu",
+    "type": "ability",
+    "en_name": "Absolute Zero",
+    "ru_name": "Абсолютный ноль"
+  },
+  {
+    "id": "OlafPassive",
+    "champion_id": "Olaf",
+    "type": "passive",
+    "en_name": "Berserker Rage",
+    "ru_name": "Ярость берсерка"
+  },
+  {
+    "id": "OlafAxeThrowCast",
+    "champion_id": "Olaf",
+    "type": "ability",
+    "en_name": "Undertow",
+    "ru_name": "Мощный бросок"
+  },
+  {
+    "id": "OlafFrenziedStrikes",
+    "champion_id": "Olaf",
+    "type": "ability",
+    "en_name": "Tough It Out",
+    "ru_name": "Превозмогание"
+  },
+  {
+    "id": "OlafRecklessStrike",
+    "champion_id": "Olaf",
+    "type": "ability",
+    "en_name": "Reckless Swing",
+    "ru_name": "Безрассудный замах"
+  },
+  {
+    "id": "OlafRagnarok",
+    "champion_id": "Olaf",
+    "type": "ability",
+    "en_name": "Ragnarok",
+    "ru_name": "Рагнарек"
+  },
+  {
+    "id": "OriannaPassive",
+    "champion_id": "Orianna",
+    "type": "passive",
+    "en_name": "Clockwork Windup",
+    "ru_name": "Пружинный механизм"
+  },
+  {
+    "id": "OrianaIzunaCommand",
+    "champion_id": "Orianna",
+    "type": "ability",
+    "en_name": "Command: Attack",
+    "ru_name": "Приказ: Атака"
+  },
+  {
+    "id": "OrianaDissonanceCommand",
+    "champion_id": "Orianna",
+    "type": "ability",
+    "en_name": "Command: Dissonance",
+    "ru_name": "Приказ: Диссонанс"
+  },
+  {
+    "id": "OrianaRedactCommand",
+    "champion_id": "Orianna",
+    "type": "ability",
+    "en_name": "Command: Protect",
+    "ru_name": "Приказ: Защита"
+  },
+  {
+    "id": "OrianaDetonateCommand",
+    "champion_id": "Orianna",
+    "type": "ability",
+    "en_name": "Command: Shockwave",
+    "ru_name": "Приказ: Ударная волна"
+  },
+  {
+    "id": "OrnnPassive",
+    "champion_id": "Ornn",
+    "type": "passive",
+    "en_name": "Living Forge",
+    "ru_name": "Живая кузница"
+  },
+  {
+    "id": "OrnnQ",
+    "champion_id": "Ornn",
+    "type": "ability",
+    "en_name": "Volcanic Rupture",
+    "ru_name": "Вулканический разлом"
+  },
+  {
+    "id": "OrnnW",
+    "champion_id": "Ornn",
+    "type": "ability",
+    "en_name": "Bellows Breath",
+    "ru_name": "Дыхание вулкана"
+  },
+  {
+    "id": "OrnnE",
+    "champion_id": "Ornn",
+    "type": "ability",
+    "en_name": "Searing Charge",
+    "ru_name": "Обжигающий рывок"
+  },
+  {
+    "id": "OrnnR",
+    "champion_id": "Ornn",
+    "type": "ability",
+    "en_name": "Call of the Forge God",
+    "ru_name": "Зов бога-кузнеца"
+  },
+  {
+    "id": "PantheonPassive",
+    "champion_id": "Pantheon",
+    "type": "passive",
+    "en_name": "Mortal Will",
+    "ru_name": "Воля смертного"
+  },
+  {
+    "id": "PantheonQ",
+    "champion_id": "Pantheon",
+    "type": "ability",
+    "en_name": "Comet Spear",
+    "ru_name": "Копье воина"
+  },
+  {
+    "id": "PantheonW",
+    "champion_id": "Pantheon",
+    "type": "ability",
+    "en_name": "Shield Vault",
+    "ru_name": "Щит воина"
+  },
+  {
+    "id": "PantheonE",
+    "champion_id": "Pantheon",
+    "type": "ability",
+    "en_name": "Aegis Assault",
+    "ru_name": "Агрессивная защита"
+  },
+  {
+    "id": "PantheonR",
+    "champion_id": "Pantheon",
+    "type": "ability",
+    "en_name": "Grand Starfall",
+    "ru_name": "Великий звездопад"
+  },
+  {
+    "id": "PoppyPassive",
+    "champion_id": "Poppy",
+    "type": "passive",
+    "en_name": "Iron Ambassador",
+    "ru_name": "Железный посол"
+  },
+  {
+    "id": "PoppyQ",
+    "champion_id": "Poppy",
+    "type": "ability",
+    "en_name": "Hammer Shock",
+    "ru_name": "Сотрясающий удар"
+  },
+  {
+    "id": "PoppyW",
+    "champion_id": "Poppy",
+    "type": "ability",
+    "en_name": "Steadfast Presence",
+    "ru_name": "Неколебимая мощь"
+  },
+  {
+    "id": "PoppyE",
+    "champion_id": "Poppy",
+    "type": "ability",
+    "en_name": "Heroic Charge",
+    "ru_name": "Героический рывок"
+  },
+  {
+    "id": "PoppyR",
+    "champion_id": "Poppy",
+    "type": "ability",
+    "en_name": "Keeper's Verdict",
+    "ru_name": "Вердикт Хранительницы"
+  },
+  {
+    "id": "PykePassive",
+    "champion_id": "Pyke",
+    "type": "passive",
+    "en_name": "Gift of the Drowned Ones",
+    "ru_name": "Дар утопленников"
+  },
+  {
+    "id": "PykeQ",
+    "champion_id": "Pyke",
+    "type": "ability",
+    "en_name": "Bone Skewer",
+    "ru_name": "Костяной гарпун"
+  },
+  {
+    "id": "PykeW",
+    "champion_id": "Pyke",
+    "type": "ability",
+    "en_name": "Ghostwater Dive",
+    "ru_name": "Кошмарное погружение"
+  },
+  {
+    "id": "PykeE",
+    "champion_id": "Pyke",
+    "type": "ability",
+    "en_name": "Phantom Undertow",
+    "ru_name": "Призрачный прилив"
+  },
+  {
+    "id": "PykeR",
+    "champion_id": "Pyke",
+    "type": "ability",
+    "en_name": "Death From Below",
+    "ru_name": "Смерть из глубин"
+  },
+  {
+    "id": "QiyanaPassive",
+    "champion_id": "Qiyana",
+    "type": "passive",
+    "en_name": "Royal Privilege",
+    "ru_name": "Королевская привилегия"
+  },
+  {
+    "id": "QiyanaQ",
+    "champion_id": "Qiyana",
+    "type": "ability",
+    "en_name": "Elemental Wrath / Edge of Ixtal",
+    "ru_name": "Гнев стихий / Клинок Ишталя"
+  },
+  {
+    "id": "QiyanaW",
+    "champion_id": "Qiyana",
+    "type": "ability",
+    "en_name": "Terrashape",
+    "ru_name": "Власть над стихиями"
+  },
+  {
+    "id": "QiyanaE",
+    "champion_id": "Qiyana",
+    "type": "ability",
+    "en_name": "Audacity",
+    "ru_name": "Дерзость"
+  },
+  {
+    "id": "QiyanaR",
+    "champion_id": "Qiyana",
+    "type": "ability",
+    "en_name": "Supreme Display of Talent",
+    "ru_name": "Демонстрация таланта"
+  },
+  {
+    "id": "QuinnPassive",
+    "champion_id": "Quinn",
+    "type": "passive",
+    "en_name": "Harrier",
+    "ru_name": "Хищная птица"
+  },
+  {
+    "id": "QuinnQ",
+    "champion_id": "Quinn",
+    "type": "ability",
+    "en_name": "Blinding Assault",
+    "ru_name": "Слепящий удар"
+  },
+  {
+    "id": "QuinnW",
+    "champion_id": "Quinn",
+    "type": "ability",
+    "en_name": "Heightened Senses",
+    "ru_name": "Обостренные чувства"
+  },
+  {
+    "id": "QuinnE",
+    "champion_id": "Quinn",
+    "type": "ability",
+    "en_name": "Vault",
+    "ru_name": "Рывок"
+  },
+  {
+    "id": "QuinnR",
+    "champion_id": "Quinn",
+    "type": "ability",
+    "en_name": "Behind Enemy Lines",
+    "ru_name": "В тылу врага"
+  },
+  {
+    "id": "RakanPassive",
+    "champion_id": "Rakan",
+    "type": "passive",
+    "en_name": "Fey Feathers",
+    "ru_name": "Шальные перья"
+  },
+  {
+    "id": "RakanQ",
+    "champion_id": "Rakan",
+    "type": "ability",
+    "en_name": "Gleaming Quill",
+    "ru_name": "Блестящее перо"
+  },
+  {
+    "id": "RakanW",
+    "champion_id": "Rakan",
+    "type": "ability",
+    "en_name": "Grand Entrance",
+    "ru_name": "Великолепное появление"
+  },
+  {
+    "id": "RakanE",
+    "champion_id": "Rakan",
+    "type": "ability",
+    "en_name": "Battle Dance",
+    "ru_name": "Боевой танец"
+  },
+  {
+    "id": "RakanR",
+    "champion_id": "Rakan",
+    "type": "ability",
+    "en_name": "The Quickness",
+    "ru_name": "Стремительность"
+  },
+  {
+    "id": "RammusPassive",
+    "champion_id": "Rammus",
+    "type": "passive",
+    "en_name": "Spiked Shell",
+    "ru_name": "Шипастый панцирь"
+  },
+  {
+    "id": "PowerBall",
+    "champion_id": "Rammus",
+    "type": "ability",
+    "en_name": "Powerball",
+    "ru_name": "Катящийся шар"
+  },
+  {
+    "id": "DefensiveBallCurl",
+    "champion_id": "Rammus",
+    "type": "ability",
+    "en_name": "Defensive Ball Curl",
+    "ru_name": "Защитная поза"
+  },
+  {
+    "id": "PuncturingTaunt",
+    "champion_id": "Rammus",
+    "type": "ability",
+    "en_name": "Frenzying Taunt",
+    "ru_name": "Неистовая колкость"
+  },
+  {
+    "id": "Tremors2",
+    "champion_id": "Rammus",
+    "type": "ability",
+    "en_name": "Soaring Slam",
+    "ru_name": "Мощное приземление"
+  },
+  {
+    "id": "RekSaiPassive",
+    "champion_id": "RekSai",
+    "type": "passive",
+    "en_name": "Fury of the Xer'Sai",
+    "ru_name": "Ярость зер'сай"
+  },
+  {
+    "id": "RekSaiQ",
+    "champion_id": "RekSai",
+    "type": "ability",
+    "en_name": "Queen's Wrath / Prey Seeker",
+    "ru_name": "Гнев королевы / Поиск жертвы"
+  },
+  {
+    "id": "RekSaiW",
+    "champion_id": "RekSai",
+    "type": "ability",
+    "en_name": "Burrow / Un-burrow",
+    "ru_name": "Уход под землю / Выход на поверхность"
+  },
+  {
+    "id": "RekSaiE",
+    "champion_id": "RekSai",
+    "type": "ability",
+    "en_name": "Furious Bite / Tunnel",
+    "ru_name": "Яростный укус / Тоннель"
+  },
+  {
+    "id": "RekSaiR",
+    "champion_id": "RekSai",
+    "type": "ability",
+    "en_name": "Void Rush",
+    "ru_name": "Натиск Бездны"
+  },
+  {
+    "id": "RellPassive",
+    "champion_id": "Rell",
+    "type": "passive",
+    "en_name": "Break the Mold",
+    "ru_name": "Безжалостный напор"
+  },
+  {
+    "id": "RellQ",
+    "champion_id": "Rell",
+    "type": "ability",
+    "en_name": "Shattering Strike",
+    "ru_name": "Пробивающий удар"
+  },
+  {
+    "id": "RellW_Dismount",
+    "champion_id": "Rell",
+    "type": "ability",
+    "en_name": "Ferromancy: Crash Down",
+    "ru_name": "Ферромантия: жесткая посадка"
+  },
+  {
+    "id": "RellE",
+    "champion_id": "Rell",
+    "type": "ability",
+    "en_name": "Full Tilt",
+    "ru_name": "Полный ход"
+  },
+  {
+    "id": "RellR",
+    "champion_id": "Rell",
+    "type": "ability",
+    "en_name": "Magnet Storm",
+    "ru_name": "Магнитная буря"
+  },
+  {
+    "id": "RenataPassive",
+    "champion_id": "Renata",
+    "type": "passive",
+    "en_name": "Leverage",
+    "ru_name": "Рычаг давления"
+  },
+  {
+    "id": "RenataQ",
+    "champion_id": "Renata",
+    "type": "ability",
+    "en_name": "Handshake",
+    "ru_name": "Рукопожатие"
+  },
+  {
+    "id": "RenataW",
+    "champion_id": "Renata",
+    "type": "ability",
+    "en_name": "Bailout",
+    "ru_name": "Антикризисные меры"
+  },
+  {
+    "id": "RenataE",
+    "champion_id": "Renata",
+    "type": "ability",
+    "en_name": "Loyalty Program",
+    "ru_name": "Программа лояльности"
+  },
+  {
+    "id": "RenataR",
+    "champion_id": "Renata",
+    "type": "ability",
+    "en_name": "Hostile Takeover",
+    "ru_name": "Смена руководства"
+  },
+  {
+    "id": "RenektonPassive",
+    "champion_id": "Renekton",
+    "type": "passive",
+    "en_name": "Reign of Anger",
+    "ru_name": "Всепоглощающий гнев"
+  },
+  {
+    "id": "RenektonCleave",
+    "champion_id": "Renekton",
+    "type": "ability",
+    "en_name": "Cull the Meek",
+    "ru_name": "Смерть слабым"
+  },
+  {
+    "id": "RenektonPreExecute",
+    "champion_id": "Renekton",
+    "type": "ability",
+    "en_name": "Ruthless Predator",
+    "ru_name": "Беспощадный хищник"
+  },
+  {
+    "id": "RenektonSliceAndDice",
+    "champion_id": "Renekton",
+    "type": "ability",
+    "en_name": "Slice and Dice",
+    "ru_name": "Режь и руби"
+  },
+  {
+    "id": "RenektonReignOfTheTyrant",
+    "champion_id": "Renekton",
+    "type": "ability",
+    "en_name": "Dominus",
+    "ru_name": "Тиран"
+  },
+  {
+    "id": "RengarPassive",
+    "champion_id": "Rengar",
+    "type": "passive",
+    "en_name": "Unseen Predator",
+    "ru_name": "Невидимый хищник"
+  },
+  {
+    "id": "RengarQ",
+    "champion_id": "Rengar",
+    "type": "ability",
+    "en_name": "Savagery",
+    "ru_name": "Дикость"
+  },
+  {
+    "id": "RengarW",
+    "champion_id": "Rengar",
+    "type": "ability",
+    "en_name": "Battle Roar",
+    "ru_name": "Боевой рык"
+  },
+  {
+    "id": "RengarE",
+    "champion_id": "Rengar",
+    "type": "ability",
+    "en_name": "Bola Strike",
+    "ru_name": "Бросок боласа"
+  },
+  {
+    "id": "RengarR",
+    "champion_id": "Rengar",
+    "type": "ability",
+    "en_name": "Thrill of the Hunt",
+    "ru_name": "Охотничий азарт"
+  },
+  {
+    "id": "RivenPassive",
+    "champion_id": "Riven",
+    "type": "passive",
+    "en_name": "Runic Blade",
+    "ru_name": "Рунический клинок"
+  },
+  {
+    "id": "RivenTriCleave",
+    "champion_id": "Riven",
+    "type": "ability",
+    "en_name": "Broken Wings",
+    "ru_name": "Сломанные крылья"
+  },
+  {
+    "id": "RivenMartyr",
+    "champion_id": "Riven",
+    "type": "ability",
+    "en_name": "Ki Burst",
+    "ru_name": "Всплеск Ци"
+  },
+  {
+    "id": "RivenFeint",
+    "champion_id": "Riven",
+    "type": "ability",
+    "en_name": "Valor",
+    "ru_name": "Доблесть"
+  },
+  {
+    "id": "RivenFengShuiEngine",
+    "champion_id": "Riven",
+    "type": "ability",
+    "en_name": "Blade of the Exile",
+    "ru_name": "Клинок Изгнанницы"
+  },
+  {
+    "id": "RumblePassive",
+    "champion_id": "Rumble",
+    "type": "passive",
+    "en_name": "Junkyard Titan",
+    "ru_name": "Титан со свалки"
+  },
+  {
+    "id": "RumbleFlameThrower",
+    "champion_id": "Rumble",
+    "type": "ability",
+    "en_name": "Flamespitter",
+    "ru_name": "Огнемет"
+  },
+  {
+    "id": "RumbleShield",
+    "champion_id": "Rumble",
+    "type": "ability",
+    "en_name": "Scrap Shield",
+    "ru_name": "Кустарный щит"
+  },
+  {
+    "id": "RumbleGrenade",
+    "champion_id": "Rumble",
+    "type": "ability",
+    "en_name": "Electro Harpoon",
+    "ru_name": "Электрогарпун"
+  },
+  {
+    "id": "RumbleCarpetBomb",
+    "champion_id": "Rumble",
+    "type": "ability",
+    "en_name": "The Equalizer",
+    "ru_name": "Уравнитель"
+  },
+  {
+    "id": "RyzePassive",
+    "champion_id": "Ryze",
+    "type": "passive",
+    "en_name": "Arcane Mastery",
+    "ru_name": "Тайное знание"
+  },
+  {
+    "id": "RyzeQWrapper",
+    "champion_id": "Ryze",
+    "type": "ability",
+    "en_name": "Overload",
+    "ru_name": "Перегрузка"
+  },
+  {
+    "id": "RyzeW",
+    "champion_id": "Ryze",
+    "type": "ability",
+    "en_name": "Rune Prison",
+    "ru_name": "Руническая тюрьма"
+  },
+  {
+    "id": "RyzeE",
+    "champion_id": "Ryze",
+    "type": "ability",
+    "en_name": "Spell Flux",
+    "ru_name": "Волшебный поток"
+  },
+  {
+    "id": "RyzeR",
+    "champion_id": "Ryze",
+    "type": "ability",
+    "en_name": "Realm Warp",
+    "ru_name": "Искривление пространства"
+  },
+  {
+    "id": "SamiraPassive",
+    "champion_id": "Samira",
+    "type": "passive",
+    "en_name": "Daredevil Impulse",
+    "ru_name": "Безрассудный порыв"
+  },
+  {
+    "id": "SamiraQ",
+    "champion_id": "Samira",
+    "type": "ability",
+    "en_name": "Flair",
+    "ru_name": "Эпатаж"
+  },
+  {
+    "id": "SamiraW",
+    "champion_id": "Samira",
+    "type": "ability",
+    "en_name": "Blade Whirl",
+    "ru_name": "Взмах клинка"
+  },
+  {
+    "id": "SamiraE",
+    "champion_id": "Samira",
+    "type": "ability",
+    "en_name": "Wild Rush",
+    "ru_name": "Неистовый рывок"
+  },
+  {
+    "id": "SamiraR",
+    "champion_id": "Samira",
+    "type": "ability",
+    "en_name": "Inferno Trigger",
+    "ru_name": "Адское пекло"
+  },
+  {
+    "id": "SejuaniPassive",
+    "champion_id": "Sejuani",
+    "type": "passive",
+    "en_name": "Fury of the North",
+    "ru_name": "Ярость севера"
+  },
+  {
+    "id": "SejuaniQ",
+    "champion_id": "Sejuani",
+    "type": "ability",
+    "en_name": "Arctic Assault",
+    "ru_name": "Арктическое наступление"
+  },
+  {
+    "id": "SejuaniW",
+    "champion_id": "Sejuani",
+    "type": "ability",
+    "en_name": "Winter's Wrath",
+    "ru_name": "Гнев зимы"
+  },
+  {
+    "id": "SejuaniE",
+    "champion_id": "Sejuani",
+    "type": "ability",
+    "en_name": "Permafrost",
+    "ru_name": "Вечная мерзлота"
+  },
+  {
+    "id": "SejuaniR",
+    "champion_id": "Sejuani",
+    "type": "ability",
+    "en_name": "Glacial Prison",
+    "ru_name": "Ледниковый плен"
+  },
+  {
+    "id": "SennaPassive",
+    "champion_id": "Senna",
+    "type": "passive",
+    "en_name": "Absolution",
+    "ru_name": "Освобождение"
+  },
+  {
+    "id": "SennaQ",
+    "champion_id": "Senna",
+    "type": "ability",
+    "en_name": "Piercing Darkness",
+    "ru_name": "Пронзающая тьма"
+  },
+  {
+    "id": "SennaW",
+    "champion_id": "Senna",
+    "type": "ability",
+    "en_name": "Last Embrace",
+    "ru_name": "Прощальные объятия"
+  },
+  {
+    "id": "SennaE",
+    "champion_id": "Senna",
+    "type": "ability",
+    "en_name": "Curse of the Black Mist",
+    "ru_name": "Проклятие черного тумана"
+  },
+  {
+    "id": "SennaR",
+    "champion_id": "Senna",
+    "type": "ability",
+    "en_name": "Dawning Shadow",
+    "ru_name": "Тенесвет"
+  },
+  {
+    "id": "SeraphinePassive",
+    "champion_id": "Seraphine",
+    "type": "passive",
+    "en_name": "Stage Presence",
+    "ru_name": "Сценическое обаяние"
+  },
+  {
+    "id": "SeraphineQ",
+    "champion_id": "Seraphine",
+    "type": "ability",
+    "en_name": "High Note",
+    "ru_name": "Высокая нота"
+  },
+  {
+    "id": "SeraphineW",
+    "champion_id": "Seraphine",
+    "type": "ability",
+    "en_name": "Surround Sound",
+    "ru_name": "Объемный звук"
+  },
+  {
+    "id": "SeraphineE",
+    "champion_id": "Seraphine",
+    "type": "ability",
+    "en_name": "Beat Drop",
+    "ru_name": "Ударный ритм"
+  },
+  {
+    "id": "SeraphineR",
+    "champion_id": "Seraphine",
+    "type": "ability",
+    "en_name": "Encore",
+    "ru_name": "Исполнение на бис"
+  },
+  {
+    "id": "SettPassive",
+    "champion_id": "Sett",
+    "type": "passive",
+    "en_name": "Pit Grit",
+    "ru_name": "Бойцовская выдержка"
+  },
+  {
+    "id": "SettQ",
+    "champion_id": "Sett",
+    "type": "ability",
+    "en_name": "Knuckle Down",
+    "ru_name": "Сила кулака"
+  },
+  {
+    "id": "SettW",
+    "champion_id": "Sett",
+    "type": "ability",
+    "en_name": "Haymaker",
+    "ru_name": "Головоломка"
+  },
+  {
+    "id": "SettE",
+    "champion_id": "Sett",
+    "type": "ability",
+    "en_name": "Facebreaker",
+    "ru_name": "Мордобой"
+  },
+  {
+    "id": "SettR",
+    "champion_id": "Sett",
+    "type": "ability",
+    "en_name": "The Show Stopper",
+    "ru_name": "Коронный прием"
+  },
+  {
+    "id": "ShacoPassive",
+    "champion_id": "Shaco",
+    "type": "passive",
+    "en_name": "Backstab",
+    "ru_name": "Удар в спину"
+  },
+  {
+    "id": "Deceive",
+    "champion_id": "Shaco",
+    "type": "ability",
+    "en_name": "Deceive",
+    "ru_name": "Обман"
+  },
+  {
+    "id": "JackInTheBox",
+    "champion_id": "Shaco",
+    "type": "ability",
+    "en_name": "Jack In The Box",
+    "ru_name": "Шут из коробки"
+  },
+  {
+    "id": "TwoShivPoison",
+    "champion_id": "Shaco",
+    "type": "ability",
+    "en_name": "Two-Shiv Poison",
+    "ru_name": "Отравленные заточки"
+  },
+  {
+    "id": "HallucinateFull",
+    "champion_id": "Shaco",
+    "type": "ability",
+    "en_name": "Hallucinate",
+    "ru_name": "Галлюцинация"
+  },
+  {
+    "id": "ShenPassive",
+    "champion_id": "Shen",
+    "type": "passive",
+    "en_name": "Ki Barrier",
+    "ru_name": "Барьер Ци"
+  },
+  {
+    "id": "ShenQ",
+    "champion_id": "Shen",
+    "type": "ability",
+    "en_name": "Twilight Assault",
+    "ru_name": "Сумеречная атака"
+  },
+  {
+    "id": "ShenW",
+    "champion_id": "Shen",
+    "type": "ability",
+    "en_name": "Spirit's Refuge",
+    "ru_name": "Пристанище духа"
+  },
+  {
+    "id": "ShenE",
+    "champion_id": "Shen",
+    "type": "ability",
+    "en_name": "Shadow Dash",
+    "ru_name": "Теневой рывок"
+  },
+  {
+    "id": "ShenR",
+    "champion_id": "Shen",
+    "type": "ability",
+    "en_name": "Stand United",
+    "ru_name": "Плечом к плечу"
+  },
+  {
+    "id": "ShyvanaPassive",
+    "champion_id": "Shyvana",
+    "type": "passive",
+    "en_name": "Scalemail",
+    "ru_name": "Крепкая чешуя"
+  },
+  {
+    "id": "ShyvanaQ",
+    "champion_id": "Shyvana",
+    "type": "ability",
+    "en_name": "Emberstrike",
+    "ru_name": "Пламенный удар"
+  },
+  {
+    "id": "ShyvanaW",
+    "champion_id": "Shyvana",
+    "type": "ability",
+    "en_name": "Inferno Aegis",
+    "ru_name": "Эгида огня"
+  },
+  {
+    "id": "ShyvanaE",
+    "champion_id": "Shyvana",
+    "type": "ability",
+    "en_name": "Molten Burst",
+    "ru_name": "Жидкий огонь"
+  },
+  {
+    "id": "ShyvanaR",
+    "champion_id": "Shyvana",
+    "type": "ability",
+    "en_name": "Dragon's Descent",
+    "ru_name": "Приземление дракона"
+  },
+  {
+    "id": "SingedPassive",
+    "champion_id": "Singed",
+    "type": "passive",
+    "en_name": "Noxious Slipstream",
+    "ru_name": "Ядовитый слипстрим"
+  },
+  {
+    "id": "PoisonTrail",
+    "champion_id": "Singed",
+    "type": "ability",
+    "en_name": "Poison Trail",
+    "ru_name": "Ядовитый след"
+  },
+  {
+    "id": "MegaAdhesive",
+    "champion_id": "Singed",
+    "type": "ability",
+    "en_name": "Mega Adhesive",
+    "ru_name": "Мегаклей"
+  },
+  {
+    "id": "Fling",
+    "champion_id": "Singed",
+    "type": "ability",
+    "en_name": "Fling",
+    "ru_name": "Бросок"
+  },
+  {
+    "id": "InsanityPotion",
+    "champion_id": "Singed",
+    "type": "ability",
+    "en_name": "Insanity Potion",
+    "ru_name": "Зелье безумия"
+  },
+  {
+    "id": "SionPassive",
+    "champion_id": "Sion",
+    "type": "passive",
+    "en_name": "Glory in Death",
+    "ru_name": "Посмертный триумф"
+  },
+  {
+    "id": "SionQ",
+    "champion_id": "Sion",
+    "type": "ability",
+    "en_name": "Decimating Smash",
+    "ru_name": "Опустошающий удар"
+  },
+  {
+    "id": "SionW",
+    "champion_id": "Sion",
+    "type": "ability",
+    "en_name": "Soul Furnace",
+    "ru_name": "Горнило душ"
+  },
+  {
+    "id": "SionE",
+    "champion_id": "Sion",
+    "type": "ability",
+    "en_name": "Roar of the Slayer",
+    "ru_name": "Рев мясника"
+  },
+  {
+    "id": "SionR",
+    "champion_id": "Sion",
+    "type": "ability",
+    "en_name": "Unstoppable Onslaught",
+    "ru_name": "Неудержимое наступление"
+  },
+  {
+    "id": "SivirPassive",
+    "champion_id": "Sivir",
+    "type": "passive",
+    "en_name": "Fleet of Foot",
+    "ru_name": "Быстроногая"
+  },
+  {
+    "id": "SivirQ",
+    "champion_id": "Sivir",
+    "type": "ability",
+    "en_name": "Boomerang Blade",
+    "ru_name": "Клинок-бумеранг"
+  },
+  {
+    "id": "SivirW",
+    "champion_id": "Sivir",
+    "type": "ability",
+    "en_name": "Ricochet",
+    "ru_name": "Рикошет"
+  },
+  {
+    "id": "SivirE",
+    "champion_id": "Sivir",
+    "type": "ability",
+    "en_name": "Spell Shield",
+    "ru_name": "Щит от магии"
+  },
+  {
+    "id": "SivirR",
+    "champion_id": "Sivir",
+    "type": "ability",
+    "en_name": "On The Hunt",
+    "ru_name": "На охоту"
+  },
+  {
+    "id": "SkarnerPassive",
+    "champion_id": "Skarner",
+    "type": "passive",
+    "en_name": "Threads of Vibration",
+    "ru_name": "Нити вибрации"
+  },
+  {
+    "id": "SkarnerQ",
+    "champion_id": "Skarner",
+    "type": "ability",
+    "en_name": "Shattered Earth / Upheaval",
+    "ru_name": "Расколотая земля / Сотрясение"
+  },
+  {
+    "id": "SkarnerW",
+    "champion_id": "Skarner",
+    "type": "ability",
+    "en_name": "Seismic Bastion",
+    "ru_name": "Сейсмический бастион"
+  },
+  {
+    "id": "SkarnerE",
+    "champion_id": "Skarner",
+    "type": "ability",
+    "en_name": "Ixtal's Impact",
+    "ru_name": "Наступление Ишталя"
+  },
+  {
+    "id": "SkarnerR",
+    "champion_id": "Skarner",
+    "type": "ability",
+    "en_name": "Impale",
+    "ru_name": "Пронзание"
+  },
+  {
+    "id": "SmolderPassive",
+    "champion_id": "Smolder",
+    "type": "passive",
+    "en_name": "Dragon Practice",
+    "ru_name": "Драконья тренировка"
+  },
+  {
+    "id": "SmolderQ",
+    "champion_id": "Smolder",
+    "type": "ability",
+    "en_name": "Super Scorcher Breath",
+    "ru_name": "Супержаркое дыхание"
+  },
+  {
+    "id": "SmolderW",
+    "champion_id": "Smolder",
+    "type": "ability",
+    "en_name": "Achooo!",
+    "ru_name": "Апчхи!"
+  },
+  {
+    "id": "SmolderE",
+    "champion_id": "Smolder",
+    "type": "ability",
+    "en_name": "Flap, Flap, Flap",
+    "ru_name": "Хлоп-хлоп-хлоп"
+  },
+  {
+    "id": "SmolderR",
+    "champion_id": "Smolder",
+    "type": "ability",
+    "en_name": "MMOOOMMMM!",
+    "ru_name": "МА-А-АМ!"
+  },
+  {
+    "id": "SonaPassive",
+    "champion_id": "Sona",
+    "type": "passive",
+    "en_name": "Power Chord",
+    "ru_name": "Мощный аккорд"
+  },
+  {
+    "id": "SonaQ",
+    "champion_id": "Sona",
+    "type": "ability",
+    "en_name": "Hymn of Valor",
+    "ru_name": "Гимн доблести"
+  },
+  {
+    "id": "SonaW",
+    "champion_id": "Sona",
+    "type": "ability",
+    "en_name": "Aria of Perseverance",
+    "ru_name": "Ария стойкости"
+  },
+  {
+    "id": "SonaE",
+    "champion_id": "Sona",
+    "type": "ability",
+    "en_name": "Song of Celerity",
+    "ru_name": "Песнь стремительности"
+  },
+  {
+    "id": "SonaR",
+    "champion_id": "Sona",
+    "type": "ability",
+    "en_name": "Crescendo",
+    "ru_name": "Крещендо"
+  },
+  {
+    "id": "SorakaPassive",
+    "champion_id": "Soraka",
+    "type": "passive",
+    "en_name": "Salvation",
+    "ru_name": "Спасение"
+  },
+  {
+    "id": "SorakaQ",
+    "champion_id": "Soraka",
+    "type": "ability",
+    "en_name": "Starcall",
+    "ru_name": "Звездопад"
+  },
+  {
+    "id": "SorakaW",
+    "champion_id": "Soraka",
+    "type": "ability",
+    "en_name": "Astral Infusion",
+    "ru_name": "Звездная пыль"
+  },
+  {
+    "id": "SorakaE",
+    "champion_id": "Soraka",
+    "type": "ability",
+    "en_name": "Equinox",
+    "ru_name": "Равноденствие"
+  },
+  {
+    "id": "SorakaR",
+    "champion_id": "Soraka",
+    "type": "ability",
+    "en_name": "Wish",
+    "ru_name": "Желание"
+  },
+  {
+    "id": "SwainPassive",
+    "champion_id": "Swain",
+    "type": "passive",
+    "en_name": "Ravenous Flock",
+    "ru_name": "Ненасытная стая"
+  },
+  {
+    "id": "SwainQ",
+    "champion_id": "Swain",
+    "type": "ability",
+    "en_name": "Death's Hand",
+    "ru_name": "Рука смерти"
+  },
+  {
+    "id": "SwainW",
+    "champion_id": "Swain",
+    "type": "ability",
+    "en_name": "Vision of Empire",
+    "ru_name": "Око империи"
+  },
+  {
+    "id": "SwainE",
+    "champion_id": "Swain",
+    "type": "ability",
+    "en_name": "Nevermove",
+    "ru_name": "Недвижность"
+  },
+  {
+    "id": "SwainR",
+    "champion_id": "Swain",
+    "type": "ability",
+    "en_name": "Demonic Ascension",
+    "ru_name": "Демоническое возвышение"
+  },
+  {
+    "id": "SylasPassive",
+    "champion_id": "Sylas",
+    "type": "passive",
+    "en_name": "Petricite Burst",
+    "ru_name": "Петрицитовый вихрь"
+  },
+  {
+    "id": "SylasQ",
+    "champion_id": "Sylas",
+    "type": "ability",
+    "en_name": "Chain Lash",
+    "ru_name": "Удар цепями"
+  },
+  {
+    "id": "SylasW",
+    "champion_id": "Sylas",
+    "type": "ability",
+    "en_name": "Kingslayer",
+    "ru_name": "Убийца королей"
+  },
+  {
+    "id": "SylasE",
+    "champion_id": "Sylas",
+    "type": "ability",
+    "en_name": "Abscond / Abduct",
+    "ru_name": "Побег/Пленение"
+  },
+  {
+    "id": "SylasR",
+    "champion_id": "Sylas",
+    "type": "ability",
+    "en_name": "Hijack",
+    "ru_name": "Похищение силы"
+  },
+  {
+    "id": "SyndraPassive",
+    "champion_id": "Syndra",
+    "type": "passive",
+    "en_name": "Transcendent",
+    "ru_name": "Трансцендентальность"
+  },
+  {
+    "id": "SyndraQ",
+    "champion_id": "Syndra",
+    "type": "ability",
+    "en_name": "Dark Sphere",
+    "ru_name": "Темная сфера"
+  },
+  {
+    "id": "SyndraW",
+    "champion_id": "Syndra",
+    "type": "ability",
+    "en_name": "Force of Will",
+    "ru_name": "Сила воли"
+  },
+  {
+    "id": "SyndraE",
+    "champion_id": "Syndra",
+    "type": "ability",
+    "en_name": "Scatter the Weak",
+    "ru_name": "Изгнание слабых"
+  },
+  {
+    "id": "SyndraR",
+    "champion_id": "Syndra",
+    "type": "ability",
+    "en_name": "Unleashed Power",
+    "ru_name": "Высвобожденная сила"
+  },
+  {
+    "id": "TahmKenchPassive",
+    "champion_id": "TahmKench",
+    "type": "passive",
+    "en_name": "An Acquired Taste",
+    "ru_name": "Жор"
+  },
+  {
+    "id": "TahmKenchQ",
+    "champion_id": "TahmKench",
+    "type": "ability",
+    "en_name": "Tongue Lash",
+    "ru_name": "Удар языком"
+  },
+  {
+    "id": "TahmKenchW",
+    "champion_id": "TahmKench",
+    "type": "ability",
+    "en_name": "Abyssal Dive",
+    "ru_name": "Подводный рывок"
+  },
+  {
+    "id": "TahmKenchE",
+    "champion_id": "TahmKench",
+    "type": "ability",
+    "en_name": "Thick Skin",
+    "ru_name": "Прочная шкура"
+  },
+  {
+    "id": "TahmKenchRWrapper",
+    "champion_id": "TahmKench",
+    "type": "ability",
+    "en_name": "Devour",
+    "ru_name": "Хватай-глотай"
+  },
+  {
+    "id": "TaliyahPassive",
+    "champion_id": "Taliyah",
+    "type": "passive",
+    "en_name": "Rock Surfing",
+    "ru_name": "Катание на камнях"
+  },
+  {
+    "id": "TaliyahQ",
+    "champion_id": "Taliyah",
+    "type": "ability",
+    "en_name": "Threaded Volley",
+    "ru_name": "Плетеный залп"
+  },
+  {
+    "id": "TaliyahWVC",
+    "champion_id": "Taliyah",
+    "type": "ability",
+    "en_name": "Seismic Shove",
+    "ru_name": "Подземный толчок"
+  },
+  {
+    "id": "TaliyahE",
+    "champion_id": "Taliyah",
+    "type": "ability",
+    "en_name": "Unraveled Earth",
+    "ru_name": "Вздыбленная земля"
+  },
+  {
+    "id": "TaliyahR",
+    "champion_id": "Taliyah",
+    "type": "ability",
+    "en_name": "Weaver's Wall",
+    "ru_name": "Стена Пряхи"
+  },
+  {
+    "id": "TalonPassive",
+    "champion_id": "Talon",
+    "type": "passive",
+    "en_name": "Blade's End",
+    "ru_name": "Острие клинка"
+  },
+  {
+    "id": "TalonQ",
+    "champion_id": "Talon",
+    "type": "ability",
+    "en_name": "Noxian Diplomacy",
+    "ru_name": "Ноксианская дипломатия"
+  },
+  {
+    "id": "TalonW",
+    "champion_id": "Talon",
+    "type": "ability",
+    "en_name": "Rake",
+    "ru_name": "Раздирание"
+  },
+  {
+    "id": "TalonE",
+    "champion_id": "Talon",
+    "type": "ability",
+    "en_name": "Assassin's Path",
+    "ru_name": "Путь убийцы"
+  },
+  {
+    "id": "TalonR",
+    "champion_id": "Talon",
+    "type": "ability",
+    "en_name": "Shadow Assault",
+    "ru_name": "Атака из тени"
+  },
+  {
+    "id": "TaricPassive",
+    "champion_id": "Taric",
+    "type": "passive",
+    "en_name": "Bravado",
+    "ru_name": "Бравада"
+  },
+  {
+    "id": "TaricQ",
+    "champion_id": "Taric",
+    "type": "ability",
+    "en_name": "Starlight's Touch",
+    "ru_name": "Прикосновение звезд"
+  },
+  {
+    "id": "TaricW",
+    "champion_id": "Taric",
+    "type": "ability",
+    "en_name": "Bastion",
+    "ru_name": "Бастион"
+  },
+  {
+    "id": "TaricE",
+    "champion_id": "Taric",
+    "type": "ability",
+    "en_name": "Dazzle",
+    "ru_name": "Ослепление"
+  },
+  {
+    "id": "TaricR",
+    "champion_id": "Taric",
+    "type": "ability",
+    "en_name": "Cosmic Radiance",
+    "ru_name": "Космическое сияние"
+  },
+  {
+    "id": "TeemoPassive",
+    "champion_id": "Teemo",
+    "type": "passive",
+    "en_name": "Guerrilla Warfare",
+    "ru_name": "Партизанская война"
+  },
+  {
+    "id": "TeemoQ",
+    "champion_id": "Teemo",
+    "type": "ability",
+    "en_name": "Blinding Dart",
+    "ru_name": "Слепящий дротик"
+  },
+  {
+    "id": "TeemoW",
+    "champion_id": "Teemo",
+    "type": "ability",
+    "en_name": "Move Quick",
+    "ru_name": "Быстрый бег"
+  },
+  {
+    "id": "TeemoE",
+    "champion_id": "Teemo",
+    "type": "ability",
+    "en_name": "Toxic Shot",
+    "ru_name": "Отравленный выстрел"
+  },
+  {
+    "id": "TeemoR",
+    "champion_id": "Teemo",
+    "type": "ability",
+    "en_name": "Noxious Trap",
+    "ru_name": "Ядовитая ловушка"
+  },
+  {
+    "id": "ThreshPassive",
+    "champion_id": "Thresh",
+    "type": "passive",
+    "en_name": "Damnation",
+    "ru_name": "Проклятие"
+  },
+  {
+    "id": "ThreshQ",
+    "champion_id": "Thresh",
+    "type": "ability",
+    "en_name": "Death Sentence",
+    "ru_name": "Смертный приговор"
+  },
+  {
+    "id": "ThreshW",
+    "champion_id": "Thresh",
+    "type": "ability",
+    "en_name": "Dark Passage",
+    "ru_name": "Темный путь"
+  },
+  {
+    "id": "ThreshE",
+    "champion_id": "Thresh",
+    "type": "ability",
+    "en_name": "Flay",
+    "ru_name": "Замах"
+  },
+  {
+    "id": "ThreshRPenta",
+    "champion_id": "Thresh",
+    "type": "ability",
+    "en_name": "The Box",
+    "ru_name": "Короб"
+  },
+  {
+    "id": "TristanaPassive",
+    "champion_id": "Tristana",
+    "type": "passive",
+    "en_name": "Draw a Bead",
+    "ru_name": "Прицеливание"
+  },
+  {
+    "id": "TristanaQ",
+    "champion_id": "Tristana",
+    "type": "ability",
+    "en_name": "Rapid Fire",
+    "ru_name": "Беглый огонь"
+  },
+  {
+    "id": "TristanaW",
+    "champion_id": "Tristana",
+    "type": "ability",
+    "en_name": "Rocket Jump",
+    "ru_name": "Ракетный прыжок"
+  },
+  {
+    "id": "TristanaE",
+    "champion_id": "Tristana",
+    "type": "ability",
+    "en_name": "Explosive Charge",
+    "ru_name": "Разрывной снаряд"
+  },
+  {
+    "id": "TristanaR",
+    "champion_id": "Tristana",
+    "type": "ability",
+    "en_name": "Buster Shot",
+    "ru_name": "Вышибной заряд"
+  },
+  {
+    "id": "TrundlePassive",
+    "champion_id": "Trundle",
+    "type": "passive",
+    "en_name": "King's Tribute",
+    "ru_name": "Подношение королю"
+  },
+  {
+    "id": "TrundleTrollSmash",
+    "champion_id": "Trundle",
+    "type": "ability",
+    "en_name": "Chomp",
+    "ru_name": "Укус"
+  },
+  {
+    "id": "trundledesecrate",
+    "champion_id": "Trundle",
+    "type": "ability",
+    "en_name": "Frozen Domain",
+    "ru_name": "Ледяная земля"
+  },
+  {
+    "id": "TrundleCircle",
+    "champion_id": "Trundle",
+    "type": "ability",
+    "en_name": "Pillar of Ice",
+    "ru_name": "Ледяной столп"
+  },
+  {
+    "id": "TrundlePain",
+    "champion_id": "Trundle",
+    "type": "ability",
+    "en_name": "Subjugate",
+    "ru_name": "Порабощение"
+  },
+  {
+    "id": "TryndamerePassive",
+    "champion_id": "Tryndamere",
+    "type": "passive",
+    "en_name": "Battle Fury",
+    "ru_name": "Боевой раж"
+  },
+  {
+    "id": "TryndamereQ",
+    "champion_id": "Tryndamere",
+    "type": "ability",
+    "en_name": "Bloodlust",
+    "ru_name": "Жажда крови"
+  },
+  {
+    "id": "TryndamereW",
+    "champion_id": "Tryndamere",
+    "type": "ability",
+    "en_name": "Mocking Shout",
+    "ru_name": "Вызывающий крик"
+  },
+  {
+    "id": "TryndamereE",
+    "champion_id": "Tryndamere",
+    "type": "ability",
+    "en_name": "Spinning Slash",
+    "ru_name": "Удар вихря"
+  },
+  {
+    "id": "UndyingRage",
+    "champion_id": "Tryndamere",
+    "type": "ability",
+    "en_name": "Undying Rage",
+    "ru_name": "Неугасающая ярость"
+  },
+  {
+    "id": "TwistedFatePassive",
+    "champion_id": "TwistedFate",
+    "type": "passive",
+    "en_name": "Loaded Dice",
+    "ru_name": "Шулерские кости"
+  },
+  {
+    "id": "WildCards",
+    "champion_id": "TwistedFate",
+    "type": "ability",
+    "en_name": "Wild Cards",
+    "ru_name": "Дикие карты"
+  },
+  {
+    "id": "PickACard",
+    "champion_id": "TwistedFate",
+    "type": "ability",
+    "en_name": "Pick a Card",
+    "ru_name": "Выбор карты"
+  },
+  {
+    "id": "CardmasterStack",
+    "champion_id": "TwistedFate",
+    "type": "ability",
+    "en_name": "Stacked Deck",
+    "ru_name": "Сложенная колода"
+  },
+  {
+    "id": "Destiny",
+    "champion_id": "TwistedFate",
+    "type": "ability",
+    "en_name": "Destiny",
+    "ru_name": "Судьба"
+  },
+  {
+    "id": "TwitchPassive",
+    "champion_id": "Twitch",
+    "type": "passive",
+    "en_name": "Deadly Venom",
+    "ru_name": "Смертельный яд"
+  },
+  {
+    "id": "TwitchHideInShadows",
+    "champion_id": "Twitch",
+    "type": "ability",
+    "en_name": "Ambush",
+    "ru_name": "Засада"
+  },
+  {
+    "id": "TwitchVenomCask",
+    "champion_id": "Twitch",
+    "type": "ability",
+    "en_name": "Venom Cask",
+    "ru_name": "Склянка с ядом"
+  },
+  {
+    "id": "TwitchExpunge",
+    "champion_id": "Twitch",
+    "type": "ability",
+    "en_name": "Contaminate",
+    "ru_name": "Зараза"
+  },
+  {
+    "id": "TwitchFullAutomatic",
+    "champion_id": "Twitch",
+    "type": "ability",
+    "en_name": "Spray and Pray",
+    "ru_name": "Стрельба наугад"
+  },
+  {
+    "id": "UdyrPassive",
+    "champion_id": "Udyr",
+    "type": "passive",
+    "en_name": "Bridge Between",
+    "ru_name": "Мост между мирами"
+  },
+  {
+    "id": "UdyrQ",
+    "champion_id": "Udyr",
+    "type": "ability",
+    "en_name": "Wilding Claw",
+    "ru_name": "Дикий коготь"
+  },
+  {
+    "id": "UdyrW",
+    "champion_id": "Udyr",
+    "type": "ability",
+    "en_name": "Iron Mantle",
+    "ru_name": "Железная щетина"
+  },
+  {
+    "id": "UdyrE",
+    "champion_id": "Udyr",
+    "type": "ability",
+    "en_name": "Blazing Stampede",
+    "ru_name": "Пламенный натиск"
+  },
+  {
+    "id": "UdyrR",
+    "champion_id": "Udyr",
+    "type": "ability",
+    "en_name": "Wingborne Storm",
+    "ru_name": "Лютая вьюга"
+  },
+  {
+    "id": "UrgotPassive",
+    "champion_id": "Urgot",
+    "type": "passive",
+    "en_name": "Echoing Flames",
+    "ru_name": "Огненное эхо"
+  },
+  {
+    "id": "UrgotQ",
+    "champion_id": "Urgot",
+    "type": "ability",
+    "en_name": "Corrosive Charge",
+    "ru_name": "Коррозийный заряд"
+  },
+  {
+    "id": "UrgotW",
+    "champion_id": "Urgot",
+    "type": "ability",
+    "en_name": "Purge",
+    "ru_name": "Зачистка"
+  },
+  {
+    "id": "UrgotE",
+    "champion_id": "Urgot",
+    "type": "ability",
+    "en_name": "Disdain",
+    "ru_name": "Презрение"
+  },
+  {
+    "id": "UrgotR",
+    "champion_id": "Urgot",
+    "type": "ability",
+    "en_name": "Fear Beyond Death",
+    "ru_name": "Сильнее страха смерти"
+  },
+  {
+    "id": "VarusPassive",
+    "champion_id": "Varus",
+    "type": "passive",
+    "en_name": "Living Vengeance",
+    "ru_name": "Само возмездие"
+  },
+  {
+    "id": "VarusQ",
+    "champion_id": "Varus",
+    "type": "ability",
+    "en_name": "Piercing Arrow",
+    "ru_name": "Пробивающая стрела"
+  },
+  {
+    "id": "VarusW",
+    "champion_id": "Varus",
+    "type": "ability",
+    "en_name": "Blighted Quiver",
+    "ru_name": "Оскверненный колчан"
+  },
+  {
+    "id": "VarusE",
+    "champion_id": "Varus",
+    "type": "ability",
+    "en_name": "Hail of Arrows",
+    "ru_name": "Град стрел"
+  },
+  {
+    "id": "VarusR",
+    "champion_id": "Varus",
+    "type": "ability",
+    "en_name": "Chain of Corruption",
+    "ru_name": "Цепь порчи"
+  },
+  {
+    "id": "VaynePassive",
+    "champion_id": "Vayne",
+    "type": "passive",
+    "en_name": "Night Hunter",
+    "ru_name": "Ночная охотница"
+  },
+  {
+    "id": "VayneTumble",
+    "champion_id": "Vayne",
+    "type": "ability",
+    "en_name": "Tumble",
+    "ru_name": "Кувырок"
+  },
+  {
+    "id": "VayneSilveredBolts",
+    "champion_id": "Vayne",
+    "type": "ability",
+    "en_name": "Silver Bolts",
+    "ru_name": "Серебряные стрелы"
+  },
+  {
+    "id": "VayneCondemn",
+    "champion_id": "Vayne",
+    "type": "ability",
+    "en_name": "Condemn",
+    "ru_name": "Приговор"
+  },
+  {
+    "id": "VayneInquisition",
+    "champion_id": "Vayne",
+    "type": "ability",
+    "en_name": "Final Hour",
+    "ru_name": "Последняя битва"
+  },
+  {
+    "id": "VeigarPassive",
+    "champion_id": "Veigar",
+    "type": "passive",
+    "en_name": "Phenomenal Evil Power",
+    "ru_name": "Невероятная сила зла"
+  },
+  {
+    "id": "VeigarBalefulStrike",
+    "champion_id": "Veigar",
+    "type": "ability",
+    "en_name": "Baleful Strike",
+    "ru_name": "Злобный удар"
+  },
+  {
+    "id": "VeigarDarkMatter",
+    "champion_id": "Veigar",
+    "type": "ability",
+    "en_name": "Dark Matter",
+    "ru_name": "Темная материя"
+  },
+  {
+    "id": "VeigarEventHorizon",
+    "champion_id": "Veigar",
+    "type": "ability",
+    "en_name": "Event Horizon",
+    "ru_name": "Горизонт событий"
+  },
+  {
+    "id": "VeigarR",
+    "champion_id": "Veigar",
+    "type": "ability",
+    "en_name": "Primordial Burst",
+    "ru_name": "Большой взрыв"
+  },
+  {
+    "id": "VelkozPassive",
+    "champion_id": "Velkoz",
+    "type": "passive",
+    "en_name": "Organic Deconstruction",
+    "ru_name": "Органический распад"
+  },
+  {
+    "id": "VelkozQ",
+    "champion_id": "Velkoz",
+    "type": "ability",
+    "en_name": "Plasma Fission",
+    "ru_name": "Плазменное деление"
+  },
+  {
+    "id": "VelkozW",
+    "champion_id": "Velkoz",
+    "type": "ability",
+    "en_name": "Void Rift",
+    "ru_name": "Пролом в Бездну"
+  },
+  {
+    "id": "VelkozE",
+    "champion_id": "Velkoz",
+    "type": "ability",
+    "en_name": "Tectonic Disruption",
+    "ru_name": "Тектонический сдвиг"
+  },
+  {
+    "id": "VelkozR",
+    "champion_id": "Velkoz",
+    "type": "ability",
+    "en_name": "Life Form Disintegration Ray",
+    "ru_name": "Луч дезинтеграции форм жизни"
+  },
+  {
+    "id": "VexPassive",
+    "champion_id": "Vex",
+    "type": "passive",
+    "en_name": "Doom 'n Gloom",
+    "ru_name": "Тлен и безысходность"
+  },
+  {
+    "id": "VexQ",
+    "champion_id": "Vex",
+    "type": "ability",
+    "en_name": "Mistral Bolt",
+    "ru_name": "Черная полоса"
+  },
+  {
+    "id": "VexW",
+    "champion_id": "Vex",
+    "type": "ability",
+    "en_name": "Personal Space",
+    "ru_name": "Личное пространство"
+  },
+  {
+    "id": "VexE",
+    "champion_id": "Vex",
+    "type": "ability",
+    "en_name": "Looming Darkness",
+    "ru_name": "Неизбежная тьма"
+  },
+  {
+    "id": "VexR",
+    "champion_id": "Vex",
+    "type": "ability",
+    "en_name": "Shadow Surge",
+    "ru_name": "Стремительная тень"
+  },
+  {
+    "id": "ViPassive",
+    "champion_id": "Vi",
+    "type": "passive",
+    "en_name": "Blast Shield",
+    "ru_name": "Пламеотражатель"
+  },
+  {
+    "id": "ViQ",
+    "champion_id": "Vi",
+    "type": "ability",
+    "en_name": "Vault Breaker",
+    "ru_name": "Вскрыватель хранилищ"
+  },
+  {
+    "id": "ViW",
+    "champion_id": "Vi",
+    "type": "ability",
+    "en_name": "Denting Blows",
+    "ru_name": "Сминающие удары"
+  },
+  {
+    "id": "ViE",
+    "champion_id": "Vi",
+    "type": "ability",
+    "en_name": "Relentless Force",
+    "ru_name": "Грубая сила"
+  },
+  {
+    "id": "ViR",
+    "champion_id": "Vi",
+    "type": "ability",
+    "en_name": "Cease and Desist",
+    "ru_name": "Крайние меры"
+  },
+  {
+    "id": "ViegoPassive",
+    "champion_id": "Viego",
+    "type": "passive",
+    "en_name": "Sovereign's Domination",
+    "ru_name": "Право сильного"
+  },
+  {
+    "id": "ViegoQ",
+    "champion_id": "Viego",
+    "type": "ability",
+    "en_name": "Blade of the Ruined King",
+    "ru_name": "Клинок Падшего короля"
+  },
+  {
+    "id": "ViegoW",
+    "champion_id": "Viego",
+    "type": "ability",
+    "en_name": "Spectral Maw",
+    "ru_name": "Призрачная пасть"
+  },
+  {
+    "id": "ViegoE",
+    "champion_id": "Viego",
+    "type": "ability",
+    "en_name": "Harrowed Path",
+    "ru_name": "Путь страха"
+  },
+  {
+    "id": "ViegoR",
+    "champion_id": "Viego",
+    "type": "ability",
+    "en_name": "Heartbreaker",
+    "ru_name": "Разбитое сердце"
+  },
+  {
+    "id": "ViktorPassive",
+    "champion_id": "Viktor",
+    "type": "passive",
+    "en_name": "Glorious Evolution",
+    "ru_name": "Великая эволюция"
+  },
+  {
+    "id": "ViktorQ",
+    "champion_id": "Viktor",
+    "type": "ability",
+    "en_name": "Siphon Power",
+    "ru_name": "Отвод энергии"
+  },
+  {
+    "id": "ViktorW",
+    "champion_id": "Viktor",
+    "type": "ability",
+    "en_name": "Gravity Field",
+    "ru_name": "Гравитационное поле"
+  },
+  {
+    "id": "ViktorE",
+    "champion_id": "Viktor",
+    "type": "ability",
+    "en_name": "Hextech Ray",
+    "ru_name": "Хекстековый луч"
+  },
+  {
+    "id": "ViktorR",
+    "champion_id": "Viktor",
+    "type": "ability",
+    "en_name": "Arcane Storm",
+    "ru_name": "Вихрь аркейна"
+  },
+  {
+    "id": "VladimirPassive",
+    "champion_id": "Vladimir",
+    "type": "passive",
+    "en_name": "Crimson Pact",
+    "ru_name": "Багряный пакт"
+  },
+  {
+    "id": "VladimirQ",
+    "champion_id": "Vladimir",
+    "type": "ability",
+    "en_name": "Transfusion",
+    "ru_name": "Переливание"
+  },
+  {
+    "id": "VladimirSanguinePool",
+    "champion_id": "Vladimir",
+    "type": "ability",
+    "en_name": "Sanguine Pool",
+    "ru_name": "Алый омут"
+  },
+  {
+    "id": "VladimirE",
+    "champion_id": "Vladimir",
+    "type": "ability",
+    "en_name": "Tides of Blood",
+    "ru_name": "Потоки крови"
+  },
+  {
+    "id": "VladimirHemoplague",
+    "champion_id": "Vladimir",
+    "type": "ability",
+    "en_name": "Hemoplague",
+    "ru_name": "Заражение крови"
+  },
+  {
+    "id": "VolibearPassive",
+    "champion_id": "Volibear",
+    "type": "passive",
+    "en_name": "The Relentless Storm",
+    "ru_name": "Неутихающая буря"
+  },
+  {
+    "id": "VolibearQ",
+    "champion_id": "Volibear",
+    "type": "ability",
+    "en_name": "Thundering Smash",
+    "ru_name": "Грозовой удар"
+  },
+  {
+    "id": "VolibearW",
+    "champion_id": "Volibear",
+    "type": "ability",
+    "en_name": "Frenzied Maul",
+    "ru_name": "Растерзание"
+  },
+  {
+    "id": "VolibearE",
+    "champion_id": "Volibear",
+    "type": "ability",
+    "en_name": "Sky Splitter",
+    "ru_name": "Громовержец"
+  },
+  {
+    "id": "VolibearR",
+    "champion_id": "Volibear",
+    "type": "ability",
+    "en_name": "Stormbringer",
+    "ru_name": "Вестник бури"
+  },
+  {
+    "id": "WarwickPassive",
+    "champion_id": "Warwick",
+    "type": "passive",
+    "en_name": "Eternal Hunger",
+    "ru_name": "Вечная жажда"
+  },
+  {
+    "id": "WarwickQ",
+    "champion_id": "Warwick",
+    "type": "ability",
+    "en_name": "Jaws of the Beast",
+    "ru_name": "Челюсти зверя"
+  },
+  {
+    "id": "WarwickW",
+    "champion_id": "Warwick",
+    "type": "ability",
+    "en_name": "Blood Hunt",
+    "ru_name": "Кровавая охота"
+  },
+  {
+    "id": "WarwickE",
+    "champion_id": "Warwick",
+    "type": "ability",
+    "en_name": "Primal Howl",
+    "ru_name": "Первобытный вой"
+  },
+  {
+    "id": "WarwickR",
+    "champion_id": "Warwick",
+    "type": "ability",
+    "en_name": "Infinite Duress",
+    "ru_name": "Бесконечная жестокость"
+  },
+  {
+    "id": "XayahPassive",
+    "champion_id": "Xayah",
+    "type": "passive",
+    "en_name": "Clean Cuts",
+    "ru_name": "Чистые порезы"
+  },
+  {
+    "id": "XayahQ",
+    "champion_id": "Xayah",
+    "type": "ability",
+    "en_name": "Double Daggers",
+    "ru_name": "Парные кинжалы"
+  },
+  {
+    "id": "XayahW",
+    "champion_id": "Xayah",
+    "type": "ability",
+    "en_name": "Deadly Plumage",
+    "ru_name": "Смертоносные перья"
+  },
+  {
+    "id": "XayahE",
+    "champion_id": "Xayah",
+    "type": "ability",
+    "en_name": "Bladecaller",
+    "ru_name": "Зов клинков"
+  },
+  {
+    "id": "XayahR",
+    "champion_id": "Xayah",
+    "type": "ability",
+    "en_name": "Featherstorm",
+    "ru_name": "Перьевая буря"
+  },
+  {
+    "id": "XerathPassive",
+    "champion_id": "Xerath",
+    "type": "passive",
+    "en_name": "Mana Surge",
+    "ru_name": "Всплеск маны"
+  },
+  {
+    "id": "XerathArcanopulseChargeUp",
+    "champion_id": "Xerath",
+    "type": "ability",
+    "en_name": "Arcanopulse",
+    "ru_name": "Магический разряд"
+  },
+  {
+    "id": "XerathArcaneBarrage2",
+    "champion_id": "Xerath",
+    "type": "ability",
+    "en_name": "Eye of Destruction",
+    "ru_name": "Око разрушения"
+  },
+  {
+    "id": "XerathMageSpear",
+    "champion_id": "Xerath",
+    "type": "ability",
+    "en_name": "Shocking Orb",
+    "ru_name": "Поражающая сфера"
+  },
+  {
+    "id": "XerathLocusOfPower2",
+    "champion_id": "Xerath",
+    "type": "ability",
+    "en_name": "Rite of the Arcane",
+    "ru_name": "Мистический ритуал"
+  },
+  {
+    "id": "XinZhaoPassive",
+    "champion_id": "XinZhao",
+    "type": "passive",
+    "en_name": "Determination",
+    "ru_name": "Решительность"
+  },
+  {
+    "id": "XinZhaoQ",
+    "champion_id": "XinZhao",
+    "type": "ability",
+    "en_name": "Three Talon Strike",
+    "ru_name": "Удар трех когтей"
+  },
+  {
+    "id": "XinZhaoW",
+    "champion_id": "XinZhao",
+    "type": "ability",
+    "en_name": "Wind Becomes Lightning",
+    "ru_name": "Ветер и молния"
+  },
+  {
+    "id": "XinZhaoE",
+    "champion_id": "XinZhao",
+    "type": "ability",
+    "en_name": "Audacious Charge",
+    "ru_name": "Смелый рывок"
+  },
+  {
+    "id": "XinZhaoR",
+    "champion_id": "XinZhao",
+    "type": "ability",
+    "en_name": "Crescent Guard",
+    "ru_name": "Броня полумесяца"
+  },
+  {
+    "id": "YasuoPassive",
+    "champion_id": "Yasuo",
+    "type": "passive",
+    "en_name": "Way of the Wanderer",
+    "ru_name": "Путь скитальца"
+  },
+  {
+    "id": "YasuoQ1Wrapper",
+    "champion_id": "Yasuo",
+    "type": "ability",
+    "en_name": "Steel Tempest",
+    "ru_name": "Стальная буря"
+  },
+  {
+    "id": "YasuoW",
+    "champion_id": "Yasuo",
+    "type": "ability",
+    "en_name": "Wind Wall",
+    "ru_name": "Стена ветра"
+  },
+  {
+    "id": "YasuoE",
+    "champion_id": "Yasuo",
+    "type": "ability",
+    "en_name": "Sweeping Blade",
+    "ru_name": "Стремительный клинок"
+  },
+  {
+    "id": "YasuoR",
+    "champion_id": "Yasuo",
+    "type": "ability",
+    "en_name": "Last Breath",
+    "ru_name": "Последний вздох"
+  },
+  {
+    "id": "YonePassive",
+    "champion_id": "Yone",
+    "type": "passive",
+    "en_name": "Way of the Hunter",
+    "ru_name": "Путь охотника"
+  },
+  {
+    "id": "YoneQ",
+    "champion_id": "Yone",
+    "type": "ability",
+    "en_name": "Mortal Steel",
+    "ru_name": "Сталь смертного"
+  },
+  {
+    "id": "YoneW",
+    "champion_id": "Yone",
+    "type": "ability",
+    "en_name": "Spirit Cleave",
+    "ru_name": "Рассечение духа"
+  },
+  {
+    "id": "YoneE",
+    "champion_id": "Yone",
+    "type": "ability",
+    "en_name": "Soul Unbound",
+    "ru_name": "Освобожденная душа"
+  },
+  {
+    "id": "YoneR",
+    "champion_id": "Yone",
+    "type": "ability",
+    "en_name": "Fate Sealed",
+    "ru_name": "Решение судьбы"
+  },
+  {
+    "id": "YorickPassive",
+    "champion_id": "Yorick",
+    "type": "passive",
+    "en_name": "Shepherd of Souls",
+    "ru_name": "Пастух душ"
+  },
+  {
+    "id": "YorickQ",
+    "champion_id": "Yorick",
+    "type": "ability",
+    "en_name": "Last Rites",
+    "ru_name": "Последний ритуал"
+  },
+  {
+    "id": "YorickW",
+    "champion_id": "Yorick",
+    "type": "ability",
+    "en_name": "Dark Procession",
+    "ru_name": "Темная процессия"
+  },
+  {
+    "id": "YorickE",
+    "champion_id": "Yorick",
+    "type": "ability",
+    "en_name": "Mourning Mist",
+    "ru_name": "Траурный туман"
+  },
+  {
+    "id": "YorickR",
+    "champion_id": "Yorick",
+    "type": "ability",
+    "en_name": "Eulogy of the Isles",
+    "ru_name": "Панегирик островам"
+  },
+  {
+    "id": "YunaraPassive",
+    "champion_id": "Yunara",
+    "type": "passive",
+    "en_name": "Vow of the First Lands",
+    "ru_name": "Клятва Исконной земле"
+  },
+  {
+    "id": "YunaraQ",
+    "champion_id": "Yunara",
+    "type": "ability",
+    "en_name": "Cultivation of Spirit",
+    "ru_name": "Выращивание духа"
+  },
+  {
+    "id": "YunaraW",
+    "champion_id": "Yunara",
+    "type": "ability",
+    "en_name": "Arc of Judgment | Arc of Ruin",
+    "ru_name": "Дуга правосудия | Дуга погибели"
+  },
+  {
+    "id": "YunaraE",
+    "champion_id": "Yunara",
+    "type": "ability",
+    "en_name": "Kanmei's Steps | Untouchable Shadow",
+    "ru_name": "Шаги канмея | Неприкасаемые тени"
+  },
+  {
+    "id": "YunaraR",
+    "champion_id": "Yunara",
+    "type": "ability",
+    "en_name": "Transcend One's Self",
+    "ru_name": "Просветление собственного ''я''"
+  },
+  {
+    "id": "YuumiPassive",
+    "champion_id": "Yuumi",
+    "type": "passive",
+    "en_name": "Feline Friendship",
+    "ru_name": "Кошачья дружба"
+  },
+  {
+    "id": "YuumiQ",
+    "champion_id": "Yuumi",
+    "type": "ability",
+    "en_name": "Prowling Projectile",
+    "ru_name": "Кошки-мышки"
+  },
+  {
+    "id": "YuumiW",
+    "champion_id": "Yuumi",
+    "type": "ability",
+    "en_name": "You and Me!",
+    "ru_name": "Ты и я!"
+  },
+  {
+    "id": "YuumiE",
+    "champion_id": "Yuumi",
+    "type": "ability",
+    "en_name": "Zoomies",
+    "ru_name": "Догонялки"
+  },
+  {
+    "id": "YuumiR",
+    "champion_id": "Yuumi",
+    "type": "ability",
+    "en_name": "Final Chapter",
+    "ru_name": "Последняя глава"
+  },
+  {
+    "id": "ZaahenPassive",
+    "champion_id": "Zaahen",
+    "type": "passive",
+    "en_name": "Cultivation of War",
+    "ru_name": "Закалка воинственности"
+  },
+  {
+    "id": "ZaahenQ",
+    "champion_id": "Zaahen",
+    "type": "ability",
+    "en_name": "The Darkin Glaive",
+    "ru_name": "Глефа даркинов"
+  },
+  {
+    "id": "ZaahenW",
+    "champion_id": "Zaahen",
+    "type": "ability",
+    "en_name": "Dreaded Return",
+    "ru_name": "Ужасающее возвращение"
+  },
+  {
+    "id": "ZaahenE",
+    "champion_id": "Zaahen",
+    "type": "ability",
+    "en_name": "Aureate Rush",
+    "ru_name": "Блестящий наскок"
+  },
+  {
+    "id": "ZaahenR",
+    "champion_id": "Zaahen",
+    "type": "ability",
+    "en_name": "Grim Deliverance",
+    "ru_name": "Свирепое избавление"
+  },
+  {
+    "id": "ZacPassive",
+    "champion_id": "Zac",
+    "type": "passive",
+    "en_name": "Cell Division",
+    "ru_name": "Цитокинез"
+  },
+  {
+    "id": "ZacQ",
+    "champion_id": "Zac",
+    "type": "ability",
+    "en_name": "Stretching Strikes",
+    "ru_name": "Резиновые удары"
+  },
+  {
+    "id": "ZacW",
+    "champion_id": "Zac",
+    "type": "ability",
+    "en_name": "Unstable Matter",
+    "ru_name": "Нестабильная материя"
+  },
+  {
+    "id": "ZacE",
+    "champion_id": "Zac",
+    "type": "ability",
+    "en_name": "Elastic Slingshot",
+    "ru_name": "Эластичная рогатка"
+  },
+  {
+    "id": "ZacR",
+    "champion_id": "Zac",
+    "type": "ability",
+    "en_name": "Let's Bounce!",
+    "ru_name": "Попрыгаем!"
+  },
+  {
+    "id": "ZedPassive",
+    "champion_id": "Zed",
+    "type": "passive",
+    "en_name": "Contempt for the Weak",
+    "ru_name": "Презрение к слабости"
+  },
+  {
+    "id": "ZedQ",
+    "champion_id": "Zed",
+    "type": "ability",
+    "en_name": "Razor Shuriken",
+    "ru_name": "Бросок сюрикена"
+  },
+  {
+    "id": "ZedW",
+    "champion_id": "Zed",
+    "type": "ability",
+    "en_name": "Living Shadow",
+    "ru_name": "Живая тень"
+  },
+  {
+    "id": "ZedE",
+    "champion_id": "Zed",
+    "type": "ability",
+    "en_name": "Shadow Slash",
+    "ru_name": "Теневой разрез"
+  },
+  {
+    "id": "ZedR",
+    "champion_id": "Zed",
+    "type": "ability",
+    "en_name": "Death Mark",
+    "ru_name": "Клеймо смерти"
+  },
+  {
+    "id": "ZeriPassive",
+    "champion_id": "Zeri",
+    "type": "passive",
+    "en_name": "Living Battery",
+    "ru_name": "Ходячая батарейка"
+  },
+  {
+    "id": "ZeriQ",
+    "champion_id": "Zeri",
+    "type": "ability",
+    "en_name": "Burst Fire",
+    "ru_name": "Стрельба очередью"
+  },
+  {
+    "id": "ZeriW",
+    "champion_id": "Zeri",
+    "type": "ability",
+    "en_name": "Ultrashock Laser",
+    "ru_name": "Импульсный разряд"
+  },
+  {
+    "id": "ZeriE",
+    "champion_id": "Zeri",
+    "type": "ability",
+    "en_name": "Spark Surge",
+    "ru_name": "Шальная искра"
+  },
+  {
+    "id": "ZeriR",
+    "champion_id": "Zeri",
+    "type": "ability",
+    "en_name": "Lightning Crash",
+    "ru_name": "Короткое замыкание"
+  },
+  {
+    "id": "ZiggsPassive",
+    "champion_id": "Ziggs",
+    "type": "passive",
+    "en_name": "Short Fuse",
+    "ru_name": "Вспыльчивость"
+  },
+  {
+    "id": "ZiggsQ",
+    "champion_id": "Ziggs",
+    "type": "ability",
+    "en_name": "Bouncing Bomb",
+    "ru_name": "Прыгающая бомба"
+  },
+  {
+    "id": "ZiggsW",
+    "champion_id": "Ziggs",
+    "type": "ability",
+    "en_name": "Satchel Charge",
+    "ru_name": "Взрывпакет"
+  },
+  {
+    "id": "ZiggsE",
+    "champion_id": "Ziggs",
+    "type": "ability",
+    "en_name": "Hexplosive Minefield",
+    "ru_name": "Минное поле"
+  },
+  {
+    "id": "ZiggsR",
+    "champion_id": "Ziggs",
+    "type": "ability",
+    "en_name": "Mega Inferno Bomb",
+    "ru_name": "Страшно большая бомба"
+  },
+  {
+    "id": "ZileanPassive",
+    "champion_id": "Zilean",
+    "type": "passive",
+    "en_name": "Time In A Bottle",
+    "ru_name": "Время в бутылке"
+  },
+  {
+    "id": "ZileanQ",
+    "champion_id": "Zilean",
+    "type": "ability",
+    "en_name": "Time Bomb",
+    "ru_name": "Бомба замедленного действия"
+  },
+  {
+    "id": "ZileanW",
+    "champion_id": "Zilean",
+    "type": "ability",
+    "en_name": "Rewind",
+    "ru_name": "Перемотка"
+  },
+  {
+    "id": "TimeWarp",
+    "champion_id": "Zilean",
+    "type": "ability",
+    "en_name": "Time Warp",
+    "ru_name": "Искривление времени"
+  },
+  {
+    "id": "ChronoShift",
+    "champion_id": "Zilean",
+    "type": "ability",
+    "en_name": "Chronoshift",
+    "ru_name": "Временной сдвиг"
+  },
+  {
+    "id": "ZoePassive",
+    "champion_id": "Zoe",
+    "type": "passive",
+    "en_name": "More Sparkles!",
+    "ru_name": "Искорки!"
+  },
+  {
+    "id": "ZoeQ",
+    "champion_id": "Zoe",
+    "type": "ability",
+    "en_name": "Paddle Star!",
+    "ru_name": "Лови звезду"
+  },
+  {
+    "id": "ZoeW",
+    "champion_id": "Zoe",
+    "type": "ability",
+    "en_name": "Spell Thief",
+    "ru_name": "Маленькая хитрюга"
+  },
+  {
+    "id": "ZoeE",
+    "champion_id": "Zoe",
+    "type": "ability",
+    "en_name": "Sleepy Trouble Bubble",
+    "ru_name": "Тихий час"
+  },
+  {
+    "id": "ZoeR",
+    "champion_id": "Zoe",
+    "type": "ability",
+    "en_name": "Portal Jump",
+    "ru_name": "Прыг-скок"
+  },
+  {
+    "id": "ZyraPassive",
+    "champion_id": "Zyra",
+    "type": "passive",
+    "en_name": "Garden of Thorns",
+    "ru_name": "Терновый сад"
+  },
+  {
+    "id": "ZyraQ",
+    "champion_id": "Zyra",
+    "type": "ability",
+    "en_name": "Deadly Spines",
+    "ru_name": "Смертоносные колючки"
+  },
+  {
+    "id": "ZyraW",
+    "champion_id": "Zyra",
+    "type": "ability",
+    "en_name": "Rampant Growth",
+    "ru_name": "Безудержный рост"
+  },
+  {
+    "id": "ZyraE",
+    "champion_id": "Zyra",
+    "type": "ability",
+    "en_name": "Grasping Roots",
+    "ru_name": "Цепкие корни"
+  },
+  {
+    "id": "ZyraR",
+    "champion_id": "Zyra",
+    "type": "ability",
+    "en_name": "Stranglethorns",
+    "ru_name": "Душащие терния"
+  }
+]

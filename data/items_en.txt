@@ -1,0 +1,410 @@
+Boots
+Faerie Charm
+Rejuvenation Bead
+Giant's Belt
+Cloak of Agility
+Blasting Wand
+Sapphire Crystal
+Ruby Crystal
+Cloth Armor
+Chain Vest
+Null-Magic Mantle
+Emberknife
+Long Sword
+Pickaxe
+B. F. Sword
+Hailblade
+Obsidian Edge
+Dagger
+Recurve Bow
+Amplifying Tome
+Vampiric Scepter
+Doran's Shield
+Doran's Blade
+Doran's Ring
+Negatron Cloak
+Needlessly Large Rod
+Dark Seal
+Cull
+Doran's Bow
+Quest: Top
+Quest: Mid
+Quest: Bot
+Quest: Support
+Quest: Jungle
+Scorchclaw Pup
+Gustwalker Hatchling
+Mosstomper Seedling
+Eye of the Herald
+Jarvan I's
+Doran's Helm
+Top Lane Quest
+Mid Lane Quest
+Bot Lane Quest
+Support Quest
+Jungle Quest
+Jungle Quest Reward
+Mid Lane Quest Reward
+Bot Lane Quest Reward
+Support Quest Reward
+Unleashed Teleport (Top Lane Quest Reward)
+Top Lane Quest Reward
+Penetrating Bullets
+Fortification
+Reinforced Armor
+Warden's Eye
+Vanguard
+Overcharged
+Anti-tower Socks
+Gusto
+Phreakish Gusto
+Super Mech Armor
+Super Mech Power Field
+Turret Plating
+Structure Bounty
+OvererchargedHA
+Tower Power-Up
+Overgrowth
+Recall
+Enhanced Recall
+Health Potion
+Disabled Recall
+Total Biscuit of Everlasting Will
+Kircheis Shard
+Steel Sigil
+The Brutalizer
+Tunneler
+Glowing Mote
+Refillable Potion
+Corrupting Potion
+Guardian's Amulet
+Guardian's Shroud
+Guardian's Horn
+Poro-Snax
+Control Ward
+Stealth Ward
+Shurelya's Battlesong
+Elixir of Iron
+Elixir of Sorcery
+Elixir of Wrath
+Cappa Juice
+Juice of Power
+Juice of Vitality
+Juice of Haste
+Lucky Dice
+Enhanced Lucky Dice
+Augment Level
+Elixir of Skill
+Elixir of Avarice
+Elixir of Force
+Bandle Juice of Power
+Bandle Juice of Vitality
+Bandle Juice of Haste
+Minion Dematerializer
+Seeker's Armguard
+Shattered Armguard
+Slightly Magical Footwear
+Overlord's Bloodmail
+Unending Despair
+Blackfire Torch
+Kaenic Rookern
+Fated Ashes
+Dusk and Dawn
+Fiendhunter Bolts
+Endless Hunger
+Bastionbreaker
+Actualizer
+Hexoptics C44
+Bandlepipes
+Protoplasm Harness
+Whispering Circlet
+Diadem of Songs
+Evenshroud
+Trailblazer
+Archangel's Staff
+Manamune
+Ghostcrawlers
+Berserker's Greaves
+Gluttonous Greaves
+Boots of Swiftness
+Symbiotic Soles
+Chemtech Putrifier
+Chalice of Blessing
+Synchronized Souls
+Sorcerer's Shoes
+Lifewell Pendant
+Glacial Buckler
+Guardian Angel
+Infinity Edge
+Yun Tal Wildarrows
+Mortal Reminder
+Last Whisper
+Lord Dominik's Regards
+Atma's Reckoning
+Seraph's Embrace
+Mejai's Soulstealer
+Muramana
+Phage
+Phantom Dancer
+Plated Steelcaps
+Zeke's Convergence
+Hearthbound Axe
+Sterak's Gage
+Sheen
+Spirit Visage
+Winged Moonplate
+Kindlegem
+Sunfire Aegis
+Tear of the Goddess
+Black Cleaver
+Bloodthirster
+Experimental Hexplate
+Ravenous Hydra
+Thornmail
+Bramble Vest
+Tiamat
+Trinity Force
+Warden's Mail
+Warmog's Armor
+Heartsteel
+Runaan's Hurricane
+Zeal
+Statikk Shiv
+Rabadon's Deathcap
+Wit's End
+Rapid Firecannon
+Deprecated item
+Stormrazor
+Lich Bane
+Banshee's Veil
+Aegis of the Legion
+Redemption
+Fiendish Codex
+Knight's Vow
+Frozen Heart
+Mercury's Treads
+Guardian's Orb
+Aether Wisp
+Forbidden Idol
+Nashor's Tooth
+Rylai's Crystal Scepter
+Mobility Boots
+Malignance
+Winter's Approach
+Fimbulwinter
+Executioner's Calling
+Guinsoo's Rageblade
+Deathfire Grasp
+Sword of the Divine
+Caulfield's Warhammer
+Serrated Dirk
+Void Staff
+Cryptbloom
+Mercurial Scimitar
+Quicksilver Sash
+Youmuu's Ghostblade
+Randuin's Omen
+Scout's Slingshot
+Hextech Alternator
+Hextech Gunblade
+Haunting Guise
+Hextech Rocketbelt
+Blade of The Ruined King
+Hexdrinker
+Maw of Malmortius
+Zhonya's Hourglass
+Ionian Boots of Lucidity
+Spear of Shojin
+Morellonomicon
+Immortal Path
+Swiftmarch
+Crimson Lucidity
+Gunmetal Greaves
+Chainlaced Crushers
+Armored Advance
+Spellslinger's Shoes
+Forever Forward
+Guardian's Blade
+Umbral Glaive
+Hullbreaker
+Guardian's Hammer
+Locket of the Iron Solari
+Gargoyle Stoneplate
+Spectre's Cowl
+Mikael's Blessing
+Terminus
+Scarecrow Effigy
+Arcane Sweeper
+Lucent Singularity
+Farsight Alteration
+Oracle Lens
+Small Party Favor
+Party Favor
+Your Cut
+Rite Of Ruin
+Ardent Censer
+Essence Reaver
+Kalista's Black Spear
+Dead Man's Plate
+Titanic Hydra
+Crystalline Bracer
+Lost Chapter
+Catalyst of Aeons
+Edge of Night
+Spellthief's Edge
+Frostfang
+Shard of True Ice
+Steel Shoulderguards
+Runesteel Spaulders
+Pauldrons of Whiterock
+Relic Shield
+Targon's Buckler
+Bulwark of the Mountain
+Spectral Sickle
+Harrowing Crescent
+Black Mist Scythe
+World Atlas
+Runic Compass
+Bounty of Worlds
+Celestial Opposition
+Dream Maker
+Zaz'Zak's Realmspike
+Solstice Sleigh
+Bloodsong
+Fire at Will 500 Silver Serpents
+Death's Daughter 500 Silver Serpents
+Raise Morale 500 Silver Serpents
+Oblivion Orb
+Lifeline
+Spectral Cutlass
+Imperial Mandate
+Bloodletter's Curse
+Sword of Blossoming Dawn
+Sin Eater
+Lightning Braid
+Frozen Mallet
+Perplexity
+Wordless Promise
+Hellfire Hatchet
+Force of Nature
+Innervating Locket
+The Golden Spatula
+Horizon Focus
+Cosmic Drive
+Blighting Jewel
+Verdant Barrier
+Riftmaker
+Leeching Leer
+Night Harvester
+Demonic Embrace
+Watchful Wardstone
+Stirring Wardstone
+Bandleglass Mirror
+Vigilant Wardstone
+Crown of the Shattered Queen
+Shadowflame
+Stormsurge
+Ironspike Whip
+Stat Bonus
+Silvermere Dawn
+Death's Dance
+Chempunk Chainsword
+Sundered Sky
+Staff of Flowing Water
+Moonstone Renewer
+Echoes of Helia
+Dawncore
+Goredrinker
+Stridebreaker
+Divine Sunderer
+Liandry's Torment
+Luden's Echo
+Everfrost
+Rod of Ages
+Bami's Cinder
+Iceborn Gauntlet
+Hollow Radiance
+Jak'Sho, The Protean
+Radiant Virtue
+Noonquiver
+Galeforce
+Kraken Slayer
+Immortal Shieldbow
+Navori Flickerblade
+The Collector
+Rageknife
+Rectrix
+Duskblade of Draktharr
+Eclipse
+Prowler's Claw
+Serylda's Grudge
+Serpent's Fang
+Axiom Arc
+Hubris
+Profane Hydra
+Voltaic Cyclosword
+Shield of the Rakkor
+Opportunity
+Scouting Ahead
+Gangplank Placeholder
+Anathema's Chains
+Abyssal Mask
+Locked Weapon Slot
+Cyclonic Slicers
+YuumiBot
+Radiant Field
+Statikk Sword
+Lioness's Lament
+Gatling Bunny-Guns
+Searing Shortbow
+The Annihilator
+Battle Bunny Crossbow
+UwU Blaster
+Vortex Glove
+Blade-o-rang
+Bunny Mega-Blast
+Anti-Shark Sea Mine
+T.I.B.B.E.R.S
+Ani-Mines
+Final City Transit
+Echoing Batblades
+Paw Print Poisoner
+Iceblast Armor
+Unceasing Cyclone
+YuumiBot_Final_FINAL
+Explosive Embrace
+Prumbis's Electrocarver
+Enveloping Light
+Double Bun-Bun Barrage
+Evolved Embershot
+Animapocalypse
+Bunny Prime Ballista
+OwO Blaster
+Tempest's Gauntlet
+Quad-o-rang
+Rapid Rabbit Raindown
+Neverending Mobstomper
+T.I.B.B.E.R.S (B.E.E.G Edition)
+Jinx's Tri-Namite
+FC Limited Express
+Vayne's Chromablades
+Bearfoot Chem-Dispenser
+Deep Freeze
+Meow Meow
+Shield Slam
+Sound Wave
+Pillory Swipe
+Steel Tempest
+Tentacle Slam
+Winged Dagger
+Guiding Hex
+Bunny Hop
+Battle Cat Barrage
+Light of the Lion
+Anima Echo
+Savage Slice
+Wandering Storms
+Grizzly Smash
+Lover's Ricochet
+Hopped-Up Hex
+Carrot Crash
